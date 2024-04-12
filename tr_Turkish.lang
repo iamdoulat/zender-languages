@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Otomatik yanıtı tetiklemek iç
 table_toolsautoreply_account38 === Hesap: _8880_
 table_toolsautoreply_device38 === Cihaz: _8880_
 forms_whatsapp_mediafilehelp38 === Medya dosyası, yüklenecek medya dosyası. .jpg, .png, .gif, .mp4, .mp3 ve .ogg dosyalarını destekler.
+response_notify_smsreceivedmessage === İleti
+response_waquick_waaccountnotconn === WhatsApp hesabı bağlı değil!
+admin_table_waserverpackagesempty === Paketler mevcut değil!
+admin_table_waserverstatustext === Durum:
+admin_table_waserverconnectedtext === Bağlı:
+admin_table_waservermaxtext === Maksimum Hesaplar:
+admin_table_waserverpackagestext === İzin Verilen Paketler:
+ratesgateway_options_viewratesbtn === Fiyatları Görüntüle
+ratesgateway_options_viewratestitle === Bu ağ geçidinin ücretlerini görüntüle
+ratesgateway_options_tablecrtdate === Oluşturulma Tarihi
+ratesgateway_options_tablegatewayid === Ağ Geçidi Kimliği
+ratesgateway_options_tablegatewayname === Ağ Geçidi Adı
+ratesgateway_options_tableoptions === Seçenekler
+dashboard_overall_overview === Genel Bakış
+dashboard_overview_gatewaysbtn === Ağ geçitleri
+dashboard_overview_user_totalsent === Toplam Gönderilen
+dashboard_overview_user_totalreceived === Toplam Alınan
+dashboard_overview_user_topuploader === İstek işleniyor
+sms_btnevent_formcontent_btntranslate === Çevirmek
+form_adddevice_showqrbtn === QR'yi göster
+dashboard_sidebarblk_overview === Genel Bakış
+dashboard_sidebarblk_hosts === Toplantı sahipleri
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === Naber
+dashboard_sidebarblk_waservers === WA Sunucuları
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Ziyaretçilere Göre İlk 5 Ülke
+dashboard_adminoverview_browsers === Tarayıcıya Göre Ziyaretçiler
+dashboard_adminoverview_os === İşletim sistemine göre ziyaretçiler
+dashboard_userhosts_hostbreadcrumb === Toplantı sahipleri
+dashboard_authenticate_loginpagetagline === Kontrol Paneline Erişmek için Giriş Yapın
+dashboard_authenticate_regpagetagline === Kontrol Paneline Erişmek İçin Kaydolun
+dashboard_authenticate_forgotpagetagline === Unutulan Şifrenizi Geri Alın
+dashboard_authenticate_loginpagedonthave === Henüz bir hesabınız yok mu?
+dashboard_authenticate_regpagehave === Zaten hesabınız var mı?
+dashboard_admin_waserverstitle === WA Sunucuları
+dashboard_admin_waserversbtn_addserver === Sunucu ekle
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === İsim
+form_waserver_addeditserver_nametagline === Bu WhatsApp sunucusu için benzersiz bir ad.
+form_waserver_addeditserver_accounts === Hesaplar
+form_waserver_addeditserver_accountstagline === Bağlanmasına izin verilen maksimum hesap sayısı.
+form_waserver_addeditserver_packages === Paketler
+form_waserver_addeditserver_packagestagline === Bu WhatsApp sunucusunu kullanmasına izin verilen paketleri seçin.
+form_waserver_addeditserver_serverurl === Sunucu URL'si
+form_waserver_addeditserver_serverport === Sunucu portu
+datatable_length_v38 === _MENU_ girişi göster
+datatable_info_v38 === _TOTAL_'ün _START_ ila _END_'ü
+datatable_empty_v38 === Hiçbir girdi bulunamadı
+datatable_filtered_v38 === (_MAX_ toplam)
+requests_waserver_selectatleastonepack === Lütfen en az 1 paket seçin!
+requests_waserver_updatedsuccess === WhatsApp sunucusu güncellendi!
+requests_waserver_addedsuccess === WhatsApp sunucusu eklendi!
+requests_waserver_deletedsuccess === WhatsApp sunucusu silindi!
+widget_waserver_addwatitle === WhatsApp Sunucusu Ekle
+widget_waserver_addwatitleloader === WhatsApp Sunucusu Ekleme
+widget_waserver_editwatitle === WhatsApp Sunucusunu Düzenle
+widget_waserver_editwatitleloader === WhatsApp Sunucusunu Düzenleme
+widget_waserver_fieldmaxacc === Maksimum Hesaplar
+widget_waserver_fieldurl === URL'si
+widget_waserver_fieldport === Liman
+widget_waserver_fieldsecret === Gizli
+widget_waserver_setupwatitle === WhatsApp Sunucusunu Kur
+form_waserver_secretkey === Gizli anahtar
+form_waserver_secretkeydesc === Güvenli bir gizli anahtar oluşturun. Bu, WhatsApp sunucusu tarafından Zender ile eş bağlantıyı doğrulamak için kullanılacaktır. Lütfen özel karakterler kullanmayınız!
+table_waservers_optionssetupbtn === Kurmak
+table_androidver_14 === Android14
+table_waservers_dtcreated === Oluşturuldu
+table_waservers_dtname === İsim
+table_waservers_dturl === URL'si
+table_waservers_dtport === Liman
+table_waservers_dtdetails === Detaylar
+table_waservers_dtops === Seçenekler
+page_socialerror_autherrortitle === Doğrulama hatası
+page_socialerror_authwentwrong === Kimlik doğrulama sürecinde bir şeyler ters gitti. Lütfen tekrar deneyin!
+page_socialerror_authsuspended === Üzgünüm! Şüpheli etkinlik nedeniyle hesabınızı askıya aldık.
+page_socialerror_authemailnotfound === _8880_ hesabınızda geçerli bir e-posta adresi bulunmalıdır!
+page_socialerror_authreturn === Girişe Geri Dön
+page_socialerror_authuhoh === Ah ah!
+widget_setupcronjobs_title === Cronjobs'u kurun
+admin_btncron_tooltip === Cron Kurulumu
+admin_btncron_btn === Cron
+waexport_loader_exporting === Grup Kişilerini Dışa Aktarma
+table_wagroups_exportcontactstooltip === Kişileri Dışa Aktar
+response_waexport_unablefetchcontacts === Grup kişileri alınamıyor!
+response_waexport_nocontactsfound === Kişi bulunamadı!
+response_systemupdate_manualinterreq === Güncelleme manuel müdahale gerektirir. Değişiklik günlüğü sayfasına yönlendiriliyorsunuz..
+apexcharts_locale_monthjanuary === Ocak
+apexcharts_locale_monthfebruary === Şubat
+apexcharts_locale_monthmarch === Mart
+apexcharts_locale_monthapril === Nisan
+apexcharts_locale_monthmay === Mayıs
+apexcharts_locale_monthjune === Haziran
+apexcharts_locale_monthjuly === Temmuz
+apexcharts_locale_monthaugust === Ağustos
+apexcharts_locale_monthseptember === Eylül
+apexcharts_locale_monthoctober === Ekim
+apexcharts_locale_monthnovember === Kasım
+apexcharts_locale_monthdecember === Aralık
+apexcharts_locale_monthjanshort === Oca
+apexcharts_locale_monthfebshort === Şub
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Nis
+apexcharts_locale_monthmayshort === May
+apexcharts_locale_monthjunshort === Haz
+apexcharts_locale_monthjulshort === Tem
+apexcharts_locale_monthaugshort === Ağu
+apexcharts_locale_monthsepshort === Eyl
+apexcharts_locale_monthoctshort === Eki
+apexcharts_locale_monthnovshort === Kas
+apexcharts_locale_monthdecshort === Ara
+apexcharts_locale_daymonday === Pazartesi
+apexcharts_locale_daytuesday === Salı
+apexcharts_locale_daywednesday === Çarşamba
+apexcharts_locale_daythursday === Perşembe
+apexcharts_locale_dayfriday === Cuma
+apexcharts_locale_daysaturday === Cumartesi
+apexcharts_locale_daysunday === Pazar
+apexcharts_locale_daymondayshort === Paz
+apexcharts_locale_daytuesdayshort === Sal
+apexcharts_locale_daywednesdayshort === Çar
+apexcharts_locale_daythursdayshort === Per
+apexcharts_locale_dayfridayshort === Cum
+apexcharts_locale_daysaturdayshort === Cmt
+apexcharts_locale_daysundayshort === Paz
+apexcharts_locale_exportsvg === SVG İndir
+apexcharts_locale_exportpng === PNG İndir
+apexcharts_locale_menu === Menü
+apexcharts_locale_selection === Seçim
+apexcharts_locale_selectionzoom === Seçim Yakınlaştırması
+apexcharts_locale_zin === Yakınlaştır
+apexcharts_locale_zout === Uzaklaştır
+apexcharts_locale_pan === Sürükle
+apexcharts_locale_reset === Sıfırla

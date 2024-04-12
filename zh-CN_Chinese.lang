@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === 以逗号分隔的字符串或�
 table_toolsautoreply_account38 === 帐号：_8880_
 table_toolsautoreply_device38 === 设备：_8880_
 forms_whatsapp_mediafilehelp38 === 媒体文件，要上传的媒体文件。支持 .jpg、.png、.gif、.mp4、.mp3 和 .ogg 文件。
+response_notify_smsreceivedmessage === 信息
+response_waquick_waaccountnotconn === WhatsApp 帐户未连接！
+admin_table_waserverpackagesempty === 包不存在！
+admin_table_waserverstatustext === 地位：
+admin_table_waserverconnectedtext === 连接的：
+admin_table_waservermaxtext === 最大帐户数：
+admin_table_waserverpackagestext === 允许的包裹：
+ratesgateway_options_viewratesbtn === 查看价格
+ratesgateway_options_viewratestitle === 查看此网关的费率
+ratesgateway_options_tablecrtdate === 创建日期
+ratesgateway_options_tablegatewayid === 网关ID
+ratesgateway_options_tablegatewayname === 网关名称
+ratesgateway_options_tableoptions === 选项
+dashboard_overall_overview === 概述
+dashboard_overview_gatewaysbtn === 网关
+dashboard_overview_user_totalsent === 发送总数
+dashboard_overview_user_totalreceived === 收到的总数
+dashboard_overview_user_topuploader === 处理请求
+sms_btnevent_formcontent_btntranslate === 翻译
+form_adddevice_showqrbtn === 显示二维码
+dashboard_sidebarblk_overview === 概述
+dashboard_sidebarblk_hosts === 主办方
+dashboard_sidebarblk_hostsandroid === 安卓
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === 西澳服务器
+dashboard_sidebarblk_docsandroid === 安卓
+dashboard_pageheading_docsandroid === 安卓
+dashboard_adminoverview_topcountries5 === 游客最多的 5 个国家/地区
+dashboard_adminoverview_browsers === 按浏览器划分的访问者
+dashboard_adminoverview_os === 按操作系统划分的访问者
+dashboard_userhosts_hostbreadcrumb === 主办方
+dashboard_authenticate_loginpagetagline === 登录以访问仪表板
+dashboard_authenticate_regpagetagline === 注册以访问仪表板
+dashboard_authenticate_forgotpagetagline === 找回您忘记的密码
+dashboard_authenticate_loginpagedonthave === 还没有帐户？
+dashboard_authenticate_regpagehave === 已经有帐户？
+dashboard_admin_waserverstitle === 西澳服务器
+dashboard_admin_waserversbtn_addserver === 添加服务器
+dashboard_docsnew_androidtitle === 安卓
+form_waserver_addeditserver_name === 姓名
+form_waserver_addeditserver_nametagline === 此 WhatsApp 服务器的唯一名称。
+form_waserver_addeditserver_accounts === 账户
+form_waserver_addeditserver_accountstagline === 允许连接的最大帐户数。
+form_waserver_addeditserver_packages === 套餐
+form_waserver_addeditserver_packagestagline === 选择允许使用此 WhatsApp 服务器的软件包。
+form_waserver_addeditserver_serverurl === 服务器地址
+form_waserver_addeditserver_serverport === 服务器端口
+datatable_length_v38 === 显示 _MENU_ 条记录
+datatable_info_v38 === _START_ 至 _END_（共 _TOTAL_）
+datatable_empty_v38 === 没有找到条目
+datatable_filtered_v38 === (共_MAX_)
+requests_waserver_selectatleastonepack === 请至少选择1个套餐！
+requests_waserver_updatedsuccess === WhatsApp 服务器已更新！
+requests_waserver_addedsuccess === WhatsApp 服务器已添加！
+requests_waserver_deletedsuccess === WhatsApp 服务器已被删除！
+widget_waserver_addwatitle === 添加 WhatsApp 服务器
+widget_waserver_addwatitleloader === 添加 WhatsApp 服务器
+widget_waserver_editwatitle === 编辑 WhatsApp 服务器
+widget_waserver_editwatitleloader === 编辑 WhatsApp 服务器
+widget_waserver_fieldmaxacc === 最大帐户数
+widget_waserver_fieldurl === 网址
+widget_waserver_fieldport === 港口
+widget_waserver_fieldsecret === 秘密
+widget_waserver_setupwatitle === 设置 WhatsApp 服务器
+form_waserver_secretkey === 密钥
+form_waserver_secretkeydesc === 创建安全密钥。 WhatsApp 服务器将使用它来验证与 Zender 的对等连接。请不要使用特殊字符！
+table_waservers_optionssetupbtn === 设置
+table_androidver_14 === 安卓14
+table_waservers_dtcreated === 已创建
+table_waservers_dtname === 姓名
+table_waservers_dturl === 网址
+table_waservers_dtport === 港口
+table_waservers_dtdetails === 细节
+table_waservers_dtops === 选项
+page_socialerror_autherrortitle === 授权错误
+page_socialerror_authwentwrong === 身份验证过程出现问题。请再试一次！
+page_socialerror_authsuspended === 对不起！由于可疑活动，我们已暂停您的帐户。
+page_socialerror_authemailnotfound === 您的 _8880_ 帐户中必须存在有效​​的电子邮件地址！
+page_socialerror_authreturn === 返回登录
+page_socialerror_authuhoh === 呃哦！
+widget_setupcronjobs_title === 设置定时任务
+admin_btncron_tooltip === 计划任务设置
+admin_btncron_btn === 克朗
+waexport_loader_exporting === 导出群组联系人
+table_wagroups_exportcontactstooltip === 导出联系人
+response_waexport_unablefetchcontacts === 无法获取群组联系人！
+response_waexport_nocontactsfound === 没有找到联系人！
+response_systemupdate_manualinterreq === 更新需要手动干预。重定向到变更日志页面..
+apexcharts_locale_monthjanuary === 一月
+apexcharts_locale_monthfebruary === 二月
+apexcharts_locale_monthmarch === 三月
+apexcharts_locale_monthapril === 四月
+apexcharts_locale_monthmay === 五月
+apexcharts_locale_monthjune === 六月
+apexcharts_locale_monthjuly === 七月
+apexcharts_locale_monthaugust === 八月
+apexcharts_locale_monthseptember === 九月
+apexcharts_locale_monthoctober === 十月
+apexcharts_locale_monthnovember === 十一月
+apexcharts_locale_monthdecember === 十二月
+apexcharts_locale_monthjanshort === 1月
+apexcharts_locale_monthfebshort === 2月
+apexcharts_locale_monthmarshort === 3月
+apexcharts_locale_monthaprshort === 4月
+apexcharts_locale_monthmayshort === 5月
+apexcharts_locale_monthjunshort === 6月
+apexcharts_locale_monthjulshort === 7月
+apexcharts_locale_monthaugshort === 8月
+apexcharts_locale_monthsepshort === 9月
+apexcharts_locale_monthoctshort === 10月
+apexcharts_locale_monthnovshort === 11月
+apexcharts_locale_monthdecshort === 12月
+apexcharts_locale_daymonday === 星期一
+apexcharts_locale_daytuesday === 星期二
+apexcharts_locale_daywednesday === 星期三
+apexcharts_locale_daythursday === 星期四
+apexcharts_locale_dayfriday === 星期五
+apexcharts_locale_daysaturday === 星期六
+apexcharts_locale_daysunday === 星期日
+apexcharts_locale_daymondayshort === 周一
+apexcharts_locale_daytuesdayshort === 周二
+apexcharts_locale_daywednesdayshort === 周三
+apexcharts_locale_daythursdayshort === 周四
+apexcharts_locale_dayfridayshort === 周五
+apexcharts_locale_daysaturdayshort === 周六
+apexcharts_locale_daysundayshort === 周日
+apexcharts_locale_exportsvg === 下载SVG
+apexcharts_locale_exportpng === 下载PNG
+apexcharts_locale_menu === 菜单
+apexcharts_locale_selection === 选择
+apexcharts_locale_selectionzoom === 选择缩放
+apexcharts_locale_zin === 放大
+apexcharts_locale_zout === 缩小
+apexcharts_locale_pan === 平移
+apexcharts_locale_reset === 重置缩放

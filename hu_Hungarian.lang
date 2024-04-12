@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Az automatikus válasz indítás
 table_toolsautoreply_account38 === Számla: _8880_
 table_toolsautoreply_device38 === Eszköz: _8880_
 forms_whatsapp_mediafilehelp38 === Médiafájl, a feltöltendő médiafájl. Támogatja a .jpg, .png, .gif, .mp4, .mp3 és .ogg fájlokat.
+response_notify_smsreceivedmessage === üzenet
+response_waquick_waaccountnotconn === WhatsApp fiók nincs csatlakoztatva!
+admin_table_waserverpackagesempty === Csomagok nem léteznek!
+admin_table_waserverstatustext === Állapot:
+admin_table_waserverconnectedtext === Csatlakoztatva:
+admin_table_waservermaxtext === Max fiókok:
+admin_table_waserverpackagestext === Engedélyezett csomagok:
+ratesgateway_options_viewratesbtn === Árak megtekintése
+ratesgateway_options_viewratestitle === Tekintse meg az átjáró díjait
+ratesgateway_options_tablecrtdate === Létrehozás dátuma
+ratesgateway_options_tablegatewayid === Átjáróazonosító
+ratesgateway_options_tablegatewayname === Átjáró neve
+ratesgateway_options_tableoptions === Lehetőségek
+dashboard_overall_overview === Áttekintés
+dashboard_overview_gatewaysbtn === Átjárók
+dashboard_overview_user_totalsent === Összesen elküldve
+dashboard_overview_user_totalreceived === Összes beérkezett
+dashboard_overview_user_topuploader === Kérelem feldolgozása
+sms_btnevent_formcontent_btntranslate === fordít
+form_adddevice_showqrbtn === QR-kód megjelenítése
+dashboard_sidebarblk_overview === Áttekintés
+dashboard_sidebarblk_hosts === Otthont ad
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === WA szerverek
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Az 5 legnépszerűbb ország a látogatók szerint
+dashboard_adminoverview_browsers === Látogatók böngésző által
+dashboard_adminoverview_os === Látogatók operációs rendszer szerint
+dashboard_userhosts_hostbreadcrumb === Otthont ad
+dashboard_authenticate_loginpagetagline === Jelentkezzen be az irányítópult eléréséhez
+dashboard_authenticate_regpagetagline === Regisztráljon az irányítópult eléréséhez
+dashboard_authenticate_forgotpagetagline === Elfelejtett jelszó visszakeresése
+dashboard_authenticate_loginpagedonthave === Még nincs fiókod?
+dashboard_authenticate_regpagehave === Már van fiókja?
+dashboard_admin_waserverstitle === WA szerverek
+dashboard_admin_waserversbtn_addserver === Szerver hozzáadása
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Név
+form_waserver_addeditserver_nametagline === Egyedi név ennek a WhatsApp-kiszolgálónak.
+form_waserver_addeditserver_accounts === Fiókok
+form_waserver_addeditserver_accountstagline === Az összekapcsolható fiókok maximális száma.
+form_waserver_addeditserver_packages === Csomagok
+form_waserver_addeditserver_packagestagline === Válassza ki azokat a csomagokat, amelyek számára engedélyezett ez a WhatsApp-kiszolgáló.
+form_waserver_addeditserver_serverurl === Szerver URL
+form_waserver_addeditserver_serverport === Szerver port
+datatable_length_v38 === Mutass _MENU_ bejegyzést
+datatable_info_v38 === _START_-_END_/_TOTAL_
+datatable_empty_v38 === Nem található bejegyzés
+datatable_filtered_v38 === (összesen _MAX_)
+requests_waserver_selectatleastonepack === Kérjük, válasszon legalább 1 csomagot!
+requests_waserver_updatedsuccess === A WhatsApp szerver frissült!
+requests_waserver_addedsuccess === WhatsApp szerver hozzáadva!
+requests_waserver_deletedsuccess === A WhatsApp szerver törölve lett!
+widget_waserver_addwatitle === Add hozzá a WhatsApp szervert
+widget_waserver_addwatitleloader === WhatsApp szerver hozzáadása
+widget_waserver_editwatitle === Szerkessze a WhatsApp szervert
+widget_waserver_editwatitleloader === WhatsApp Server szerkesztése
+widget_waserver_fieldmaxacc === Max fiókok
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Kikötő
+widget_waserver_fieldsecret === Titok
+widget_waserver_setupwatitle === A WhatsApp szerver beállítása
+form_waserver_secretkey === Titkos kulcs
+form_waserver_secretkeydesc === Hozzon létre egy biztonságos titkos kulcsot. Ezt fogja használni a WhatsApp szerver a Zenderrel való peer kapcsolat ellenőrzésére. Kérjük, ne használjon speciális karaktereket!
+table_waservers_optionssetupbtn === Beállít
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Létrehozva
+table_waservers_dtname === Név
+table_waservers_dturl === URL
+table_waservers_dtport === Kikötő
+table_waservers_dtdetails === Részletek
+table_waservers_dtops === Lehetőségek
+page_socialerror_autherrortitle === Hitelesítési hiba
+page_socialerror_authwentwrong === Valami hiba történt a hitelesítési folyamatban. Kérlek próbáld újra!
+page_socialerror_authsuspended === Sajnálom! Gyanús tevékenység miatt felfüggesztettük fiókját.
+page_socialerror_authemailnotfound === Egy érvényes e-mail címnek szerepelnie kell a _8880_ fiókjában!
+page_socialerror_authreturn === Vissza a Bejelentkezéshez
+page_socialerror_authuhoh === UH Oh!
+widget_setupcronjobs_title === A Cronjobs beállítása
+admin_btncron_tooltip === Cron beállítása
+admin_btncron_btn === Cron
+waexport_loader_exporting === Csoportnévjegyek exportálása
+table_wagroups_exportcontactstooltip === Névjegyek exportálása
+response_waexport_unablefetchcontacts === Nem sikerült lekérni a csoport névjegyeit!
+response_waexport_nocontactsfound === Nem találhatók névjegyek!
+response_systemupdate_manualinterreq === A frissítés kézi beavatkozást igényel. Átirányítás a változásnapló oldalára..
+apexcharts_locale_monthjanuary === Január
+apexcharts_locale_monthfebruary === Február
+apexcharts_locale_monthmarch === Március
+apexcharts_locale_monthapril === április
+apexcharts_locale_monthmay === Május
+apexcharts_locale_monthjune === Június
+apexcharts_locale_monthjuly === Július
+apexcharts_locale_monthaugust === Augusztus
+apexcharts_locale_monthseptember === Szeptember
+apexcharts_locale_monthoctober === Október
+apexcharts_locale_monthnovember === November
+apexcharts_locale_monthdecember === December
+apexcharts_locale_monthjanshort === Jan
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Már
+apexcharts_locale_monthaprshort === ápr
+apexcharts_locale_monthmayshort === Máj
+apexcharts_locale_monthjunshort === Jún
+apexcharts_locale_monthjulshort === Júl
+apexcharts_locale_monthaugshort === Aug
+apexcharts_locale_monthsepshort === Szep
+apexcharts_locale_monthoctshort === Okt
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Dec
+apexcharts_locale_daymonday === Hétfő
+apexcharts_locale_daytuesday === Kedd
+apexcharts_locale_daywednesday === Szerda
+apexcharts_locale_daythursday === Csütörtök
+apexcharts_locale_dayfriday === Péntek
+apexcharts_locale_daysaturday === Szombat
+apexcharts_locale_daysunday === Vasárnap
+apexcharts_locale_daymondayshort === H
+apexcharts_locale_daytuesdayshort === K
+apexcharts_locale_daywednesdayshort === Sze
+apexcharts_locale_daythursdayshort === Cs
+apexcharts_locale_dayfridayshort === P
+apexcharts_locale_daysaturdayshort === Sz
+apexcharts_locale_daysundayshort === V
+apexcharts_locale_exportsvg === SVG letöltése
+apexcharts_locale_exportpng === PNG letöltése
+apexcharts_locale_menu === Menü
+apexcharts_locale_selection === Kiválasztás
+apexcharts_locale_selectionzoom === Kiválasztás Zoom
+apexcharts_locale_zin === Nagyítás
+apexcharts_locale_zout === Kicsinyítés
+apexcharts_locale_pan === Mozgatás
+apexcharts_locale_reset === Visszaállítás

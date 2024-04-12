@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === สตริงหรือช�
 table_toolsautoreply_account38 === บัญชี: _8880_
 table_toolsautoreply_device38 === อุปกรณ์: _8880_
 forms_whatsapp_mediafilehelp38 === ไฟล์สื่อ ไฟล์สื่อที่จะอัปโหลด รองรับไฟล์ .jpg, .png, .gif, .mp4, .mp3 และ .ogg
+response_notify_smsreceivedmessage === ข้อความ
+response_waquick_waaccountnotconn === ไม่ได้เชื่อมต่อบัญชี WhatsApp!
+admin_table_waserverpackagesempty === ไม่มีแพ็คเกจ!
+admin_table_waserverstatustext === สถานะ:
+admin_table_waserverconnectedtext === เชื่อมต่อแล้ว:
+admin_table_waservermaxtext === บัญชีสูงสุด:
+admin_table_waserverpackagestext === แพ็คเกจที่อนุญาต:
+ratesgateway_options_viewratesbtn === ดูราคา
+ratesgateway_options_viewratestitle === ดูอัตราสำหรับเกตเวย์นี้
+ratesgateway_options_tablecrtdate === วันที่สร้าง
+ratesgateway_options_tablegatewayid === รหัสเกตเวย์
+ratesgateway_options_tablegatewayname === ชื่อเกตเวย์
+ratesgateway_options_tableoptions === ตัวเลือก
+dashboard_overall_overview === ภาพรวม
+dashboard_overview_gatewaysbtn === เกตเวย์
+dashboard_overview_user_totalsent === รวมส่งแล้ว
+dashboard_overview_user_totalreceived === รวมที่ได้รับ
+dashboard_overview_user_topuploader === กำลังประมวลผลคำขอ
+sms_btnevent_formcontent_btntranslate === แปลภาษา
+form_adddevice_showqrbtn === แสดงคิวอาร์
+dashboard_sidebarblk_overview === ภาพรวม
+dashboard_sidebarblk_hosts === เจ้าภาพ
+dashboard_sidebarblk_hostsandroid === หุ่นยนต์
+dashboard_sidebarblk_hostswhatsapp === วอทส์แอพพ์
+dashboard_sidebarblk_waservers === เซิร์ฟเวอร์ WA
+dashboard_sidebarblk_docsandroid === หุ่นยนต์
+dashboard_pageheading_docsandroid === หุ่นยนต์
+dashboard_adminoverview_topcountries5 === 5 ประเทศยอดนิยมโดยผู้เยี่ยมชม
+dashboard_adminoverview_browsers === ผู้เยี่ยมชมโดยเบราว์เซอร์
+dashboard_adminoverview_os === ผู้เยี่ยมชมตาม OS
+dashboard_userhosts_hostbreadcrumb === เจ้าภาพ
+dashboard_authenticate_loginpagetagline === เข้าสู่ระบบเพื่อเข้าถึงแดชบอร์ด
+dashboard_authenticate_regpagetagline === ลงทะเบียนเพื่อเข้าถึงแดชบอร์ด
+dashboard_authenticate_forgotpagetagline === เรียกคืนรหัสผ่านที่คุณลืม
+dashboard_authenticate_loginpagedonthave === อย่ามีบัญชีหรือยัง?
+dashboard_authenticate_regpagehave === มีบัญชีอยู่แล้ว?
+dashboard_admin_waserverstitle === เซิร์ฟเวอร์ WA
+dashboard_admin_waserversbtn_addserver === เพิ่มเซิร์ฟเวอร์
+dashboard_docsnew_androidtitle === หุ่นยนต์
+form_waserver_addeditserver_name === ชื่อ
+form_waserver_addeditserver_nametagline === ชื่อเฉพาะสำหรับเซิร์ฟเวอร์ WhatsApp นี้
+form_waserver_addeditserver_accounts === บัญชี
+form_waserver_addeditserver_accountstagline === จำนวนบัญชีสูงสุดที่ได้รับอนุญาตให้เชื่อมต่อ
+form_waserver_addeditserver_packages === แพ็คเกจ
+form_waserver_addeditserver_packagestagline === เลือกแพ็คเกจที่ได้รับอนุญาตให้ใช้เซิร์ฟเวอร์ WhatsApp นี้
+form_waserver_addeditserver_serverurl === URL ของเซิร์ฟเวอร์
+form_waserver_addeditserver_serverport === พอร์ตเซิร์ฟเวอร์
+datatable_length_v38 === แสดง _MENU_ รายการ
+datatable_info_v38 === _START_ ถึง _END_ จาก _TOTAL_
+datatable_empty_v38 === ไม่พบรายการ
+datatable_filtered_v38 === (รวม _MAX_)
+requests_waserver_selectatleastonepack === กรุณาเลือกอย่างน้อย 1 แพ็คเกจ!
+requests_waserver_updatedsuccess === เซิร์ฟเวอร์ WhatsApp ได้รับการอัพเดตแล้ว!
+requests_waserver_addedsuccess === เพิ่มเซิร์ฟเวอร์ WhatsApp แล้ว!
+requests_waserver_deletedsuccess === เซิร์ฟเวอร์ WhatsApp ถูกลบแล้ว!
+widget_waserver_addwatitle === เพิ่มเซิร์ฟเวอร์ WhatsApp
+widget_waserver_addwatitleloader === การเพิ่มเซิร์ฟเวอร์ WhatsApp
+widget_waserver_editwatitle === แก้ไขเซิร์ฟเวอร์ WhatsApp
+widget_waserver_editwatitleloader === การแก้ไขเซิร์ฟเวอร์ WhatsApp
+widget_waserver_fieldmaxacc === บัญชีแม็กซ์
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === ท่าเรือ
+widget_waserver_fieldsecret === ความลับ
+widget_waserver_setupwatitle === ตั้งค่าเซิร์ฟเวอร์ WhatsApp
+form_waserver_secretkey === รหัสลับ
+form_waserver_secretkeydesc === สร้างรหัสลับที่ปลอดภัย เซิร์ฟเวอร์ WhatsApp จะใช้สิ่งนี้เพื่อตรวจสอบการเชื่อมต่อแบบเพียร์กับ Zender กรุณาอย่าใช้อักขระพิเศษ!
+table_waservers_optionssetupbtn === ติดตั้ง
+table_androidver_14 === แอนดรอยด์ 14
+table_waservers_dtcreated === สร้าง
+table_waservers_dtname === ชื่อ
+table_waservers_dturl === URL
+table_waservers_dtport === ท่าเรือ
+table_waservers_dtdetails === รายละเอียด
+table_waservers_dtops === ตัวเลือก
+page_socialerror_autherrortitle === ข้อผิดพลาดในการรับรองความถูกต้อง
+page_socialerror_authwentwrong === มีข้อผิดพลาดเกิดขึ้นกับกระบวนการตรวจสอบสิทธิ์ กรุณาลองอีกครั้ง!
+page_socialerror_authsuspended === ขอโทษ! เราได้ระงับบัญชีของคุณเนื่องจากมีกิจกรรมที่น่าสงสัย
+page_socialerror_authemailnotfound === ต้องมีที่อยู่อีเมลที่ถูกต้องในบัญชี _8880_ ของคุณ!
+page_socialerror_authreturn === กลับไปที่เข้าสู่ระบบ
+page_socialerror_authuhoh === เอ่อโอ้!
+widget_setupcronjobs_title === ตั้งค่า Cronjobs
+admin_btncron_tooltip === การตั้งค่าครอน
+admin_btncron_btn === ครอน
+waexport_loader_exporting === การส่งออกรายชื่อติดต่อของกลุ่ม
+table_wagroups_exportcontactstooltip === ส่งออกผู้ติดต่อ
+response_waexport_unablefetchcontacts === ไม่สามารถรับการติดต่อกลุ่มได้!
+response_waexport_nocontactsfound === ไม่พบผู้ติดต่อ!
+response_systemupdate_manualinterreq === การอัพเดตจำเป็นต้องมีการแทรกแซงด้วยตนเอง กำลังเปลี่ยนเส้นทางไปยังหน้าบันทึกการเปลี่ยนแปลง..
+apexcharts_locale_monthjanuary === มกราคม
+apexcharts_locale_monthfebruary === กุมภาพันธ์
+apexcharts_locale_monthmarch === มีนาคม
+apexcharts_locale_monthapril === เมษายน
+apexcharts_locale_monthmay === พฤษภาคม
+apexcharts_locale_monthjune === มิถุนายน
+apexcharts_locale_monthjuly === กรกฎาคม
+apexcharts_locale_monthaugust === สิงหาคม
+apexcharts_locale_monthseptember === กันยายน
+apexcharts_locale_monthoctober === ตุลาคม
+apexcharts_locale_monthnovember === พฤศจิกายน
+apexcharts_locale_monthdecember === ธันวาคม
+apexcharts_locale_monthjanshort === ม.ค.
+apexcharts_locale_monthfebshort === ก.พ.
+apexcharts_locale_monthmarshort === มี.ค.
+apexcharts_locale_monthaprshort === เม.ย.
+apexcharts_locale_monthmayshort === พ.ค.
+apexcharts_locale_monthjunshort === มิ.ย.
+apexcharts_locale_monthjulshort === ก.ค.
+apexcharts_locale_monthaugshort === ส.ค.
+apexcharts_locale_monthsepshort === ก.ย.
+apexcharts_locale_monthoctshort === ต.ค.
+apexcharts_locale_monthnovshort === พ.ย.
+apexcharts_locale_monthdecshort === ธ.ค.
+apexcharts_locale_daymonday === จันทร์
+apexcharts_locale_daytuesday === อังคาร
+apexcharts_locale_daywednesday === พุธ
+apexcharts_locale_daythursday === พฤหัสบดี
+apexcharts_locale_dayfriday === ศุกร์
+apexcharts_locale_daysaturday === เสาร์
+apexcharts_locale_daysunday === อาทิตย์
+apexcharts_locale_daymondayshort === จ.
+apexcharts_locale_daytuesdayshort === อ.
+apexcharts_locale_daywednesdayshort === พ.
+apexcharts_locale_daythursdayshort === พฤ.
+apexcharts_locale_dayfridayshort === ศ.
+apexcharts_locale_daysaturdayshort === ส.
+apexcharts_locale_daysundayshort === อา.
+apexcharts_locale_exportsvg === ดาวน์โหลด SVG
+apexcharts_locale_exportpng === ดาวน์โหลด PNG
+apexcharts_locale_menu === เมนู
+apexcharts_locale_selection === เลือก
+apexcharts_locale_selectionzoom === เลือกการซูม
+apexcharts_locale_zin === ซูมเข้า
+apexcharts_locale_zout === ซูมออก
+apexcharts_locale_pan === แตะเลื่อน
+apexcharts_locale_reset === รีเซ็ตการซูม

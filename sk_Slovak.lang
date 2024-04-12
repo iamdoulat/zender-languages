@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Reťazce alebo množina kľúčo
 table_toolsautoreply_account38 === Účet: _8880_
 table_toolsautoreply_device38 === Zariadenie: _8880_
 forms_whatsapp_mediafilehelp38 === Mediálny súbor, mediálny súbor, ktorý sa má nahrať. Podporuje súbory .jpg, .png, .gif, .mp4, .mp3 a .ogg.
+response_notify_smsreceivedmessage === správu
+response_waquick_waaccountnotconn === WhatsApp účet nie je pripojený!
+admin_table_waserverpackagesempty === Balíky neexistujú!
+admin_table_waserverstatustext === Postavenie:
+admin_table_waserverconnectedtext === Pripojené:
+admin_table_waservermaxtext === Maximálny počet účtov:
+admin_table_waserverpackagestext === Povolené balíčky:
+ratesgateway_options_viewratesbtn === Zobraziť sadzby
+ratesgateway_options_viewratestitle === Zobraziť sadzby pre túto bránu
+ratesgateway_options_tablecrtdate === Dátum vytvorenia
+ratesgateway_options_tablegatewayid === ID brány
+ratesgateway_options_tablegatewayname === Názov brány
+ratesgateway_options_tableoptions === možnosti
+dashboard_overall_overview === Prehľad
+dashboard_overview_gatewaysbtn === Brány
+dashboard_overview_user_totalsent === Celkom odoslaných
+dashboard_overview_user_totalreceived === Celkový počet prijatých
+dashboard_overview_user_topuploader === Spracúva sa žiadosť
+sms_btnevent_formcontent_btntranslate === Preložiť
+form_adddevice_showqrbtn === Zobraziť QR
+dashboard_sidebarblk_overview === Prehľad
+dashboard_sidebarblk_hosts === Hostitelia
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === Servery WA
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Top 5 krajín podľa návštevníkov
+dashboard_adminoverview_browsers === Návštevníci podľa prehliadača
+dashboard_adminoverview_os === Návštevníci podľa OS
+dashboard_userhosts_hostbreadcrumb === Hostitelia
+dashboard_authenticate_loginpagetagline === Prihláste sa pre prístup k Dashboardu
+dashboard_authenticate_regpagetagline === Zaregistrujte sa a získajte prístup k ovládaciemu panelu
+dashboard_authenticate_forgotpagetagline === Získajte svoje zabudnuté heslo
+dashboard_authenticate_loginpagedonthave === Ešte nemáte účet?
+dashboard_authenticate_regpagehave === Máte už účet?
+dashboard_admin_waserverstitle === Servery WA
+dashboard_admin_waserversbtn_addserver === Pridať server
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === názov
+form_waserver_addeditserver_nametagline === Jedinečný názov pre tento server WhatsApp.
+form_waserver_addeditserver_accounts === účty
+form_waserver_addeditserver_accountstagline === Maximálny počet účtov, ktoré je možné pripojiť.
+form_waserver_addeditserver_packages === Balíčky
+form_waserver_addeditserver_packagestagline === Vyberte balíky, ktoré môžu používať tento server WhatsApp.
+form_waserver_addeditserver_serverurl === Adresa URL servera
+form_waserver_addeditserver_serverport === Port servera
+datatable_length_v38 === Zobraziť _MENU_ záznamov
+datatable_info_v38 === _START_ až _END_ z _TOTAL_
+datatable_empty_v38 === Nenašli sa žiadne záznamy
+datatable_filtered_v38 === (_MAX_ celkom)
+requests_waserver_selectatleastonepack === Vyberte prosím aspoň 1 balíček!
+requests_waserver_updatedsuccess === Server WhatsApp bol aktualizovaný!
+requests_waserver_addedsuccess === Server WhatsApp bol pridaný!
+requests_waserver_deletedsuccess === Server WhatsApp bol odstránený!
+widget_waserver_addwatitle === Pridajte server WhatsApp
+widget_waserver_addwatitleloader === Pridanie servera WhatsApp
+widget_waserver_editwatitle === Upravte server WhatsApp
+widget_waserver_editwatitleloader === Úprava servera WhatsApp
+widget_waserver_fieldmaxacc === Maximálny počet účtov
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Port
+widget_waserver_fieldsecret === Tajomstvo
+widget_waserver_setupwatitle === Nastavte server WhatsApp
+form_waserver_secretkey === Tajný kľúč
+form_waserver_secretkeydesc === Vytvorte bezpečný tajný kľúč. Toto použije server WhatsApp na overenie partnerského spojenia so Zenderom. Prosím, nepoužívajte špeciálne znaky!
+table_waservers_optionssetupbtn === Nastaviť
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Vytvorené
+table_waservers_dtname === názov
+table_waservers_dturl === URL
+table_waservers_dtport === Port
+table_waservers_dtdetails === Podrobnosti
+table_waservers_dtops === možnosti
+page_socialerror_autherrortitle === Chyba overenia
+page_socialerror_authwentwrong === Vyskytla sa chyba v procese overovania. Prosím skúste znova!
+page_socialerror_authsuspended === Prepáč! Váš účet sme pozastavili z dôvodu podozrivej aktivity.
+page_socialerror_authemailnotfound === Vo vašom účte _8880_ musí byť prítomná platná e-mailová adresa!
+page_socialerror_authreturn === Návrat na Prihlásenie
+page_socialerror_authuhoh === Uh Oh!
+widget_setupcronjobs_title === Nastavte Cronjobs
+admin_btncron_tooltip === Nastavenie Cron
+admin_btncron_btn === Cron
+waexport_loader_exporting === Exportovanie skupinových kontaktov
+table_wagroups_exportcontactstooltip === Exportovať kontakty
+response_waexport_unablefetchcontacts === Nie je možné získať skupinové kontakty!
+response_waexport_nocontactsfound === Nenašli sa žiadne kontakty!
+response_systemupdate_manualinterreq === Aktualizácia vyžaduje manuálny zásah. Prebieha presmerovanie na stránku so zmenami...
+apexcharts_locale_monthjanuary === Január
+apexcharts_locale_monthfebruary === Február
+apexcharts_locale_monthmarch === Marec
+apexcharts_locale_monthapril === Apríl
+apexcharts_locale_monthmay === Máj
+apexcharts_locale_monthjune === Jún
+apexcharts_locale_monthjuly === Júl
+apexcharts_locale_monthaugust === August
+apexcharts_locale_monthseptember === September
+apexcharts_locale_monthoctober === Október
+apexcharts_locale_monthnovember === November
+apexcharts_locale_monthdecember === December
+apexcharts_locale_monthjanshort === Jan
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Apr
+apexcharts_locale_monthmayshort === Máj
+apexcharts_locale_monthjunshort === Jún
+apexcharts_locale_monthjulshort === Júl
+apexcharts_locale_monthaugshort === Aug
+apexcharts_locale_monthsepshort === Sep
+apexcharts_locale_monthoctshort === Okt
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Dec
+apexcharts_locale_daymonday === Pondelok
+apexcharts_locale_daytuesday === Utorok
+apexcharts_locale_daywednesday === Streda
+apexcharts_locale_daythursday === Štvrtok
+apexcharts_locale_dayfriday === Piatok
+apexcharts_locale_daysaturday === Sobota
+apexcharts_locale_daysunday === Nedeľa
+apexcharts_locale_daymondayshort === Po
+apexcharts_locale_daytuesdayshort === Ut
+apexcharts_locale_daywednesdayshort === St
+apexcharts_locale_daythursdayshort === Št
+apexcharts_locale_dayfridayshort === Pi
+apexcharts_locale_daysaturdayshort === So
+apexcharts_locale_daysundayshort === Ne
+apexcharts_locale_exportsvg === Stiahnuť SVG
+apexcharts_locale_exportpng === Stiahnuť PNG
+apexcharts_locale_menu === Menu
+apexcharts_locale_selection === Výber
+apexcharts_locale_selectionzoom === Výber priblíženia
+apexcharts_locale_zin === Priblížiť
+apexcharts_locale_zout === Oddialiť
+apexcharts_locale_pan === Posunúť
+apexcharts_locale_reset === Obnoviť priblíženie

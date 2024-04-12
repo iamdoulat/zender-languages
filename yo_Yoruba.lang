@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Awọn gbolohun ọrọ tabi ṣ
 table_toolsautoreply_account38 === Akọọlẹ: _8880_
 table_toolsautoreply_device38 === Ẹrọ: _8880_
 forms_whatsapp_mediafilehelp38 === Faili Media, faili media lati gbejade. Ṣe atilẹyin .jpg, .png, .gif, .mp4, .mp3 ati awọn faili .ogg.
+response_notify_smsreceivedmessage === ifiranṣẹ
+response_waquick_waaccountnotconn === WhatsApp iroyin ko sopọ!
+admin_table_waserverpackagesempty === Awọn idii ko si!
+admin_table_waserverstatustext === Ipo:
+admin_table_waserverconnectedtext === Ti sopọ:
+admin_table_waservermaxtext === Awọn akọọlẹ ti o pọju:
+admin_table_waserverpackagestext === Awọn akopọ ti a gba laaye:
+ratesgateway_options_viewratesbtn === Wo Awọn oṣuwọn
+ratesgateway_options_viewratestitle === Wo awọn oṣuwọn fun ẹnu-ọna yii
+ratesgateway_options_tablecrtdate === Ọjọ ti a ṣẹda
+ratesgateway_options_tablegatewayid === ID ẹnu-ọna
+ratesgateway_options_tablegatewayname === Orukọ ẹnu-ọna
+ratesgateway_options_tableoptions === Awọn aṣayan
+dashboard_overall_overview === Akopọ
+dashboard_overview_gatewaysbtn === Awọn ẹnu-ọna
+dashboard_overview_user_totalsent === Lapapọ Ti firanṣẹ
+dashboard_overview_user_totalreceived === Lapapọ ti Gba
+dashboard_overview_user_topuploader === Ibere ​​isise
+sms_btnevent_formcontent_btntranslate === Tumọ
+form_adddevice_showqrbtn === Ṣe afihan QR
+dashboard_sidebarblk_overview === Akopọ
+dashboard_sidebarblk_hosts === Awọn ogun
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === WA Servers
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Top 5 Awọn orilẹ-ede nipasẹ Alejo
+dashboard_adminoverview_browsers === Alejo nipa Browser
+dashboard_adminoverview_os === Alejo nipa OS
+dashboard_userhosts_hostbreadcrumb === Awọn ogun
+dashboard_authenticate_loginpagetagline === Buwolu wọle lati Wọle si Dasibodu naa
+dashboard_authenticate_regpagetagline === Forukọsilẹ lati Wọle si Dasibodu naa
+dashboard_authenticate_forgotpagetagline === Gba Ọrọigbaniwọle Igbagbe rẹ pada
+dashboard_authenticate_loginpagedonthave === Ṣe ko ni akọọlẹ kan sibẹsibẹ?
+dashboard_authenticate_regpagehave === Ti ni iroyin tẹlẹ?
+dashboard_admin_waserverstitle === WA Servers
+dashboard_admin_waserversbtn_addserver === Fi olupin sii
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Oruko
+form_waserver_addeditserver_nametagline === Orukọ alailẹgbẹ fun olupin WhatsApp yii.
+form_waserver_addeditserver_accounts === Awọn iroyin
+form_waserver_addeditserver_accountstagline === Nọmba ti o pọju ti awọn akọọlẹ ti o gba laaye lati sopọ.
+form_waserver_addeditserver_packages === Awọn idii
+form_waserver_addeditserver_packagestagline === Yan awọn idii ti o gba ọ laaye lati lo olupin WhatsApp yii.
+form_waserver_addeditserver_serverurl === URL olupin
+form_waserver_addeditserver_serverport === Ibudo olupin
+datatable_length_v38 === Ṣe afihan awọn titẹ sii _MENU_
+datatable_info_v38 === _START_ si _END_ ti _TOTAL_
+datatable_empty_v38 === Ko si awọn titẹ sii
+datatable_filtered_v38 === (_MAX_ lapapọ)
+requests_waserver_selectatleastonepack === Jọwọ yan o kere ju 1 package!
+requests_waserver_updatedsuccess === Olupin WhatsApp ti ni imudojuiwọn!
+requests_waserver_addedsuccess === A ti ṣafikun olupin WhatsApp!
+requests_waserver_deletedsuccess === Olupin WhatsApp ti paarẹ!
+widget_waserver_addwatitle === Ṣafikun olupin WhatsApp
+widget_waserver_addwatitleloader === Ṣe afikun olupin WhatsApp
+widget_waserver_editwatitle === Ṣatunkọ WhatsApp Server
+widget_waserver_editwatitleloader === Ṣiṣatunṣe olupin WhatsApp
+widget_waserver_fieldmaxacc === Awọn iṣiro to pọju
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Ibudo
+widget_waserver_fieldsecret === Asiri
+widget_waserver_setupwatitle === Ṣeto olupin WhatsApp
+form_waserver_secretkey === Asiri Key
+form_waserver_secretkeydesc === Ṣẹda bọtini ikoko to ni aabo. Eyi yoo ṣee lo nipasẹ olupin WhatsApp lati jẹrisi asopọ ẹlẹgbẹ pẹlu Zender. Jọwọ maṣe lo awọn ohun kikọ pataki!
+table_waservers_optionssetupbtn === Ṣeto
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Ti ṣẹda
+table_waservers_dtname === Oruko
+table_waservers_dturl === URL
+table_waservers_dtport === Ibudo
+table_waservers_dtdetails === Awọn alaye
+table_waservers_dtops === Awọn aṣayan
+page_socialerror_autherrortitle === Aṣiṣe Ijeri
+page_socialerror_authwentwrong === Nkankan ti ko tọ pẹlu ilana ìfàṣẹsí. Jọwọ gbiyanju lẹẹkansi!
+page_socialerror_authsuspended === Ma binu! A ti da akọọlẹ rẹ duro nitori iṣẹ ṣiṣe ifura.
+page_socialerror_authemailnotfound === Adirẹsi imeeli to wulo gbọdọ wa ni akọọlẹ _8880_ rẹ!
+page_socialerror_authreturn === Pada si Wọle
+page_socialerror_authuhoh === Ah oh!
+widget_setupcronjobs_title === Eto Cronjobs
+admin_btncron_tooltip === Eto Cron
+admin_btncron_btn === Cron
+waexport_loader_exporting === Gbigbe Awọn olubasọrọ Ẹgbẹ
+table_wagroups_exportcontactstooltip === Awọn olubasọrọ okeere
+response_waexport_unablefetchcontacts === Ko le gba awọn olubasọrọ ẹgbẹ!
+response_waexport_nocontactsfound === Ko si awọn olubasọrọ ti a rii!
+response_systemupdate_manualinterreq === Imudojuiwọn nilo idasi afọwọṣe. Ndarí si oju-iwe iyipada..
+apexcharts_locale_monthjanuary === Oṣù Kínní
+apexcharts_locale_monthfebruary === Oṣù Kejì
+apexcharts_locale_monthmarch === Oṣù Kẹta
+apexcharts_locale_monthapril === Oṣù Kẹrin
+apexcharts_locale_monthmay === Oṣù Kẹran
+apexcharts_locale_monthjune === Oṣù Kẹrin Méjì
+apexcharts_locale_monthjuly === Oṣù Kẹrin Méta
+apexcharts_locale_monthaugust === Oṣù Kẹrin Mẹrin
+apexcharts_locale_monthseptember === Oṣù Kẹrin Mẹfa
+apexcharts_locale_monthoctober === Oṣù Kẹrin Mẹsán
+apexcharts_locale_monthnovember === Oṣù Kẹrin Mẹfàa
+apexcharts_locale_monthdecember === Oṣù Kẹrin Mẹdógún
+apexcharts_locale_monthjanshort === OṢÙ 1
+apexcharts_locale_monthfebshort === OṢÙ 2
+apexcharts_locale_monthmarshort === OṢÙ 3
+apexcharts_locale_monthaprshort === OṢÙ 4
+apexcharts_locale_monthmayshort === OṢÙ 5
+apexcharts_locale_monthjunshort === OṢÙ 6
+apexcharts_locale_monthjulshort === OṢÙ 7
+apexcharts_locale_monthaugshort === OṢÙ 8
+apexcharts_locale_monthsepshort === OṢÙ 9
+apexcharts_locale_monthoctshort === OṢÙ 10
+apexcharts_locale_monthnovshort === OṢÙ 11
+apexcharts_locale_monthdecshort === OṢÙ 12
+apexcharts_locale_daymonday === Ọjọ́ Ajé
+apexcharts_locale_daytuesday === Ọjọ́ Ìsẹ́gun
+apexcharts_locale_daywednesday === Ọjọ́rú
+apexcharts_locale_daythursday === Ọjọ́bọ
+apexcharts_locale_dayfriday === Ọjọ́ Ẹtì
+apexcharts_locale_daysaturday === Ọjọ́ Ẹtìdá
+apexcharts_locale_daysunday === Ọjọ́ Àìkú
+apexcharts_locale_daymondayshort === AJÉ
+apexcharts_locale_daytuesdayshort === ÌSẸ́GUN
+apexcharts_locale_daywednesdayshort === RÚ
+apexcharts_locale_daythursdayshort === BỌ̀
+apexcharts_locale_dayfridayshort === Ẹ̀TÌ
+apexcharts_locale_daysaturdayshort === Ẹ̀TÌDÁ
+apexcharts_locale_daysundayshort === ÀÌKÚ
+apexcharts_locale_exportsvg === Ìfọ̀rọ̀bọ̀ SVG
+apexcharts_locale_exportpng === Ìfọ̀rọ̀bọ̀ PNG
+apexcharts_locale_menu === Mẹnu
+apexcharts_locale_selection === Àtúndé
+apexcharts_locale_selectionzoom === Àtúndé Zoom
+apexcharts_locale_zin === Jíjẹ̀wẹ́
+apexcharts_locale_zout === Ríwà
+apexcharts_locale_pan === Jíjẹ̀wẹ́
+apexcharts_locale_reset === Tẹdò

@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === السلاسل أو مجموعة
 table_toolsautoreply_account38 === الحساب : _8880_
 table_toolsautoreply_device38 === الجهاز : _8880_
 forms_whatsapp_mediafilehelp38 === ملف الوسائط، ملف الوسائط المراد تحميله. يدعم ملفات .jpg و.png و.gif و.mp4 و.mp3 و.ogg.
+response_notify_smsreceivedmessage === رسالة
+response_waquick_waaccountnotconn === حساب الواتس اب غير متصل!
+admin_table_waserverpackagesempty === الحزم غير موجودة!
+admin_table_waserverstatustext === حالة:
+admin_table_waserverconnectedtext === متصل:
+admin_table_waservermaxtext === حسابات ماكس:
+admin_table_waserverpackagestext === الباقات المسموح بها:
+ratesgateway_options_viewratesbtn === عرض الأسعار
+ratesgateway_options_viewratestitle === عرض أسعار هذه البوابة
+ratesgateway_options_tablecrtdate === تاريخ الإنشاء
+ratesgateway_options_tablegatewayid === معرف البوابة
+ratesgateway_options_tablegatewayname === اسم البوابة
+ratesgateway_options_tableoptions === خيارات
+dashboard_overall_overview === ملخص
+dashboard_overview_gatewaysbtn === بوابات
+dashboard_overview_user_totalsent === إجمالي المرسلة
+dashboard_overview_user_totalreceived === إجمالي المستلمة
+dashboard_overview_user_topuploader === طلب المعالجة
+sms_btnevent_formcontent_btntranslate === يترجم
+form_adddevice_showqrbtn === إظهار QR
+dashboard_sidebarblk_overview === ملخص
+dashboard_sidebarblk_hosts === المضيفين
+dashboard_sidebarblk_hostsandroid === ذكري المظهر
+dashboard_sidebarblk_hostswhatsapp === واتساب
+dashboard_sidebarblk_waservers === خوادم وا
+dashboard_sidebarblk_docsandroid === ذكري المظهر
+dashboard_pageheading_docsandroid === ذكري المظهر
+dashboard_adminoverview_topcountries5 === أعلى 5 دول من حيث عدد الزوار
+dashboard_adminoverview_browsers === الزوار حسب المتصفح
+dashboard_adminoverview_os === الزوار حسب نظام التشغيل
+dashboard_userhosts_hostbreadcrumb === المضيفين
+dashboard_authenticate_loginpagetagline === قم بتسجيل الدخول للوصول إلى لوحة التحكم
+dashboard_authenticate_regpagetagline === قم بالتسجيل للوصول إلى لوحة التحكم
+dashboard_authenticate_forgotpagetagline === استرجع كلمة المرور المنسية
+dashboard_authenticate_loginpagedonthave === لا تملك حسابا حتى الآن؟
+dashboard_authenticate_regpagehave === هل لديك حساب؟
+dashboard_admin_waserverstitle === خوادم وا
+dashboard_admin_waserversbtn_addserver === أضف الخادم
+dashboard_docsnew_androidtitle === ذكري المظهر
+form_waserver_addeditserver_name === اسم
+form_waserver_addeditserver_nametagline === اسم فريد لخادم WhatsApp هذا.
+form_waserver_addeditserver_accounts === حسابات
+form_waserver_addeditserver_accountstagline === الحد الأقصى لعدد الحسابات المسموح لها بالاتصال.
+form_waserver_addeditserver_packages === الحزم
+form_waserver_addeditserver_packagestagline === حدد الحزم المسموح لها باستخدام خادم WhatsApp هذا.
+form_waserver_addeditserver_serverurl === عنوان URL للخادم
+form_waserver_addeditserver_serverport === منفذ الخادم
+datatable_length_v38 === عرض _MENU_ إدخالات
+datatable_info_v38 === من _START_ إلى _END_ من _TOTAL_
+datatable_empty_v38 === لا توجد مقالات
+datatable_filtered_v38 === (إجمالي _MAX_)
+requests_waserver_selectatleastonepack === الرجاء اختيار حزمة واحدة على الأقل!
+requests_waserver_updatedsuccess === تم تحديث خادم الواتساب!
+requests_waserver_addedsuccess === تمت إضافة خادم الواتساب!
+requests_waserver_deletedsuccess === تم حذف خادم الواتساب!
+widget_waserver_addwatitle === إضافة خادم واتساب
+widget_waserver_addwatitleloader === إضافة خادم واتساب
+widget_waserver_editwatitle === تعديل خادم الواتساب
+widget_waserver_editwatitleloader === تعديل خادم الواتساب
+widget_waserver_fieldmaxacc === حسابات ماكس
+widget_waserver_fieldurl === عنوان URL
+widget_waserver_fieldport === ميناء
+widget_waserver_fieldsecret === سر
+widget_waserver_setupwatitle === إعداد خادم الواتساب
+form_waserver_secretkey === المفتاح السري
+form_waserver_secretkeydesc === إنشاء مفتاح سري آمن. سيتم استخدام هذا بواسطة خادم WhatsApp للتحقق من اتصال النظير مع Zender. من فضلك لا تستخدم أحرف خاصة!
+table_waservers_optionssetupbtn === يثبت
+table_androidver_14 === أندرويد 14
+table_waservers_dtcreated === مخلوق
+table_waservers_dtname === اسم
+table_waservers_dturl === عنوان URL
+table_waservers_dtport === ميناء
+table_waservers_dtdetails === تفاصيل
+table_waservers_dtops === خيارات
+page_socialerror_autherrortitle === خطأ مصادقة
+page_socialerror_authwentwrong === حدث خطأ ما في عملية المصادقة. حاول مرة اخرى!
+page_socialerror_authsuspended === آسف! لقد قمنا بتعليق حسابك بسبب نشاط مشبوه.
+page_socialerror_authemailnotfound === يجب أن يكون عنوان البريد الإلكتروني صالحًا موجودًا في حساب _8880_ الخاص بك!
+page_socialerror_authreturn === العودة لتسجيل الدخول
+page_socialerror_authuhoh === اه اه!
+widget_setupcronjobs_title === إعداد كرونجوبس
+admin_btncron_tooltip === إعداد كرون
+admin_btncron_btn === كرون
+waexport_loader_exporting === تصدير جهات اتصال المجموعة
+table_wagroups_exportcontactstooltip === تصدير جهات الاتصال
+response_waexport_unablefetchcontacts === غير قادر على الحصول على جهات اتصال المجموعة!
+response_waexport_nocontactsfound === لم يتم العثور على جهات اتصال!
+response_systemupdate_manualinterreq === يتطلب التحديث التدخل اليدوي. إعادة التوجيه إلى صفحة سجل التغيير..
+apexcharts_locale_monthjanuary === يناير
+apexcharts_locale_monthfebruary === فبراير
+apexcharts_locale_monthmarch === مارس
+apexcharts_locale_monthapril === إبريل
+apexcharts_locale_monthmay === مايو
+apexcharts_locale_monthjune === يونيو
+apexcharts_locale_monthjuly === يوليو
+apexcharts_locale_monthaugust === أغسطس
+apexcharts_locale_monthseptember === سبتمبر
+apexcharts_locale_monthoctober === أكتوبر
+apexcharts_locale_monthnovember === نوفمبر
+apexcharts_locale_monthdecember === ديسمبر
+apexcharts_locale_monthjanshort === يناير
+apexcharts_locale_monthfebshort === فبراير
+apexcharts_locale_monthmarshort === مارس
+apexcharts_locale_monthaprshort === إبريل
+apexcharts_locale_monthmayshort === مايو
+apexcharts_locale_monthjunshort === يونيو
+apexcharts_locale_monthjulshort === يوليو
+apexcharts_locale_monthaugshort === أغسطس
+apexcharts_locale_monthsepshort === سبتمبر
+apexcharts_locale_monthoctshort === أكتوبر
+apexcharts_locale_monthnovshort === نوفمبر
+apexcharts_locale_monthdecshort === ديسمبر
+apexcharts_locale_daymonday === الإثنين
+apexcharts_locale_daytuesday === الثلاثاء
+apexcharts_locale_daywednesday === الأربعاء
+apexcharts_locale_daythursday === الخميس
+apexcharts_locale_dayfriday === الجمعة
+apexcharts_locale_daysaturday === السبت
+apexcharts_locale_daysunday === الأحد
+apexcharts_locale_daymondayshort === الإثنين
+apexcharts_locale_daytuesdayshort === الثلاثاء
+apexcharts_locale_daywednesdayshort === الأربعاء
+apexcharts_locale_daythursdayshort === الخميس
+apexcharts_locale_dayfridayshort === الجمعة
+apexcharts_locale_daysaturdayshort === السبت
+apexcharts_locale_daysundayshort === الأحد
+apexcharts_locale_exportsvg === تنزيل SVG
+apexcharts_locale_exportpng === تنزيل PNG
+apexcharts_locale_menu === القائمة
+apexcharts_locale_selection === التحديد
+apexcharts_locale_selectionzoom === تكبير التحديد
+apexcharts_locale_zin === تكبير
+apexcharts_locale_zout === تصغير
+apexcharts_locale_pan === التحريك
+apexcharts_locale_reset === إعادة الضبط

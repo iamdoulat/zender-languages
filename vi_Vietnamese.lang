@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Các chuỗi hoặc tập hợp 
 table_toolsautoreply_account38 === Tài khoản: _8880_
 table_toolsautoreply_device38 === Thiết bị: _8880_
 forms_whatsapp_mediafilehelp38 === Tệp phương tiện, tệp phương tiện sẽ được tải lên. Hỗ trợ các tệp .jpg, .png, .gif, .mp4, .mp3 và .ogg.
+response_notify_smsreceivedmessage === tin nhắn
+response_waquick_waaccountnotconn === Tài khoản WhatsApp chưa được kết nối!
+admin_table_waserverpackagesempty === Gói không tồn tại!
+admin_table_waserverstatustext === Trạng thái:
+admin_table_waserverconnectedtext === Đã kết nối:
+admin_table_waservermaxtext === Tài khoản tối đa:
+admin_table_waserverpackagestext === Gói được phép:
+ratesgateway_options_viewratesbtn === Xem giá
+ratesgateway_options_viewratestitle === Xem giá cho cổng này
+ratesgateway_options_tablecrtdate === ngày tạo ra
+ratesgateway_options_tablegatewayid === ID cổng
+ratesgateway_options_tablegatewayname === Tên cổng
+ratesgateway_options_tableoptions === Tùy chọn
+dashboard_overall_overview === Tổng quan
+dashboard_overview_gatewaysbtn === Cổng
+dashboard_overview_user_totalsent === Tổng số đã gửi
+dashboard_overview_user_totalreceived === Tổng số tiền đã nhận
+dashboard_overview_user_topuploader === Đang xử lý yêu cầu
+sms_btnevent_formcontent_btntranslate === Dịch
+form_adddevice_showqrbtn === Hiển thị mã QR
+dashboard_sidebarblk_overview === Tổng quan
+dashboard_sidebarblk_hosts === Máy chủ
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === Máy chủ WA
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === 5 quốc gia có lượng khách truy cập nhiều nhất
+dashboard_adminoverview_browsers === Khách truy cập theo trình duyệt
+dashboard_adminoverview_os === Khách truy cập theo hệ điều hành
+dashboard_userhosts_hostbreadcrumb === Máy chủ
+dashboard_authenticate_loginpagetagline === Đăng nhập để truy cập Bảng điều khiển
+dashboard_authenticate_regpagetagline === Đăng ký để truy cập Bảng điều khiển
+dashboard_authenticate_forgotpagetagline === Lấy lại mật khẩu bị quên của bạn
+dashboard_authenticate_loginpagedonthave === Vẫn chưa có tài khoản?
+dashboard_authenticate_regpagehave === Bạn co săn san để tạo một tai khoản?
+dashboard_admin_waserverstitle === Máy chủ WA
+dashboard_admin_waserversbtn_addserver === Thêm máy chủ
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Tên
+form_waserver_addeditserver_nametagline === Một tên duy nhất cho máy chủ WhatsApp này.
+form_waserver_addeditserver_accounts === Tài khoản
+form_waserver_addeditserver_accountstagline === Số lượng tài khoản tối đa được phép kết nối.
+form_waserver_addeditserver_packages === Gói
+form_waserver_addeditserver_packagestagline === Chọn các gói được phép sử dụng máy chủ WhatsApp này.
+form_waserver_addeditserver_serverurl === URL máy chủ
+form_waserver_addeditserver_serverport === Cổng máy chủ
+datatable_length_v38 === Hiển thị _MENU_ mục
+datatable_info_v38 === _START_ đến _END_ của _TOTAL_
+datatable_empty_v38 === Không tìm thấy mục nào
+datatable_filtered_v38 === (tổng cộng _MAX_)
+requests_waserver_selectatleastonepack === Hãy chọn ít nhất 1 gói!
+requests_waserver_updatedsuccess === Máy chủ WhatsApp đã được cập nhật!
+requests_waserver_addedsuccess === Máy chủ WhatsApp đã được thêm!
+requests_waserver_deletedsuccess === Máy chủ WhatsApp đã bị xóa!
+widget_waserver_addwatitle === Thêm máy chủ WhatsApp
+widget_waserver_addwatitleloader === Thêm máy chủ WhatsApp
+widget_waserver_editwatitle === Chỉnh sửa máy chủ WhatsApp
+widget_waserver_editwatitleloader === Chỉnh sửa máy chủ WhatsApp
+widget_waserver_fieldmaxacc === Tài khoản tối đa
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Hải cảng
+widget_waserver_fieldsecret === Bí mật
+widget_waserver_setupwatitle === Thiết lập máy chủ WhatsApp
+form_waserver_secretkey === Chìa khoá bí mật
+form_waserver_secretkeydesc === Tạo một khóa bí mật an toàn. Điều này sẽ được máy chủ WhatsApp sử dụng để xác minh kết nối ngang hàng với Zender. Vui lòng không sử dụng ký tự đặc biệt!
+table_waservers_optionssetupbtn === Cài đặt
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Tạo
+table_waservers_dtname === Tên
+table_waservers_dturl === URL
+table_waservers_dtport === Hải cảng
+table_waservers_dtdetails === Chi tiết
+table_waservers_dtops === Tùy chọn
+page_socialerror_autherrortitle === Lỗi xác thực
+page_socialerror_authwentwrong === Đã xảy ra lỗi với quá trình xác thực. Vui lòng thử lại!
+page_socialerror_authsuspended === Lấy làm tiếc! Chúng tôi đã đình chỉ tài khoản của bạn do hoạt động đáng ngờ.
+page_socialerror_authemailnotfound === Địa chỉ email hợp lệ phải có trong tài khoản _8880_ của bạn!
+page_socialerror_authreturn === Trở về trang đăng nhập
+page_socialerror_authuhoh === Ờ ồ!
+widget_setupcronjobs_title === Thiết lập Cronjob
+admin_btncron_tooltip === Cài đặt định kỳ
+admin_btncron_btn === Cron
+waexport_loader_exporting === Xuất danh bạ nhóm
+table_wagroups_exportcontactstooltip === Xuất danh bạ
+response_waexport_unablefetchcontacts === Không thể nhận được danh bạ nhóm!
+response_waexport_nocontactsfound === Không tìm thấy địa chỉ liên hệ nào!
+response_systemupdate_manualinterreq === Cập nhật yêu cầu can thiệp thủ công. Đang chuyển hướng đến trang nhật ký thay đổi..
+apexcharts_locale_monthjanuary === Tháng Một
+apexcharts_locale_monthfebruary === Tháng Hai
+apexcharts_locale_monthmarch === Tháng Ba
+apexcharts_locale_monthapril === Tháng Tư
+apexcharts_locale_monthmay === Tháng Năm
+apexcharts_locale_monthjune === Tháng Sáu
+apexcharts_locale_monthjuly === Tháng Bảy
+apexcharts_locale_monthaugust === Tháng Tám
+apexcharts_locale_monthseptember === Tháng Chín
+apexcharts_locale_monthoctober === Tháng Mười
+apexcharts_locale_monthnovember === Tháng Mười Một
+apexcharts_locale_monthdecember === Tháng Mười Hai
+apexcharts_locale_monthjanshort === Th01
+apexcharts_locale_monthfebshort === Th02
+apexcharts_locale_monthmarshort === Th03
+apexcharts_locale_monthaprshort === Th04
+apexcharts_locale_monthmayshort === Th05
+apexcharts_locale_monthjunshort === Th06
+apexcharts_locale_monthjulshort === Th07
+apexcharts_locale_monthaugshort === Th08
+apexcharts_locale_monthsepshort === Th09
+apexcharts_locale_monthoctshort === Th10
+apexcharts_locale_monthnovshort === Th11
+apexcharts_locale_monthdecshort === Th12
+apexcharts_locale_daymonday === Thứ Hai
+apexcharts_locale_daytuesday === Thứ Ba
+apexcharts_locale_daywednesday === Thứ Tư
+apexcharts_locale_daythursday === Thứ Năm
+apexcharts_locale_dayfriday === Thứ Sáu
+apexcharts_locale_daysaturday === Thứ Bảy
+apexcharts_locale_daysunday === Chủ Nhật
+apexcharts_locale_daymondayshort === T2
+apexcharts_locale_daytuesdayshort === T3
+apexcharts_locale_daywednesdayshort === T4
+apexcharts_locale_daythursdayshort === T5
+apexcharts_locale_dayfridayshort === T6
+apexcharts_locale_daysaturdayshort === T7
+apexcharts_locale_daysundayshort === CN
+apexcharts_locale_exportsvg === Tải về SVG
+apexcharts_locale_exportpng === Tải về PNG
+apexcharts_locale_menu === Menu
+apexcharts_locale_selection === Lựa chọn
+apexcharts_locale_selectionzoom === Lựa chọn Phóng to
+apexcharts_locale_zin === Phóng to
+apexcharts_locale_zout === Thu nhỏ
+apexcharts_locale_pan === Di chuyển
+apexcharts_locale_reset === Thiết lập lại Phóng to

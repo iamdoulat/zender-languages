@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Strängarna eller uppsättningen
 table_toolsautoreply_account38 === Konto: _8880_
 table_toolsautoreply_device38 === Enhet: _8880_
 forms_whatsapp_mediafilehelp38 === Mediafil, mediafilen som ska laddas upp. Stöder .jpg, .png, .gif, .mp4, .mp3 och .ogg-filer.
+response_notify_smsreceivedmessage === meddelande
+response_waquick_waaccountnotconn === WhatsApp-kontot är inte anslutet!
+admin_table_waserverpackagesempty === Paketen finns inte!
+admin_table_waserverstatustext === Status:
+admin_table_waserverconnectedtext === Ansluten:
+admin_table_waservermaxtext === Max konton:
+admin_table_waserverpackagestext === Tillåtna paket:
+ratesgateway_options_viewratesbtn === Visa priser
+ratesgateway_options_viewratestitle === Se priser för denna gateway
+ratesgateway_options_tablecrtdate === Skapat Datum
+ratesgateway_options_tablegatewayid === Gateway-ID
+ratesgateway_options_tablegatewayname === Gatewaynamn
+ratesgateway_options_tableoptions === alternativ
+dashboard_overall_overview === Översikt
+dashboard_overview_gatewaysbtn === Gateways
+dashboard_overview_user_totalsent === Totalt skickat
+dashboard_overview_user_totalreceived === Totalt mottaget
+dashboard_overview_user_topuploader === Bearbetar begäran
+sms_btnevent_formcontent_btntranslate === Översätt
+form_adddevice_showqrbtn === Visa QR
+dashboard_sidebarblk_overview === Översikt
+dashboard_sidebarblk_hosts === Värdar
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === WA-servrar
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Topp 5 länder efter besökare
+dashboard_adminoverview_browsers === Besökare via webbläsare
+dashboard_adminoverview_os === Besökare efter OS
+dashboard_userhosts_hostbreadcrumb === Värdar
+dashboard_authenticate_loginpagetagline === Logga in för att komma åt instrumentpanelen
+dashboard_authenticate_regpagetagline === Registrera dig för att komma åt instrumentpanelen
+dashboard_authenticate_forgotpagetagline === Hämta ditt glömda lösenord
+dashboard_authenticate_loginpagedonthave === Har du inget konto än?
+dashboard_authenticate_regpagehave === Har du redan ett konto?
+dashboard_admin_waserverstitle === WA-servrar
+dashboard_admin_waserversbtn_addserver === Lägg till server
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === namn
+form_waserver_addeditserver_nametagline === Ett unikt namn för denna WhatsApp-server.
+form_waserver_addeditserver_accounts === konton
+form_waserver_addeditserver_accountstagline === Det maximala antalet konton som får anslutas.
+form_waserver_addeditserver_packages === Paket
+form_waserver_addeditserver_packagestagline === Välj de paket som får använda denna WhatsApp-server.
+form_waserver_addeditserver_serverurl === Server URL
+form_waserver_addeditserver_serverport === Server Port
+datatable_length_v38 === Visa _MENU_ poster
+datatable_info_v38 === _START_ till _END_ av _TOTAL_
+datatable_empty_v38 === Inga poster hittades
+datatable_filtered_v38 === (_MAX_ totalt)
+requests_waserver_selectatleastonepack === Välj minst 1 paket!
+requests_waserver_updatedsuccess === WhatsApp-servern har uppdaterats!
+requests_waserver_addedsuccess === WhatsApp-servern har lagts till!
+requests_waserver_deletedsuccess === WhatsApp-servern har tagits bort!
+widget_waserver_addwatitle === Lägg till WhatsApp Server
+widget_waserver_addwatitleloader === Lägger till WhatsApp-server
+widget_waserver_editwatitle === Redigera WhatsApp Server
+widget_waserver_editwatitleloader === Redigera WhatsApp-server
+widget_waserver_fieldmaxacc === Max konton
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Hamn
+widget_waserver_fieldsecret === Hemlighet
+widget_waserver_setupwatitle === Konfigurera WhatsApp Server
+form_waserver_secretkey === Hemlig nyckel
+form_waserver_secretkeydesc === Skapa en säker hemlig nyckel. Detta kommer att användas av WhatsApp-servern för att verifiera peer-anslutning med Zender. Vänligen använd inte specialtecken!
+table_waservers_optionssetupbtn === Uppstart
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Skapad
+table_waservers_dtname === namn
+table_waservers_dturl === URL
+table_waservers_dtport === Hamn
+table_waservers_dtdetails === Detaljer
+table_waservers_dtops === alternativ
+page_socialerror_autherrortitle === Verifieringsfel
+page_socialerror_authwentwrong === Något gick fel med autentiseringsprocessen. Var god försök igen!
+page_socialerror_authsuspended === Förlåt! Vi har stängt av ditt konto på grund av misstänkt aktivitet.
+page_socialerror_authemailnotfound === En giltig e-postadress måste finnas på ditt _8880_-konto!
+page_socialerror_authreturn === Återgå till inloggning
+page_socialerror_authuhoh === Hoppsan!
+widget_setupcronjobs_title === Ställ in Cronjobs
+admin_btncron_tooltip === Cron-inställning
+admin_btncron_btn === Cron
+waexport_loader_exporting === Exporterar gruppkontakter
+table_wagroups_exportcontactstooltip === Exportera kontakter
+response_waexport_unablefetchcontacts === Det går inte att få gruppkontakter!
+response_waexport_nocontactsfound === Inga kontakter hittades!
+response_systemupdate_manualinterreq === Uppdateringen kräver manuellt ingripande. Omdirigerar till ändringsloggsidan..
+apexcharts_locale_monthjanuary === Januari
+apexcharts_locale_monthfebruary === Februari
+apexcharts_locale_monthmarch === Mars
+apexcharts_locale_monthapril === April
+apexcharts_locale_monthmay === Maj
+apexcharts_locale_monthjune === Juni
+apexcharts_locale_monthjuly === Juli
+apexcharts_locale_monthaugust === Augusti
+apexcharts_locale_monthseptember === September
+apexcharts_locale_monthoctober === Oktober
+apexcharts_locale_monthnovember === November
+apexcharts_locale_monthdecember === December
+apexcharts_locale_monthjanshort === Jan
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Apr
+apexcharts_locale_monthmayshort === Maj
+apexcharts_locale_monthjunshort === Jun
+apexcharts_locale_monthjulshort === Jul
+apexcharts_locale_monthaugshort === Aug
+apexcharts_locale_monthsepshort === Sep
+apexcharts_locale_monthoctshort === Okt
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Dec
+apexcharts_locale_daymonday === Måndag
+apexcharts_locale_daytuesday === Tisdag
+apexcharts_locale_daywednesday === Onsdag
+apexcharts_locale_daythursday === Torsdag
+apexcharts_locale_dayfriday === Fredag
+apexcharts_locale_daysaturday === Lördag
+apexcharts_locale_daysunday === Söndag
+apexcharts_locale_daymondayshort === Mån
+apexcharts_locale_daytuesdayshort === Tis
+apexcharts_locale_daywednesdayshort === Ons
+apexcharts_locale_daythursdayshort === Tor
+apexcharts_locale_dayfridayshort === Fre
+apexcharts_locale_daysaturdayshort === Lör
+apexcharts_locale_daysundayshort === Sön
+apexcharts_locale_exportsvg === Ladda ner SVG
+apexcharts_locale_exportpng === Ladda ner PNG
+apexcharts_locale_menu === Meny
+apexcharts_locale_selection === Urval
+apexcharts_locale_selectionzoom === Urval Zoom
+apexcharts_locale_zin === Zooma in
+apexcharts_locale_zout === Zooma ut
+apexcharts_locale_pan === Panorera
+apexcharts_locale_reset === Återställ Zoom

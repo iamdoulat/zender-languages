@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Strengene eller settet med søke
 table_toolsautoreply_account38 === Konto: _8880_
 table_toolsautoreply_device38 === Enhet: _8880_
 forms_whatsapp_mediafilehelp38 === Mediefil, mediefilen som skal lastes opp. Støtter .jpg, .png, .gif, .mp4, .mp3 og .ogg-filer.
+response_notify_smsreceivedmessage === beskjed
+response_waquick_waaccountnotconn === WhatsApp-kontoen er ikke tilkoblet!
+admin_table_waserverpackagesempty === Pakker finnes ikke!
+admin_table_waserverstatustext === Status:
+admin_table_waserverconnectedtext === Tilkoblet:
+admin_table_waservermaxtext === Maks kontoer:
+admin_table_waserverpackagestext === Tillatte pakker:
+ratesgateway_options_viewratesbtn === Se priser
+ratesgateway_options_viewratestitle === Se priser for denne gatewayen
+ratesgateway_options_tablecrtdate === opprettet dato
+ratesgateway_options_tablegatewayid === Gateway-ID
+ratesgateway_options_tablegatewayname === Gateway navn
+ratesgateway_options_tableoptions === Alternativer
+dashboard_overall_overview === Oversikt
+dashboard_overview_gatewaysbtn === Porter
+dashboard_overview_user_totalsent === Totalt sendt
+dashboard_overview_user_totalreceived === Totalt mottatt
+dashboard_overview_user_topuploader === Behandler forespørsel
+sms_btnevent_formcontent_btntranslate === Oversette
+form_adddevice_showqrbtn === Vis QR
+dashboard_sidebarblk_overview === Oversikt
+dashboard_sidebarblk_hosts === Verter
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === Hva skjer
+dashboard_sidebarblk_waservers === WA servere
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Topp 5 land etter besøkende
+dashboard_adminoverview_browsers === Besøkende via nettleser
+dashboard_adminoverview_os === Besøkende etter OS
+dashboard_userhosts_hostbreadcrumb === Verter
+dashboard_authenticate_loginpagetagline === Logg på for å få tilgang til dashbordet
+dashboard_authenticate_regpagetagline === Registrer deg for å få tilgang til dashbordet
+dashboard_authenticate_forgotpagetagline === Hent ditt glemte passord
+dashboard_authenticate_loginpagedonthave === Har du ikke en konto ennå?
+dashboard_authenticate_regpagehave === Har du allerede en konto?
+dashboard_admin_waserverstitle === WA servere
+dashboard_admin_waserversbtn_addserver === Legg til server
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Navn
+form_waserver_addeditserver_nametagline === Et unikt navn for denne WhatsApp-serveren.
+form_waserver_addeditserver_accounts === Kontoer
+form_waserver_addeditserver_accountstagline === Maksimalt antall kontoer som er tillatt å kobles til.
+form_waserver_addeditserver_packages === Pakker
+form_waserver_addeditserver_packagestagline === Velg pakkene som har tillatelse til å bruke denne WhatsApp-serveren.
+form_waserver_addeditserver_serverurl === Server URL
+form_waserver_addeditserver_serverport === Serverport
+datatable_length_v38 === Vis _MENU_ oppføringer
+datatable_info_v38 === _START_ til _END_ av _TOTAL_
+datatable_empty_v38 === Ingen oppføringer funnet
+datatable_filtered_v38 === (_MAX_ totalt)
+requests_waserver_selectatleastonepack === Vennligst velg minst 1 pakke!
+requests_waserver_updatedsuccess === WhatsApp-serveren har blitt oppdatert!
+requests_waserver_addedsuccess === WhatsApp-serveren er lagt til!
+requests_waserver_deletedsuccess === WhatsApp-serveren er slettet!
+widget_waserver_addwatitle === Legg til WhatsApp Server
+widget_waserver_addwatitleloader === Legger til WhatsApp Server
+widget_waserver_editwatitle === Rediger WhatsApp Server
+widget_waserver_editwatitleloader === Redigering av WhatsApp-server
+widget_waserver_fieldmaxacc === Maks kontoer
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Havn
+widget_waserver_fieldsecret === Hemmelig
+widget_waserver_setupwatitle === Sett opp WhatsApp Server
+form_waserver_secretkey === Hemmelig nøkkel
+form_waserver_secretkeydesc === Lag en sikker hemmelig nøkkel. Dette vil bli brukt av WhatsApp-serveren for å bekrefte peer-forbindelse med Zender. Vennligst ikke bruk spesialtegn!
+table_waservers_optionssetupbtn === Oppsett
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Opprettet
+table_waservers_dtname === Navn
+table_waservers_dturl === URL
+table_waservers_dtport === Havn
+table_waservers_dtdetails === Detaljer
+table_waservers_dtops === Alternativer
+page_socialerror_autherrortitle === Godkjenningsfeil
+page_socialerror_authwentwrong === Noe gikk galt med autentiseringsprosessen. Vær så snill, prøv på nytt!
+page_socialerror_authsuspended === Beklager! Vi har suspendert kontoen din på grunn av mistenkelig aktivitet.
+page_socialerror_authemailnotfound === En gyldig e-postadresse må være til stede i _8880_-kontoen din!
+page_socialerror_authreturn === Gå tilbake til pålogging
+page_socialerror_authuhoh === UH oh!
+widget_setupcronjobs_title === Sett opp Cronjobs
+admin_btncron_tooltip === Cron oppsett
+admin_btncron_btn === Cron
+waexport_loader_exporting === Eksporterer gruppekontakter
+table_wagroups_exportcontactstooltip === Eksporter kontakter
+response_waexport_unablefetchcontacts === Kan ikke hente gruppekontakter!
+response_waexport_nocontactsfound === Ingen kontakter funnet!
+response_systemupdate_manualinterreq === Oppdatering krever manuell intervensjon. Omdirigerer til endringsloggsiden..
+apexcharts_locale_monthjanuary === Januar
+apexcharts_locale_monthfebruary === Februar
+apexcharts_locale_monthmarch === Mars
+apexcharts_locale_monthapril === April
+apexcharts_locale_monthmay === Mai
+apexcharts_locale_monthjune === Juni
+apexcharts_locale_monthjuly === Juli
+apexcharts_locale_monthaugust === August
+apexcharts_locale_monthseptember === September
+apexcharts_locale_monthoctober === Oktober
+apexcharts_locale_monthnovember === November
+apexcharts_locale_monthdecember === Desember
+apexcharts_locale_monthjanshort === Jan
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Apr
+apexcharts_locale_monthmayshort === Mai
+apexcharts_locale_monthjunshort === Jun
+apexcharts_locale_monthjulshort === Jul
+apexcharts_locale_monthaugshort === Aug
+apexcharts_locale_monthsepshort === Sep
+apexcharts_locale_monthoctshort === Okt
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Des
+apexcharts_locale_daymonday === Mandag
+apexcharts_locale_daytuesday === Tirsdag
+apexcharts_locale_daywednesday === Onsdag
+apexcharts_locale_daythursday === Torsdag
+apexcharts_locale_dayfriday === Fredag
+apexcharts_locale_daysaturday === Lørdag
+apexcharts_locale_daysunday === Søndag
+apexcharts_locale_daymondayshort === Man
+apexcharts_locale_daytuesdayshort === Tir
+apexcharts_locale_daywednesdayshort === Ons
+apexcharts_locale_daythursdayshort === Tor
+apexcharts_locale_dayfridayshort === Fre
+apexcharts_locale_daysaturdayshort === Lør
+apexcharts_locale_daysundayshort === Søn
+apexcharts_locale_exportsvg === Last ned SVG
+apexcharts_locale_exportpng === Last ned PNG
+apexcharts_locale_menu === Meny
+apexcharts_locale_selection === Valg
+apexcharts_locale_selectionzoom === Zoomvalg
+apexcharts_locale_zin === Zoom inn
+apexcharts_locale_zout === Zoom ut
+apexcharts_locale_pan === Panorer
+apexcharts_locale_reset === Tilbakestill zoom

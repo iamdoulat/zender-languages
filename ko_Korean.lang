@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === 자동 회신을 실행하는 �
 table_toolsautoreply_account38 === 계정: _8880_
 table_toolsautoreply_device38 === 장치: _8880_
 forms_whatsapp_mediafilehelp38 === 미디어 파일, 업로드할 미디어 파일입니다. .jpg, .png, .gif, .mp4, .mp3 및 .ogg 파일을 지원합니다.
+response_notify_smsreceivedmessage === 메시지
+response_waquick_waaccountnotconn === WhatsApp 계정이 연결되지 않았습니다!
+admin_table_waserverpackagesempty === 패키지가 존재하지 않습니다!
+admin_table_waserverstatustext === 상태:
+admin_table_waserverconnectedtext === 연결됨:
+admin_table_waservermaxtext === 최대 계정:
+admin_table_waserverpackagestext === 허용되는 패키지:
+ratesgateway_options_viewratesbtn === 요금 보기
+ratesgateway_options_viewratestitle === 이 게이트웨이의 요금 보기
+ratesgateway_options_tablecrtdate === 생성 날짜
+ratesgateway_options_tablegatewayid === 게이트웨이 ID
+ratesgateway_options_tablegatewayname === 게이트웨이 이름
+ratesgateway_options_tableoptions === 옵션
+dashboard_overall_overview === 개요
+dashboard_overview_gatewaysbtn === 게이트웨이
+dashboard_overview_user_totalsent === 총 보낸 금액
+dashboard_overview_user_totalreceived === 총 수령액
+dashboard_overview_user_topuploader === 요청 처리 중
+sms_btnevent_formcontent_btntranslate === 번역하다
+form_adddevice_showqrbtn === QR 표시
+dashboard_sidebarblk_overview === 개요
+dashboard_sidebarblk_hosts === 호스트
+dashboard_sidebarblk_hostsandroid === 기계적 인조 인간
+dashboard_sidebarblk_hostswhatsapp === 왓츠앱
+dashboard_sidebarblk_waservers === WA 서버
+dashboard_sidebarblk_docsandroid === 기계적 인조 인간
+dashboard_pageheading_docsandroid === 기계적 인조 인간
+dashboard_adminoverview_topcountries5 === 방문자 기준 상위 5개 국가
+dashboard_adminoverview_browsers === 브라우저별 방문자
+dashboard_adminoverview_os === OS별 방문자
+dashboard_userhosts_hostbreadcrumb === 호스트
+dashboard_authenticate_loginpagetagline === 대시보드에 액세스하려면 로그인하세요.
+dashboard_authenticate_regpagetagline === 대시보드에 액세스하려면 등록하세요
+dashboard_authenticate_forgotpagetagline === 잊어버린 비밀번호를 검색하세요
+dashboard_authenticate_loginpagedonthave === 아직 계정이 없나요?
+dashboard_authenticate_regpagehave === 이미 계정이 있나요?
+dashboard_admin_waserverstitle === WA 서버
+dashboard_admin_waserversbtn_addserver === 서버 추가
+dashboard_docsnew_androidtitle === 기계적 인조 인간
+form_waserver_addeditserver_name === 이름
+form_waserver_addeditserver_nametagline === 이 WhatsApp 서버의 고유한 이름입니다.
+form_waserver_addeditserver_accounts === 계정
+form_waserver_addeditserver_accountstagline === 연결이 허용되는 최대 계정 수입니다.
+form_waserver_addeditserver_packages === 패키지
+form_waserver_addeditserver_packagestagline === 이 WhatsApp 서버를 사용하도록 허용된 패키지를 선택하세요.
+form_waserver_addeditserver_serverurl === 서버 URL
+form_waserver_addeditserver_serverport === 서버 포트
+datatable_length_v38 === _MENU_개 항목 표시
+datatable_info_v38 === _TOTAL_ 중 _START_ ~ _END_
+datatable_empty_v38 === 항목을 찾을 수 없습니다
+datatable_filtered_v38 === (총 _MAX_)
+requests_waserver_selectatleastonepack === 패키지를 1개 이상 선택하세요!
+requests_waserver_updatedsuccess === WhatsApp 서버가 업데이트되었습니다!
+requests_waserver_addedsuccess === WhatsApp 서버가 추가되었습니다!
+requests_waserver_deletedsuccess === WhatsApp 서버가 삭제되었습니다!
+widget_waserver_addwatitle === WhatsApp 서버 추가
+widget_waserver_addwatitleloader === WhatsApp 서버 추가
+widget_waserver_editwatitle === WhatsApp 서버 편집
+widget_waserver_editwatitleloader === WhatsApp 서버 편집
+widget_waserver_fieldmaxacc === 최대 계정
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === 포트
+widget_waserver_fieldsecret === 비밀
+widget_waserver_setupwatitle === WhatsApp 서버 설정
+form_waserver_secretkey === 비밀키
+form_waserver_secretkeydesc === 안전한 비밀 키를 생성하세요. 이는 WhatsApp 서버에서 Zender와의 피어 연결을 확인하는 데 사용됩니다. 특수문자는 사용하지 마세요!
+table_waservers_optionssetupbtn === 설정
+table_androidver_14 === 안드로이드 14
+table_waservers_dtcreated === 만들어진
+table_waservers_dtname === 이름
+table_waservers_dturl === URL
+table_waservers_dtport === 포트
+table_waservers_dtdetails === 세부
+table_waservers_dtops === 옵션
+page_socialerror_autherrortitle === 인증 오류
+page_socialerror_authwentwrong === 인증 과정에 문제가 발생했습니다. 다시 시도해 주세요!
+page_socialerror_authsuspended === 죄송합니다! 의심스러운 활동으로 인해 귀하의 계정이 정지되었습니다.
+page_socialerror_authemailnotfound === _8880_ 계정에 유효한 이메일 주소가 있어야 합니다!
+page_socialerror_authreturn === 로그인으로 돌아가기
+page_socialerror_authuhoh === 어 오!
+widget_setupcronjobs_title === 크론잡 설정
+admin_btncron_tooltip === 크론 설정
+admin_btncron_btn === 크론
+waexport_loader_exporting === 그룹 연락처 내보내기
+table_wagroups_exportcontactstooltip === 연락처 내보내기
+response_waexport_unablefetchcontacts === 그룹 연락처를 가져올 수 없습니다!
+response_waexport_nocontactsfound === 연락처를 찾을 수 없습니다.
+response_systemupdate_manualinterreq === 업데이트에는 수동 개입이 필요합니다. 변경 로그 페이지로 리디렉션 중..
+apexcharts_locale_monthjanuary === 1월
+apexcharts_locale_monthfebruary === 2월
+apexcharts_locale_monthmarch === 3월
+apexcharts_locale_monthapril === 4월
+apexcharts_locale_monthmay === 5월
+apexcharts_locale_monthjune === 6월
+apexcharts_locale_monthjuly === 7월
+apexcharts_locale_monthaugust === 8월
+apexcharts_locale_monthseptember === 9월
+apexcharts_locale_monthoctober === 10월
+apexcharts_locale_monthnovember === 11월
+apexcharts_locale_monthdecember === 12월
+apexcharts_locale_monthjanshort === 1월
+apexcharts_locale_monthfebshort === 2월
+apexcharts_locale_monthmarshort === 3월
+apexcharts_locale_monthaprshort === 4월
+apexcharts_locale_monthmayshort === 5월
+apexcharts_locale_monthjunshort === 6월
+apexcharts_locale_monthjulshort === 7월
+apexcharts_locale_monthaugshort === 8월
+apexcharts_locale_monthsepshort === 9월
+apexcharts_locale_monthoctshort === 10월
+apexcharts_locale_monthnovshort === 11월
+apexcharts_locale_monthdecshort === 12월
+apexcharts_locale_daymonday === 월요일
+apexcharts_locale_daytuesday === 화요일
+apexcharts_locale_daywednesday === 수요일
+apexcharts_locale_daythursday === 목요일
+apexcharts_locale_dayfriday === 금요일
+apexcharts_locale_daysaturday === 토요일
+apexcharts_locale_daysunday === 일요일
+apexcharts_locale_daymondayshort === 월
+apexcharts_locale_daytuesdayshort === 화
+apexcharts_locale_daywednesdayshort === 수
+apexcharts_locale_daythursdayshort === 목
+apexcharts_locale_dayfridayshort === 금
+apexcharts_locale_daysaturdayshort === 토
+apexcharts_locale_daysundayshort === 일
+apexcharts_locale_exportsvg === SVG 다운로드
+apexcharts_locale_exportpng === PNG 다운로드
+apexcharts_locale_menu === 메뉴
+apexcharts_locale_selection === 선택
+apexcharts_locale_selectionzoom === 선택 줌
+apexcharts_locale_zin === 확대
+apexcharts_locale_zout === 축소
+apexcharts_locale_pan === 이동
+apexcharts_locale_reset === 줌 재설정

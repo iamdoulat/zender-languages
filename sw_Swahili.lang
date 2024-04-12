@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Mifuatano au seti ya manenomsing
 table_toolsautoreply_account38 === Akaunti: _8880_
 table_toolsautoreply_device38 === Kifaa: _8880_
 forms_whatsapp_mediafilehelp38 === Faili ya midia, faili ya midia ya kupakiwa. Inaauni faili za .jpg, .png, .gif, .mp4, .mp3 na .ogg.
+response_notify_smsreceivedmessage === ujumbe
+response_waquick_waaccountnotconn === Akaunti ya WhatsApp haijaunganishwa!
+admin_table_waserverpackagesempty === Vifurushi haipo!
+admin_table_waserverstatustext === Hali:
+admin_table_waserverconnectedtext === Imeunganishwa:
+admin_table_waservermaxtext === Hesabu za Juu:
+admin_table_waserverpackagestext === Vifurushi vinavyoruhusiwa:
+ratesgateway_options_viewratesbtn === Tazama Viwango
+ratesgateway_options_viewratestitle === Tazama viwango vya lango hili
+ratesgateway_options_tablecrtdate === Tarehe Iliyoundwa
+ratesgateway_options_tablegatewayid === Kitambulisho cha lango
+ratesgateway_options_tablegatewayname === Jina la Gateway
+ratesgateway_options_tableoptions === Chaguo
+dashboard_overall_overview === Muhtasari
+dashboard_overview_gatewaysbtn === Milango
+dashboard_overview_user_totalsent === Jumla Iliyotumwa
+dashboard_overview_user_totalreceived === Jumla Imepokelewa
+dashboard_overview_user_topuploader === Inachakata ombi
+sms_btnevent_formcontent_btntranslate === Tafsiri
+form_adddevice_showqrbtn === Onyesha QR
+dashboard_sidebarblk_overview === Muhtasari
+dashboard_sidebarblk_hosts === Wenyeji
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === Seva za WA
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Nchi 5 Bora kwa Wageni
+dashboard_adminoverview_browsers === Wageni kwa Kivinjari
+dashboard_adminoverview_os === Wageni kwa OS
+dashboard_userhosts_hostbreadcrumb === Wenyeji
+dashboard_authenticate_loginpagetagline === Ingia ili Upate Dashibodi
+dashboard_authenticate_regpagetagline === Sajili ili Upate Dashibodi
+dashboard_authenticate_forgotpagetagline === Rejesha Nenosiri lako Ulilosahau
+dashboard_authenticate_loginpagedonthave === Je, bado huna akaunti?
+dashboard_authenticate_regpagehave === Je, tayari una akaunti?
+dashboard_admin_waserverstitle === Seva za WA
+dashboard_admin_waserversbtn_addserver === Ongeza Seva
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Jina
+form_waserver_addeditserver_nametagline === Jina la kipekee la seva hii ya WhatsApp.
+form_waserver_addeditserver_accounts === Akaunti
+form_waserver_addeditserver_accountstagline === Idadi ya juu zaidi ya akaunti zinazoruhusiwa kuunganishwa.
+form_waserver_addeditserver_packages === Vifurushi
+form_waserver_addeditserver_packagestagline === Chagua vifurushi vinavyoruhusiwa kutumia seva hii ya WhatsApp.
+form_waserver_addeditserver_serverurl === URL ya seva
+form_waserver_addeditserver_serverport === Bandari ya Seva
+datatable_length_v38 === Onyesha maingizo _MENU_
+datatable_info_v38 === _START_ hadi _END_ ya _TOTAL_
+datatable_empty_v38 === Hakuna maingizo yaliyopatikana
+datatable_filtered_v38 === (Jumla ya _MAX_)
+requests_waserver_selectatleastonepack === Tafadhali chagua angalau kifurushi 1!
+requests_waserver_updatedsuccess === Seva ya WhatsApp imesasishwa!
+requests_waserver_addedsuccess === Seva ya WhatsApp imeongezwa!
+requests_waserver_deletedsuccess === Seva ya WhatsApp imefutwa!
+widget_waserver_addwatitle === Ongeza Seva ya WhatsApp
+widget_waserver_addwatitleloader === Inaongeza Seva ya WhatsApp
+widget_waserver_editwatitle === Badilisha Seva ya WhatsApp
+widget_waserver_editwatitleloader === Inahariri Seva ya WhatsApp
+widget_waserver_fieldmaxacc === Hesabu za Juu
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Bandari
+widget_waserver_fieldsecret === Siri
+widget_waserver_setupwatitle === Sanidi Seva ya WhatsApp
+form_waserver_secretkey === Ufunguo wa Siri
+form_waserver_secretkeydesc === Unda ufunguo salama wa siri. Hii itatumiwa na seva ya WhatsApp ili kuthibitisha muunganisho wa programu zingine na Zender. Tafadhali usitumie herufi maalum!
+table_waservers_optionssetupbtn === Sanidi
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Imeundwa
+table_waservers_dtname === Jina
+table_waservers_dturl === URL
+table_waservers_dtport === Bandari
+table_waservers_dtdetails === Maelezo
+table_waservers_dtops === Chaguo
+page_socialerror_autherrortitle === Hitilafu ya Uthibitishaji
+page_socialerror_authwentwrong === Hitilafu fulani imetokea katika mchakato wa uthibitishaji. Tafadhali jaribu tena!
+page_socialerror_authsuspended === Pole! Tumesimamisha akaunti yako kwa sababu ya shughuli za kutiliwa shaka.
+page_socialerror_authemailnotfound === Barua pepe halali lazima iwepo katika akaunti yako _8880_!
+page_socialerror_authreturn === Rudi kwa Ingia
+page_socialerror_authuhoh === Lo!
+widget_setupcronjobs_title === Sanidi Cronjobs
+admin_btncron_tooltip === Usanidi wa Cron
+admin_btncron_btn === Cron
+waexport_loader_exporting === Inahamisha Anwani za Kikundi
+table_wagroups_exportcontactstooltip === Hamisha Anwani
+response_waexport_unablefetchcontacts === Imeshindwa kupata anwani za kikundi!
+response_waexport_nocontactsfound === Hakuna anwani zilizopatikana!
+response_systemupdate_manualinterreq === Usasishaji unahitaji uingiliaji wa kibinafsi. Inaelekezwa kwenye ukurasa wa mabadiliko..
+apexcharts_locale_monthjanuary === Januari
+apexcharts_locale_monthfebruary === Februari
+apexcharts_locale_monthmarch === Machi
+apexcharts_locale_monthapril === Aprili
+apexcharts_locale_monthmay === Mei
+apexcharts_locale_monthjune === Juni
+apexcharts_locale_monthjuly === Julai
+apexcharts_locale_monthaugust === Agosti
+apexcharts_locale_monthseptember === Septemba
+apexcharts_locale_monthoctober === Oktoba
+apexcharts_locale_monthnovember === Novemba
+apexcharts_locale_monthdecember === Desemba
+apexcharts_locale_monthjanshort === Jan
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Apr
+apexcharts_locale_monthmayshort === Mei
+apexcharts_locale_monthjunshort === Jun
+apexcharts_locale_monthjulshort === Jul
+apexcharts_locale_monthaugshort === Ago
+apexcharts_locale_monthsepshort === Sep
+apexcharts_locale_monthoctshort === Okt
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Des
+apexcharts_locale_daymonday === Jumatatu
+apexcharts_locale_daytuesday === Jumanne
+apexcharts_locale_daywednesday === Jumatano
+apexcharts_locale_daythursday === Alhamisi
+apexcharts_locale_dayfriday === Ijumaa
+apexcharts_locale_daysaturday === Jumamosi
+apexcharts_locale_daysunday === Jumapili
+apexcharts_locale_daymondayshort === J2
+apexcharts_locale_daytuesdayshort === J3
+apexcharts_locale_daywednesdayshort === J4
+apexcharts_locale_daythursdayshort === Alh
+apexcharts_locale_dayfridayshort === Iju
+apexcharts_locale_daysaturdayshort === Jmo
+apexcharts_locale_daysundayshort === Jap
+apexcharts_locale_exportsvg === Pakua SVG
+apexcharts_locale_exportpng === Pakua PNG
+apexcharts_locale_menu === Menyu
+apexcharts_locale_selection === Chagua
+apexcharts_locale_selectionzoom === Chagua Kukaribia
+apexcharts_locale_zin === Karibu
+apexcharts_locale_zout === Onyesha Mbali
+apexcharts_locale_pan === Kusogeza
+apexcharts_locale_reset === Rudisha

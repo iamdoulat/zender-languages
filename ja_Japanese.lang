@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === 自動応答をトリガーす�
 table_toolsautoreply_account38 === アカウント: _8880_
 table_toolsautoreply_device38 === デバイス: _8880_
 forms_whatsapp_mediafilehelp38 === メディア ファイル、アップロードするメディア ファイル。 .jpg、.png、.gif、.mp4、.mp3、.ogg ファイルをサポートします。
+response_notify_smsreceivedmessage === メッセージ
+response_waquick_waaccountnotconn === WhatsApp アカウントが接続されていません!
+admin_table_waserverpackagesempty === パッケージが存在しません!
+admin_table_waserverstatustext === 状態：
+admin_table_waserverconnectedtext === 接続済み:
+admin_table_waservermaxtext === 最大アカウント数:
+admin_table_waserverpackagestext === 許可されるパッケージ:
+ratesgateway_options_viewratesbtn === 料金を見る
+ratesgateway_options_viewratestitle === このゲートウェイの料金を表示する
+ratesgateway_options_tablecrtdate === 作成日
+ratesgateway_options_tablegatewayid === ゲートウェイID
+ratesgateway_options_tablegatewayname === ゲートウェイ名
+ratesgateway_options_tableoptions === オプション
+dashboard_overall_overview === 概要
+dashboard_overview_gatewaysbtn === ゲートウェイ
+dashboard_overview_user_totalsent === 送信済み合計
+dashboard_overview_user_totalreceived === 合計受信額
+dashboard_overview_user_topuploader === リクエストの処理
+sms_btnevent_formcontent_btntranslate === 翻訳する
+form_adddevice_showqrbtn === QRを表示
+dashboard_sidebarblk_overview === 概要
+dashboard_sidebarblk_hosts === ホスト
+dashboard_sidebarblk_hostsandroid === アンドロイド
+dashboard_sidebarblk_hostswhatsapp === ワッツアップ
+dashboard_sidebarblk_waservers === WAサーバー
+dashboard_sidebarblk_docsandroid === アンドロイド
+dashboard_pageheading_docsandroid === アンドロイド
+dashboard_adminoverview_topcountries5 === 訪問者トップ 5 か国
+dashboard_adminoverview_browsers === ブラウザによる訪問者
+dashboard_adminoverview_os === OS別の訪問者数
+dashboard_userhosts_hostbreadcrumb === ホスト
+dashboard_authenticate_loginpagetagline === ログインしてダッシュボードにアクセスする
+dashboard_authenticate_regpagetagline === ダッシュボードにアクセスするために登録します
+dashboard_authenticate_forgotpagetagline === 忘れたパスワードを取得する
+dashboard_authenticate_loginpagedonthave === まだアカウントをお持ちでない場合は、
+dashboard_authenticate_regpagehave === すでにアカウントをお持ちですか？
+dashboard_admin_waserverstitle === WAサーバー
+dashboard_admin_waserversbtn_addserver === サーバーの追加
+dashboard_docsnew_androidtitle === アンドロイド
+form_waserver_addeditserver_name === 名前
+form_waserver_addeditserver_nametagline === この WhatsApp サーバーの一意の名前。
+form_waserver_addeditserver_accounts === アカウント
+form_waserver_addeditserver_accountstagline === 接続を許可されるアカウントの最大数。
+form_waserver_addeditserver_packages === パッケージ
+form_waserver_addeditserver_packagestagline === この WhatsApp サーバーの使用を許可するパッケージを選択します。
+form_waserver_addeditserver_serverurl === サーバーURL
+form_waserver_addeditserver_serverport === サーバポート
+datatable_length_v38 === _MENU_ 件のエントリを表示
+datatable_info_v38 === _TOTAL_ の _START_ ～ _END_
+datatable_empty_v38 === エントリが見つかりませんでした
+datatable_filtered_v38 === (合計_MAX_)
+requests_waserver_selectatleastonepack === 少なくとも 1 つのパッケージを選択してください。
+requests_waserver_updatedsuccess === WhatsAppサーバーが更新されました！
+requests_waserver_addedsuccess === WhatsAppサーバーが追加されました！
+requests_waserver_deletedsuccess === WhatsAppサーバーが削除されました!
+widget_waserver_addwatitle === WhatsAppサーバーを追加する
+widget_waserver_addwatitleloader === WhatsAppサーバーの追加
+widget_waserver_editwatitle === WhatsAppサーバーを編集する
+widget_waserver_editwatitleloader === WhatsAppサーバーの編集
+widget_waserver_fieldmaxacc === 最大アカウント数
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === ポート
+widget_waserver_fieldsecret === 秘密
+widget_waserver_setupwatitle === WhatsAppサーバーのセットアップ
+form_waserver_secretkey === 秘密鍵
+form_waserver_secretkeydesc === 安全な秘密鍵を作成します。これは、WhatsApp サーバーが Zender とのピア接続を確認するために使用されます。特殊文字は使用しないでください。
+table_waservers_optionssetupbtn === 設定
+table_androidver_14 === アンドロイド14
+table_waservers_dtcreated === 作成した
+table_waservers_dtname === 名前
+table_waservers_dturl === URL
+table_waservers_dtport === ポート
+table_waservers_dtdetails === 詳細
+table_waservers_dtops === オプション
+page_socialerror_autherrortitle === 認証エラー
+page_socialerror_authwentwrong === 認証プロセスで問題が発生しました。もう一度試してください。
+page_socialerror_authsuspended === ごめん！不審な行為があったため、あなたのアカウントを停止しました。
+page_socialerror_authemailnotfound === 有効な電子メール アドレスが _8880_ アカウントに存在する必要があります。
+page_socialerror_authreturn === ログインに戻る
+page_socialerror_authuhoh === ええとああ！
+widget_setupcronjobs_title === Cronジョブのセットアップ
+admin_btncron_tooltip === Cron のセットアップ
+admin_btncron_btn === クロン
+waexport_loader_exporting === グループ連絡先のエクスポート
+table_wagroups_exportcontactstooltip === 連絡先のエクスポート
+response_waexport_unablefetchcontacts === グループの連絡先を取得できません!
+response_waexport_nocontactsfound === 連絡先が見つかりません!
+response_systemupdate_manualinterreq === 更新には手動介入が必要です。変更履歴ページにリダイレクトしています。
+apexcharts_locale_monthjanuary === 1月
+apexcharts_locale_monthfebruary === 2月
+apexcharts_locale_monthmarch === 3月
+apexcharts_locale_monthapril === 4月
+apexcharts_locale_monthmay === 5月
+apexcharts_locale_monthjune === 6月
+apexcharts_locale_monthjuly === 7月
+apexcharts_locale_monthaugust === 8月
+apexcharts_locale_monthseptember === 9月
+apexcharts_locale_monthoctober === 10月
+apexcharts_locale_monthnovember === 11月
+apexcharts_locale_monthdecember === 12月
+apexcharts_locale_monthjanshort === 1月
+apexcharts_locale_monthfebshort === 2月
+apexcharts_locale_monthmarshort === 3月
+apexcharts_locale_monthaprshort === 4月
+apexcharts_locale_monthmayshort === 5月
+apexcharts_locale_monthjunshort === 6月
+apexcharts_locale_monthjulshort === 7月
+apexcharts_locale_monthaugshort === 8月
+apexcharts_locale_monthsepshort === 9月
+apexcharts_locale_monthoctshort === 10月
+apexcharts_locale_monthnovshort === 11月
+apexcharts_locale_monthdecshort === 12月
+apexcharts_locale_daymonday === 月曜日
+apexcharts_locale_daytuesday === 火曜日
+apexcharts_locale_daywednesday === 水曜日
+apexcharts_locale_daythursday === 木曜日
+apexcharts_locale_dayfriday === 金曜日
+apexcharts_locale_daysaturday === 土曜日
+apexcharts_locale_daysunday === 日曜日
+apexcharts_locale_daymondayshort === 月
+apexcharts_locale_daytuesdayshort === 火
+apexcharts_locale_daywednesdayshort === 水
+apexcharts_locale_daythursdayshort === 木
+apexcharts_locale_dayfridayshort === 金
+apexcharts_locale_daysaturdayshort === 土
+apexcharts_locale_daysundayshort === 日
+apexcharts_locale_exportsvg === SVG をダウンロード
+apexcharts_locale_exportpng === PNG をダウンロード
+apexcharts_locale_menu === メニュー
+apexcharts_locale_selection === 選択
+apexcharts_locale_selectionzoom === 選択ズーム
+apexcharts_locale_zin === 拡大
+apexcharts_locale_zout === 縮小
+apexcharts_locale_pan === 移動
+apexcharts_locale_reset === ズームリセット

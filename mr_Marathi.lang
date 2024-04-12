@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === ऑटोरिप्लाय �
 table_toolsautoreply_account38 === खाते: _8880_
 table_toolsautoreply_device38 === डिव्हाइस: _8880_
 forms_whatsapp_mediafilehelp38 === मीडिया फाइल, अपलोड करायची मीडिया फाइल. .jpg, .png, .gif, .mp4, .mp3 आणि .ogg फाइल्सना सपोर्ट करते.
+response_notify_smsreceivedmessage === संदेश
+response_waquick_waaccountnotconn === WhatsApp खाते कनेक्ट केलेले नाही!
+admin_table_waserverpackagesempty === पॅकेजेस अस्तित्वात नाहीत!
+admin_table_waserverstatustext === स्थिती:
+admin_table_waserverconnectedtext === जोडलेले:
+admin_table_waservermaxtext === कमाल खाती:
+admin_table_waserverpackagestext === परवानगी असलेली पॅकेजेस:
+ratesgateway_options_viewratesbtn === दर पहा
+ratesgateway_options_viewratestitle === या गेटवेसाठी दर पहा
+ratesgateway_options_tablecrtdate === तारीख तयार केली
+ratesgateway_options_tablegatewayid === गेटवे आयडी
+ratesgateway_options_tablegatewayname === गेटवेचे नाव
+ratesgateway_options_tableoptions === पर्याय
+dashboard_overall_overview === आढावा
+dashboard_overview_gatewaysbtn === प्रवेशद्वार
+dashboard_overview_user_totalsent === एकूण पाठवले
+dashboard_overview_user_totalreceived === एकूण प्राप्त
+dashboard_overview_user_topuploader === विनंतीवर प्रक्रिया करत आहे
+sms_btnevent_formcontent_btntranslate === भाषांतर करा
+form_adddevice_showqrbtn === QR दाखवा
+dashboard_sidebarblk_overview === आढावा
+dashboard_sidebarblk_hosts === यजमान
+dashboard_sidebarblk_hostsandroid === अँड्रॉइड
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === WA सर्व्हर
+dashboard_sidebarblk_docsandroid === अँड्रॉइड
+dashboard_pageheading_docsandroid === अँड्रॉइड
+dashboard_adminoverview_topcountries5 === अभ्यागतांनुसार शीर्ष 5 देश
+dashboard_adminoverview_browsers === ब्राउझरद्वारे अभ्यागत
+dashboard_adminoverview_os === OS द्वारे अभ्यागत
+dashboard_userhosts_hostbreadcrumb === यजमान
+dashboard_authenticate_loginpagetagline === डॅशबोर्डवर प्रवेश करण्यासाठी लॉग इन करा
+dashboard_authenticate_regpagetagline === डॅशबोर्डवर प्रवेश करण्यासाठी नोंदणी करा
+dashboard_authenticate_forgotpagetagline === तुमचा विसरलेला पासवर्ड पुनर्प्राप्त करा
+dashboard_authenticate_loginpagedonthave === अजून खाते नाही?
+dashboard_authenticate_regpagehave === आधीपासूनच एक खाते आहे?
+dashboard_admin_waserverstitle === WA सर्व्हर
+dashboard_admin_waserversbtn_addserver === सर्व्हर जोडा
+dashboard_docsnew_androidtitle === अँड्रॉइड
+form_waserver_addeditserver_name === नाव
+form_waserver_addeditserver_nametagline === या व्हॉट्सॲप सर्व्हरसाठी एक अद्वितीय नाव.
+form_waserver_addeditserver_accounts === खाती
+form_waserver_addeditserver_accountstagline === कनेक्ट करण्याची अनुमती असलेल्या खात्यांची कमाल संख्या.
+form_waserver_addeditserver_packages === पॅकेजेस
+form_waserver_addeditserver_packagestagline === हे व्हाट्सएप सर्व्हर वापरण्याची परवानगी असलेले पॅकेज निवडा.
+form_waserver_addeditserver_serverurl === सर्व्हर URL
+form_waserver_addeditserver_serverport === सर्व्हर पोर्ट
+datatable_length_v38 === _MENU_ नोंदी दाखवा
+datatable_info_v38 === _TOTAL_ पैकी _START_ ते _END_
+datatable_empty_v38 === कोणत्याही नोंदी आढळल्या नाहीत
+datatable_filtered_v38 === (एकूण ८८८८५)
+requests_waserver_selectatleastonepack === कृपया किमान 1 पॅकेज निवडा!
+requests_waserver_updatedsuccess === व्हॉट्सॲप सर्व्हर अपडेट झाला आहे!
+requests_waserver_addedsuccess === WhatsApp सर्व्हर जोडला गेला आहे!
+requests_waserver_deletedsuccess === व्हॉट्सॲप सर्व्हर हटवला गेला!
+widget_waserver_addwatitle === WhatsApp सर्व्हर जोडा
+widget_waserver_addwatitleloader === WhatsApp सर्व्हर जोडत आहे
+widget_waserver_editwatitle === WhatsApp सर्व्हर संपादित करा
+widget_waserver_editwatitleloader === व्हॉट्सॲप सर्व्हर संपादित करत आहे
+widget_waserver_fieldmaxacc === कमाल खाती
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === बंदर
+widget_waserver_fieldsecret === गुप्त
+widget_waserver_setupwatitle === व्हॉट्सॲप सर्व्हर सेट करा
+form_waserver_secretkey === गुप्त की
+form_waserver_secretkeydesc === एक सुरक्षित गुप्त की तयार करा. हे व्हॉट्सॲप सर्व्हरद्वारे Zender सह पीअर कनेक्शन सत्यापित करण्यासाठी वापरले जाईल. कृपया विशेष वर्ण वापरू नका!
+table_waservers_optionssetupbtn === सेटअप
+table_androidver_14 === Android 14
+table_waservers_dtcreated === तयार केले
+table_waservers_dtname === नाव
+table_waservers_dturl === URL
+table_waservers_dtport === बंदर
+table_waservers_dtdetails === तपशील
+table_waservers_dtops === पर्याय
+page_socialerror_autherrortitle === प्रमाणीकरण त्रुटी
+page_socialerror_authwentwrong === प्रमाणीकरण प्रक्रियेत काहीतरी चूक झाली. कृपया पुन्हा प्रयत्न करा!
+page_socialerror_authsuspended === क्षमस्व! संशयास्पद क्रियाकलापांमुळे आम्ही तुमचे खाते निलंबित केले आहे.
+page_socialerror_authemailnotfound === तुमच्या _8880_ खात्यामध्ये वैध ईमेल पत्ता असणे आवश्यक आहे!
+page_socialerror_authreturn === लॉगिन वर परत या
+page_socialerror_authuhoh === अरेरे!
+widget_setupcronjobs_title === क्रोनजॉब्स सेट करा
+admin_btncron_tooltip === क्रॉन सेटअप
+admin_btncron_btn === क्रोन
+waexport_loader_exporting === गट संपर्क निर्यात करत आहे
+table_wagroups_exportcontactstooltip === संपर्क निर्यात करा
+response_waexport_unablefetchcontacts === गट संपर्क मिळविण्यात अक्षम!
+response_waexport_nocontactsfound === कोणतेही संपर्क आढळले नाहीत!
+response_systemupdate_manualinterreq === अपडेटसाठी मॅन्युअल हस्तक्षेप आवश्यक आहे. चेंजलॉग पृष्ठावर पुनर्निर्देशित करत आहे..
+apexcharts_locale_monthjanuary === जानेवारी
+apexcharts_locale_monthfebruary === फेब्रुवारी
+apexcharts_locale_monthmarch === मार्च
+apexcharts_locale_monthapril === एप्रिल
+apexcharts_locale_monthmay === मे
+apexcharts_locale_monthjune === जून
+apexcharts_locale_monthjuly === जुलै
+apexcharts_locale_monthaugust === ऑगस्ट
+apexcharts_locale_monthseptember === सप्टेंबर
+apexcharts_locale_monthoctober === ऑक्टोबर
+apexcharts_locale_monthnovember === नोव्हेंबर
+apexcharts_locale_monthdecember === डिसेंबर
+apexcharts_locale_monthjanshort === जाने
+apexcharts_locale_monthfebshort === फेब्रु
+apexcharts_locale_monthmarshort === मार्च
+apexcharts_locale_monthaprshort === एप्रि
+apexcharts_locale_monthmayshort === मे
+apexcharts_locale_monthjunshort === जून
+apexcharts_locale_monthjulshort === जुलै
+apexcharts_locale_monthaugshort === ऑग
+apexcharts_locale_monthsepshort === सप्टें
+apexcharts_locale_monthoctshort === ऑक्टो
+apexcharts_locale_monthnovshort === नोव्हें
+apexcharts_locale_monthdecshort === डिसें
+apexcharts_locale_daymonday === सोमवार
+apexcharts_locale_daytuesday === मंगळवार
+apexcharts_locale_daywednesday === बुधवार
+apexcharts_locale_daythursday === गुरुवार
+apexcharts_locale_dayfriday === शुक्रवार
+apexcharts_locale_daysaturday === शनिवार
+apexcharts_locale_daysunday === रविवार
+apexcharts_locale_daymondayshort === सोम
+apexcharts_locale_daytuesdayshort === मंगळ
+apexcharts_locale_daywednesdayshort === बुध
+apexcharts_locale_daythursdayshort === गुरु
+apexcharts_locale_dayfridayshort === शुक्र
+apexcharts_locale_daysaturdayshort === शनि
+apexcharts_locale_daysundayshort === रवि
+apexcharts_locale_exportsvg === SVG डाउनलोड करा
+apexcharts_locale_exportpng === PNG डाउनलोड करा
+apexcharts_locale_menu === मेनू
+apexcharts_locale_selection === निवड
+apexcharts_locale_selectionzoom === निवड झूम
+apexcharts_locale_zin === वाढवा
+apexcharts_locale_zout === कमी करा
+apexcharts_locale_pan === फिरणे
+apexcharts_locale_reset === रीसेट करा

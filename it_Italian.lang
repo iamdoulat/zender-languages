@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Le stringhe o l'insieme di parol
 table_toolsautoreply_account38 === Conto: _8880_
 table_toolsautoreply_device38 === Dispositivo: _8880_
 forms_whatsapp_mediafilehelp38 === File multimediale, il file multimediale da caricare. Supporta file .jpg, .png, .gif, .mp4, .mp3 e .ogg.
+response_notify_smsreceivedmessage === Messaggio
+response_waquick_waaccountnotconn === L'account WhatsApp non è connesso!
+admin_table_waserverpackagesempty === I pacchetti non esistono!
+admin_table_waserverstatustext === Stato:
+admin_table_waserverconnectedtext === Collegato:
+admin_table_waservermaxtext === Conti massimi:
+admin_table_waserverpackagestext === Pacchetti consentiti:
+ratesgateway_options_viewratesbtn === Visualizza le tariffe
+ratesgateway_options_viewratestitle === Visualizza le tariffe per questo gateway
+ratesgateway_options_tablecrtdate === Data di Creazione
+ratesgateway_options_tablegatewayid === ID del gateway
+ratesgateway_options_tablegatewayname === Nome del gateway
+ratesgateway_options_tableoptions === Opzioni
+dashboard_overall_overview === Panoramica
+dashboard_overview_gatewaysbtn === Gateway
+dashboard_overview_user_totalsent === Totale inviato
+dashboard_overview_user_totalreceived === Totale ricevuto
+dashboard_overview_user_topuploader === Richiesta di elaborazione
+sms_btnevent_formcontent_btntranslate === Tradurre
+form_adddevice_showqrbtn === Mostra QR
+dashboard_sidebarblk_overview === Panoramica
+dashboard_sidebarblk_hosts === Ospiti
+dashboard_sidebarblk_hostsandroid === Androide
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === Server WA
+dashboard_sidebarblk_docsandroid === Androide
+dashboard_pageheading_docsandroid === Androide
+dashboard_adminoverview_topcountries5 === Primi 5 paesi per visitatori
+dashboard_adminoverview_browsers === Visitatori per browser
+dashboard_adminoverview_os === Visitatori per sistema operativo
+dashboard_userhosts_hostbreadcrumb === Ospiti
+dashboard_authenticate_loginpagetagline === Effettua il login per accedere alla dashboard
+dashboard_authenticate_regpagetagline === Registrati per accedere alla dashboard
+dashboard_authenticate_forgotpagetagline === Recupera la tua password dimenticata
+dashboard_authenticate_loginpagedonthave === Non hai ancora un conto?
+dashboard_authenticate_regpagehave === Hai già un account?
+dashboard_admin_waserverstitle === Server WA
+dashboard_admin_waserversbtn_addserver === Aggiungi server
+dashboard_docsnew_androidtitle === Androide
+form_waserver_addeditserver_name === Nome
+form_waserver_addeditserver_nametagline === Un nome univoco per questo server WhatsApp.
+form_waserver_addeditserver_accounts === Conti
+form_waserver_addeditserver_accountstagline === Il numero massimo di account che possono essere collegati.
+form_waserver_addeditserver_packages === Pacchetti
+form_waserver_addeditserver_packagestagline === Seleziona i pacchetti a cui è consentito utilizzare questo server WhatsApp.
+form_waserver_addeditserver_serverurl === URL del server
+form_waserver_addeditserver_serverport === Porta del server
+datatable_length_v38 === Mostra _MENU_ voci
+datatable_info_v38 === da _START_ a _END_ di _TOTAL_
+datatable_empty_v38 === Nessuna voce trovata
+datatable_filtered_v38 === (_MAX_ totale)
+requests_waserver_selectatleastonepack === Seleziona almeno 1 pacchetto!
+requests_waserver_updatedsuccess === Il server WhatsApp è stato aggiornato!
+requests_waserver_addedsuccess === Il server WhatsApp è stato aggiunto!
+requests_waserver_deletedsuccess === Il server WhatsApp è stato eliminato!
+widget_waserver_addwatitle === Aggiungi il server WhatsApp
+widget_waserver_addwatitleloader === Aggiunta del server WhatsApp
+widget_waserver_editwatitle === Modifica il server WhatsApp
+widget_waserver_editwatitleloader === Modifica del server WhatsApp
+widget_waserver_fieldmaxacc === Conti massimi
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Porta
+widget_waserver_fieldsecret === Segreto
+widget_waserver_setupwatitle === Configura il server WhatsApp
+form_waserver_secretkey === Chiave segreta
+form_waserver_secretkeydesc === Crea una chiave segreta sicura. Questo verrà utilizzato dal server WhatsApp per verificare la connessione peer con Zender. Per favore non usare caratteri speciali!
+table_waservers_optionssetupbtn === Impostare
+table_androidver_14 === Androide 14
+table_waservers_dtcreated === Creato
+table_waservers_dtname === Nome
+table_waservers_dturl === URL
+table_waservers_dtport === Porta
+table_waservers_dtdetails === Dettagli
+table_waservers_dtops === Opzioni
+page_socialerror_autherrortitle === Errore di autenticazione
+page_socialerror_authwentwrong === Qualcosa è andato storto con il processo di autenticazione. Per favore riprova!
+page_socialerror_authsuspended === Scusa! Abbiamo sospeso il tuo account a causa di attività sospette.
+page_socialerror_authemailnotfound === Un indirizzo email valido deve essere presente nel tuo account _8880_!
+page_socialerror_authreturn === Torna all'accesso
+page_socialerror_authuhoh === Uh Oh!
+widget_setupcronjobs_title === Imposta Cronjob
+admin_btncron_tooltip === Configurazione cron
+admin_btncron_btn === Cron
+waexport_loader_exporting === Esportazione dei contatti del gruppo
+table_wagroups_exportcontactstooltip === Esporta contatti
+response_waexport_unablefetchcontacts === Impossibile ottenere i contatti del gruppo!
+response_waexport_nocontactsfound === Nessun contatto trovato!
+response_systemupdate_manualinterreq === L'aggiornamento richiede un intervento manuale. Reindirizzamento alla pagina del registro delle modifiche..
+apexcharts_locale_monthjanuary === Gennaio
+apexcharts_locale_monthfebruary === Febbraio
+apexcharts_locale_monthmarch === Marzo
+apexcharts_locale_monthapril === Aprile
+apexcharts_locale_monthmay === Maggio
+apexcharts_locale_monthjune === Giugno
+apexcharts_locale_monthjuly === Luglio
+apexcharts_locale_monthaugust === Agosto
+apexcharts_locale_monthseptember === Settembre
+apexcharts_locale_monthoctober === Ottobre
+apexcharts_locale_monthnovember === Novembre
+apexcharts_locale_monthdecember === Dicembre
+apexcharts_locale_monthjanshort === Gen
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Apr
+apexcharts_locale_monthmayshort === Mag
+apexcharts_locale_monthjunshort === Giu
+apexcharts_locale_monthjulshort === Lug
+apexcharts_locale_monthaugshort === Ago
+apexcharts_locale_monthsepshort === Set
+apexcharts_locale_monthoctshort === Ott
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Dic
+apexcharts_locale_daymonday === Lunedì
+apexcharts_locale_daytuesday === Martedì
+apexcharts_locale_daywednesday === Mercoledì
+apexcharts_locale_daythursday === Giovedì
+apexcharts_locale_dayfriday === Venerdì
+apexcharts_locale_daysaturday === Sabato
+apexcharts_locale_daysunday === Domenica
+apexcharts_locale_daymondayshort === Lun
+apexcharts_locale_daytuesdayshort === Mar
+apexcharts_locale_daywednesdayshort === Mer
+apexcharts_locale_daythursdayshort === Gio
+apexcharts_locale_dayfridayshort === Ven
+apexcharts_locale_daysaturdayshort === Sab
+apexcharts_locale_daysundayshort === Dom
+apexcharts_locale_exportsvg === Scarica SVG
+apexcharts_locale_exportpng === Scarica PNG
+apexcharts_locale_menu === Menù
+apexcharts_locale_selection === Selezione
+apexcharts_locale_selectionzoom === Zoom selezione
+apexcharts_locale_zin === Ingrandisci
+apexcharts_locale_zout === Riduci
+apexcharts_locale_pan === Sposta
+apexcharts_locale_reset === Reimposta zoom

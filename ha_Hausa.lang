@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Zaɓuɓɓuka ko saitin kalmomin 
 table_toolsautoreply_account38 === Asusu: _8880_
 table_toolsautoreply_device38 === Na'ura: _8880_
 forms_whatsapp_mediafilehelp38 === Fayil mai jarida, fayil ɗin mai jarida da za a loda. Yana goyan bayan fayilolin .jpg, .png, .gif, .mp4, .mp3 da .ogg.
+response_notify_smsreceivedmessage === sako
+response_waquick_waaccountnotconn === Ba a haɗa asusun WhatsApp!
+admin_table_waserverpackagesempty === Babu fakiti!
+admin_table_waserverstatustext === Matsayi:
+admin_table_waserverconnectedtext === An haɗa:
+admin_table_waservermaxtext === Matsakaicin Lissafi:
+admin_table_waserverpackagestext === Fakitin da aka Halatta:
+ratesgateway_options_viewratesbtn === Duba Farashin
+ratesgateway_options_viewratestitle === Duba farashin wannan ƙofa
+ratesgateway_options_tablecrtdate === Ranar Ƙirƙira
+ratesgateway_options_tablegatewayid === Gateway ID
+ratesgateway_options_tablegatewayname === Sunan Gateway
+ratesgateway_options_tableoptions === Zabuka
+dashboard_overall_overview === Dubawa
+dashboard_overview_gatewaysbtn === Ƙofar shiga
+dashboard_overview_user_totalsent === Jimlar An aika
+dashboard_overview_user_totalreceived === Jimlar da aka karɓa
+dashboard_overview_user_topuploader === Buƙatun sarrafawa
+sms_btnevent_formcontent_btntranslate === Fassara
+form_adddevice_showqrbtn === Nuna QR
+dashboard_sidebarblk_overview === Dubawa
+dashboard_sidebarblk_hosts === Runduna
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === WA Sabar
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Manyan Kasashe 5 na Masu ziyara
+dashboard_adminoverview_browsers === Masu ziyara ta Mai lilo
+dashboard_adminoverview_os === Masu ziyara ta OS
+dashboard_userhosts_hostbreadcrumb === Runduna
+dashboard_authenticate_loginpagetagline === Shiga don Shiga Dashboard
+dashboard_authenticate_regpagetagline === Yi rijista don Shiga Dashboard
+dashboard_authenticate_forgotpagetagline === Mai da kalmar wucewa da aka manta
+dashboard_authenticate_loginpagedonthave === Ba ku da asusu har yanzu?
+dashboard_authenticate_regpagehave === Kuna da asusu?
+dashboard_admin_waserverstitle === WA Sabar
+dashboard_admin_waserversbtn_addserver === Ƙara Sabar
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Suna
+form_waserver_addeditserver_nametagline === Sunan na musamman na wannan uwar garken WhatsApp.
+form_waserver_addeditserver_accounts === Lissafi
+form_waserver_addeditserver_accountstagline === Max adadin asusun da aka yarda a haɗa.
+form_waserver_addeditserver_packages === Fakitin
+form_waserver_addeditserver_packagestagline === Zaɓi fakitin da aka ba su izinin amfani da wannan sabar ta WhatsApp.
+form_waserver_addeditserver_serverurl === URL uwar garke
+form_waserver_addeditserver_serverport === Port Port
+datatable_length_v38 === Nuna shigarwar _MENU_
+datatable_info_v38 === _START_ zuwa _END_ na _TOTAL_
+datatable_empty_v38 === Babu shigarwar da aka samu
+datatable_filtered_v38 === (_MAX_ duka)
+requests_waserver_selectatleastonepack === Da fatan za a zaɓi aƙalla fakiti 1!
+requests_waserver_updatedsuccess === An sabunta uwar garken WhatsApp!
+requests_waserver_addedsuccess === An kara sabar WhatsApp!
+requests_waserver_deletedsuccess === An goge uwar garken WhatsApp!
+widget_waserver_addwatitle === Ƙara Sabar WhatsApp
+widget_waserver_addwatitleloader === Ƙara Sabar WhatsApp
+widget_waserver_editwatitle === Gyaran Sabar WhatsApp
+widget_waserver_editwatitleloader === Editan WhatsApp Server
+widget_waserver_fieldmaxacc === Max Accounts
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Port
+widget_waserver_fieldsecret === Sirrin
+widget_waserver_setupwatitle === Saita WhatsApp Server
+form_waserver_secretkey === Mabudin sirri
+form_waserver_secretkeydesc === Ƙirƙiri amintaccen maɓallin sirri. Sabar ta WhatsApp za ta yi amfani da wannan don tabbatar da haɗin kai tare da Zender. Don Allah kar a yi amfani da haruffa na musamman!
+table_waservers_optionssetupbtn === Saita
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Ƙirƙiri
+table_waservers_dtname === Suna
+table_waservers_dturl === URL
+table_waservers_dtport === Port
+table_waservers_dtdetails === Cikakkun bayanai
+table_waservers_dtops === Zabuka
+page_socialerror_autherrortitle === Kuskuren Tabbatarwa
+page_socialerror_authwentwrong === Wani abu ya yi kuskure game da aikin tantancewa. Da fatan za a sake gwadawa!
+page_socialerror_authsuspended === Yi hakuri! Mun dakatar da asusun ku saboda wasu ayyuka da ake tuhuma.
+page_socialerror_authemailnotfound === Dole ne ingantaccen adireshin imel ya kasance a cikin asusun ku _8880_!
+page_socialerror_authreturn === Komawa Shiga
+page_socialerror_authuhoh === Uh oh!
+widget_setupcronjobs_title === Saita Cronjobs
+admin_btncron_tooltip === Saita Cron
+admin_btncron_btn === Cron
+waexport_loader_exporting === Fitar da Lambobin Ƙungiya
+table_wagroups_exportcontactstooltip === Fitar da Lambobin sadarwa
+response_waexport_unablefetchcontacts === An kasa samun lambobin sadarwa na rukuni!
+response_waexport_nocontactsfound === Ba a sami lambobin sadarwa ba!
+response_systemupdate_manualinterreq === Sabuntawa yana buƙatar sa hannun hannu. Ana turawa zuwa shafi na canji..
+apexcharts_locale_monthjanuary === Janairu
+apexcharts_locale_monthfebruary === Fabrairu
+apexcharts_locale_monthmarch === Maris
+apexcharts_locale_monthapril === Afrilu
+apexcharts_locale_monthmay === Mayu
+apexcharts_locale_monthjune === Yuni
+apexcharts_locale_monthjuly === Yuli
+apexcharts_locale_monthaugust === Agusta
+apexcharts_locale_monthseptember === Satumba
+apexcharts_locale_monthoctober === Oktoba
+apexcharts_locale_monthnovember === Nuwamba
+apexcharts_locale_monthdecember === Disamba
+apexcharts_locale_monthjanshort === Jan
+apexcharts_locale_monthfebshort === Fab
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Afr
+apexcharts_locale_monthmayshort === May
+apexcharts_locale_monthjunshort === Yun
+apexcharts_locale_monthjulshort === Yul
+apexcharts_locale_monthaugshort === Agu
+apexcharts_locale_monthsepshort === Sat
+apexcharts_locale_monthoctshort === Okt
+apexcharts_locale_monthnovshort === Nuw
+apexcharts_locale_monthdecshort === Dis
+apexcharts_locale_daymonday === Litinin
+apexcharts_locale_daytuesday === Talata
+apexcharts_locale_daywednesday === Laraba
+apexcharts_locale_daythursday === Alhamis
+apexcharts_locale_dayfriday === Jumma'a
+apexcharts_locale_daysaturday === Asabar
+apexcharts_locale_daysunday === Lahadi
+apexcharts_locale_daymondayshort === Lit
+apexcharts_locale_daytuesdayshort === Tal
+apexcharts_locale_daywednesdayshort === Lar
+apexcharts_locale_daythursdayshort === Alh
+apexcharts_locale_dayfridayshort === Jum
+apexcharts_locale_daysaturdayshort === Asa
+apexcharts_locale_daysundayshort === Lah
+apexcharts_locale_exportsvg === Sakona SVG
+apexcharts_locale_exportpng === Sakona PNG
+apexcharts_locale_menu === Menu
+apexcharts_locale_selection === Zabi
+apexcharts_locale_selectionzoom === Zabi Zoom
+apexcharts_locale_zin === Zuba
+apexcharts_locale_zout === Goge
+apexcharts_locale_pan === Kara
+apexcharts_locale_reset === Kashe Zuba

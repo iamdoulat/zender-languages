@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Строки или набор �
 table_toolsautoreply_account38 === Счет: _8880_
 table_toolsautoreply_device38 === Устройство: _8880_
 forms_whatsapp_mediafilehelp38 === Медиа-файл — медиа-файл, который будет загружен. Поддерживает файлы .jpg, .png, .gif, .mp4, .mp3 и .ogg.
+response_notify_smsreceivedmessage === сообщение
+response_waquick_waaccountnotconn === Аккаунт WhatsApp не подключен!
+admin_table_waserverpackagesempty === Пакетов не существует!
+admin_table_waserverstatustext === Положение дел:
+admin_table_waserverconnectedtext === Связанный:
+admin_table_waservermaxtext === Максимальное количество аккаунтов:
+admin_table_waserverpackagestext === Разрешенные пакеты:
+ratesgateway_options_viewratesbtn === Посмотреть цены
+ratesgateway_options_viewratestitle === Посмотреть тарифы для этого шлюза
+ratesgateway_options_tablecrtdate === Дата создания
+ratesgateway_options_tablegatewayid === Идентификатор шлюза
+ratesgateway_options_tablegatewayname === Имя шлюза
+ratesgateway_options_tableoptions === Параметры
+dashboard_overall_overview === Обзор
+dashboard_overview_gatewaysbtn === Шлюзы
+dashboard_overview_user_totalsent === Всего отправлено
+dashboard_overview_user_totalreceived === Всего получено
+dashboard_overview_user_topuploader === Обработка запроса
+sms_btnevent_formcontent_btntranslate === Переводить
+form_adddevice_showqrbtn === Показать QR-код
+dashboard_sidebarblk_overview === Обзор
+dashboard_sidebarblk_hosts === Хозяева
+dashboard_sidebarblk_hostsandroid === Андроид
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === ВА-серверы
+dashboard_sidebarblk_docsandroid === Андроид
+dashboard_pageheading_docsandroid === Андроид
+dashboard_adminoverview_topcountries5 === Топ-5 стран по количеству посетителей
+dashboard_adminoverview_browsers === Посетители по браузеру
+dashboard_adminoverview_os === Посетители по ОС
+dashboard_userhosts_hostbreadcrumb === Хозяева
+dashboard_authenticate_loginpagetagline === Войдите, чтобы получить доступ к панели управления
+dashboard_authenticate_regpagetagline === Зарегистрируйтесь, чтобы получить доступ к панели управления
+dashboard_authenticate_forgotpagetagline === Восстановите забытый пароль
+dashboard_authenticate_loginpagedonthave === У вас еще нет учетной записи?
+dashboard_authenticate_regpagehave === У вас уже есть аккаунт?
+dashboard_admin_waserverstitle === ВА-серверы
+dashboard_admin_waserversbtn_addserver === Добавить сервер
+dashboard_docsnew_androidtitle === Андроид
+form_waserver_addeditserver_name === Имя
+form_waserver_addeditserver_nametagline === Уникальное имя для этого сервера WhatsApp.
+form_waserver_addeditserver_accounts === Счета
+form_waserver_addeditserver_accountstagline === Максимальное количество аккаунтов, которые разрешено подключить.
+form_waserver_addeditserver_packages === Пакеты
+form_waserver_addeditserver_packagestagline === Выберите пакеты, которым разрешено использовать этот сервер WhatsApp.
+form_waserver_addeditserver_serverurl === URL-адрес сервера
+form_waserver_addeditserver_serverport === Порт сервера
+datatable_length_v38 === Показать _MENU_ записей
+datatable_info_v38 === с _START_ по _END_ из _TOTAL_
+datatable_empty_v38 === Записи не найдены
+datatable_filtered_v38 === (всего _MAX_)
+requests_waserver_selectatleastonepack === Пожалуйста, выберите хотя бы 1 пакет!
+requests_waserver_updatedsuccess === Сервер WhatsApp обновлен!
+requests_waserver_addedsuccess === Добавлен сервер WhatsApp!
+requests_waserver_deletedsuccess === Сервер WhatsApp удален!
+widget_waserver_addwatitle === Добавить сервер WhatsApp
+widget_waserver_addwatitleloader === Добавление сервера WhatsApp
+widget_waserver_editwatitle === Редактировать сервер WhatsApp
+widget_waserver_editwatitleloader === Редактирование сервера WhatsApp
+widget_waserver_fieldmaxacc === Макс. аккаунты
+widget_waserver_fieldurl === URL-адрес
+widget_waserver_fieldport === Порт
+widget_waserver_fieldsecret === Секрет
+widget_waserver_setupwatitle === Настройка сервера WhatsApp
+form_waserver_secretkey === Секретный ключ
+form_waserver_secretkeydesc === Создайте безопасный секретный ключ. Это будет использоваться сервером WhatsApp для проверки однорангового соединения с Zender. Пожалуйста, не используйте специальные символы!
+table_waservers_optionssetupbtn === Настраивать
+table_androidver_14 === Андроид 14
+table_waservers_dtcreated === Созданный
+table_waservers_dtname === Имя
+table_waservers_dturl === URL-адрес
+table_waservers_dtport === Порт
+table_waservers_dtdetails === Подробности
+table_waservers_dtops === Параметры
+page_socialerror_autherrortitle === Ошибка аутентификации
+page_socialerror_authwentwrong === Что-то пошло не так в процессе аутентификации. Пожалуйста, попробуйте еще раз!
+page_socialerror_authsuspended === Извини! Мы заблокировали вашу учетную запись из-за подозрительной активности.
+page_socialerror_authemailnotfound === В вашей учетной записи _8880_ должен присутствовать действующий адрес электронной почты!
+page_socialerror_authreturn === Вернуться к входу
+page_socialerror_authuhoh === Ой-ой!
+widget_setupcronjobs_title === Настройка заданий Cron
+admin_btncron_tooltip === Настройка Крон
+admin_btncron_btn === Крон
+waexport_loader_exporting === Экспорт контактов группы
+table_wagroups_exportcontactstooltip === Экспорт контактов
+response_waexport_unablefetchcontacts === Невозможно получить групповые контакты!
+response_waexport_nocontactsfound === Контакты не найдены!
+response_systemupdate_manualinterreq === Обновление требует ручного вмешательства. Перенаправление на страницу журнала изменений..
+apexcharts_locale_monthjanuary === Январь
+apexcharts_locale_monthfebruary === Февраль
+apexcharts_locale_monthmarch === Март
+apexcharts_locale_monthapril === Апрель
+apexcharts_locale_monthmay === Май
+apexcharts_locale_monthjune === Июнь
+apexcharts_locale_monthjuly === Июль
+apexcharts_locale_monthaugust === Август
+apexcharts_locale_monthseptember === Сентябрь
+apexcharts_locale_monthoctober === Октябрь
+apexcharts_locale_monthnovember === Ноябрь
+apexcharts_locale_monthdecember === Декабрь
+apexcharts_locale_monthjanshort === Янв
+apexcharts_locale_monthfebshort === Фев
+apexcharts_locale_monthmarshort === Мар
+apexcharts_locale_monthaprshort === Апр
+apexcharts_locale_monthmayshort === Май
+apexcharts_locale_monthjunshort === Июн
+apexcharts_locale_monthjulshort === Июл
+apexcharts_locale_monthaugshort === Авг
+apexcharts_locale_monthsepshort === Сен
+apexcharts_locale_monthoctshort === Окт
+apexcharts_locale_monthnovshort === Ноя
+apexcharts_locale_monthdecshort === Дек
+apexcharts_locale_daymonday === Понедельник
+apexcharts_locale_daytuesday === Вторник
+apexcharts_locale_daywednesday === Среда
+apexcharts_locale_daythursday === Четверг
+apexcharts_locale_dayfriday === Пятница
+apexcharts_locale_daysaturday === Суббота
+apexcharts_locale_daysunday === Воскресенье
+apexcharts_locale_daymondayshort === Пн
+apexcharts_locale_daytuesdayshort === Вт
+apexcharts_locale_daywednesdayshort === Ср
+apexcharts_locale_daythursdayshort === Чт
+apexcharts_locale_dayfridayshort === Пт
+apexcharts_locale_daysaturdayshort === Сб
+apexcharts_locale_daysundayshort === Вс
+apexcharts_locale_exportsvg === Скачать SVG
+apexcharts_locale_exportpng === Скачать PNG
+apexcharts_locale_menu === Меню
+apexcharts_locale_selection === Выбор
+apexcharts_locale_selectionzoom === Выбор увеличения
+apexcharts_locale_zin === Увеличить
+apexcharts_locale_zout === Уменьшить
+apexcharts_locale_pan === Переместить
+apexcharts_locale_reset === Сбросить увеличение

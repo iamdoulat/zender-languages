@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === String atau kumpulan kata kunci 
 table_toolsautoreply_account38 === Akun: _8880_
 table_toolsautoreply_device38 === Perangkat: _8880_
 forms_whatsapp_mediafilehelp38 === File media, file media yang akan diupload. Mendukung file .jpg, .png, .gif, .mp4, .mp3 dan .ogg.
+response_notify_smsreceivedmessage === pesan
+response_waquick_waaccountnotconn === Akun WhatsApp tidak terhubung!
+admin_table_waserverpackagesempty === Paket tidak ada!
+admin_table_waserverstatustext === Status:
+admin_table_waserverconnectedtext === Terhubung:
+admin_table_waservermaxtext === Akun Maks:
+admin_table_waserverpackagestext === Paket yang Diizinkan:
+ratesgateway_options_viewratesbtn === Lihat Tarif
+ratesgateway_options_viewratestitle === Lihat tarif untuk gateway ini
+ratesgateway_options_tablecrtdate === Tanggal Dibuat
+ratesgateway_options_tablegatewayid === ID gerbang
+ratesgateway_options_tablegatewayname === Nama Gerbang
+ratesgateway_options_tableoptions === Pilihan
+dashboard_overall_overview === Ringkasan
+dashboard_overview_gatewaysbtn === Gerbang
+dashboard_overview_user_totalsent === Jumlah Terkirim
+dashboard_overview_user_totalreceived === Jumlah Diterima
+dashboard_overview_user_topuploader === Memproses permintaan
+sms_btnevent_formcontent_btntranslate === Menerjemahkan
+form_adddevice_showqrbtn === Tampilkan QR
+dashboard_sidebarblk_overview === Ringkasan
+dashboard_sidebarblk_hosts === Tuan rumah
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === Ada apa
+dashboard_sidebarblk_waservers === Server WA
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === 5 Negara Teratas menurut Pengunjung
+dashboard_adminoverview_browsers === Pengunjung berdasarkan Browser
+dashboard_adminoverview_os === Pengunjung berdasarkan OS
+dashboard_userhosts_hostbreadcrumb === Tuan rumah
+dashboard_authenticate_loginpagetagline === Masuk untuk Mengakses Dasbor
+dashboard_authenticate_regpagetagline === Daftar untuk Mengakses Dasbor
+dashboard_authenticate_forgotpagetagline === Ambil kembali Kata Sandi Anda yang Terlupakan
+dashboard_authenticate_loginpagedonthave === Belum punya akun?
+dashboard_authenticate_regpagehave === Sudah memiliki akun?
+dashboard_admin_waserverstitle === Server WA
+dashboard_admin_waserversbtn_addserver === Tambahkan server
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Nama
+form_waserver_addeditserver_nametagline === Nama unik untuk server WhatsApp ini.
+form_waserver_addeditserver_accounts === Akun
+form_waserver_addeditserver_accountstagline === Jumlah maksimal akun yang diperbolehkan untuk terhubung.
+form_waserver_addeditserver_packages === Paket
+form_waserver_addeditserver_packagestagline === Pilih paket yang diperbolehkan menggunakan server WhatsApp ini.
+form_waserver_addeditserver_serverurl === URL server
+form_waserver_addeditserver_serverport === Pelabuhan Server
+datatable_length_v38 === Tampilkan _MENU_ entri
+datatable_info_v38 === _START_ hingga _END_ dari _TOTAL_
+datatable_empty_v38 === Tidak ada entri yang ditemukan
+datatable_filtered_v38 === (jumlahnya _MAX_)
+requests_waserver_selectatleastonepack === Silakan pilih minimal 1 paket!
+requests_waserver_updatedsuccess === Server WhatsApp telah diperbarui!
+requests_waserver_addedsuccess === Server WhatsApp telah ditambahkan!
+requests_waserver_deletedsuccess === Server WhatsApp telah dihapus!
+widget_waserver_addwatitle === Tambahkan Server WhatsApp
+widget_waserver_addwatitleloader === Menambahkan Server WhatsApp
+widget_waserver_editwatitle === Sunting Server WhatsApp
+widget_waserver_editwatitleloader === Mengedit Server WhatsApp
+widget_waserver_fieldmaxacc === Akun Maks
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Pelabuhan
+widget_waserver_fieldsecret === Rahasia
+widget_waserver_setupwatitle === Siapkan Server WhatsApp
+form_waserver_secretkey === Kunci rahasia
+form_waserver_secretkeydesc === Buat kunci rahasia yang aman. Ini akan digunakan oleh server WhatsApp untuk memverifikasi koneksi peer dengan Zender. Tolong jangan gunakan karakter khusus!
+table_waservers_optionssetupbtn === Mempersiapkan
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Dibuat
+table_waservers_dtname === Nama
+table_waservers_dturl === URL
+table_waservers_dtport === Pelabuhan
+table_waservers_dtdetails === Detail
+table_waservers_dtops === Pilihan
+page_socialerror_autherrortitle === Kesalahan otentikasi
+page_socialerror_authwentwrong === Ada yang salah dengan proses autentikasi. Silakan coba lagi!
+page_socialerror_authsuspended === Maaf! Kami telah menangguhkan akun Anda karena aktivitas mencurigakan.
+page_socialerror_authemailnotfound === Alamat email yang valid harus ada di akun _8880_ Anda!
+page_socialerror_authreturn === Kembali ke Masuk
+page_socialerror_authuhoh === Uh oh!
+widget_setupcronjobs_title === Siapkan Cronjobs
+admin_btncron_tooltip === Pengaturan Cron
+admin_btncron_btn === Kron
+waexport_loader_exporting === Mengekspor Kontak Grup
+table_wagroups_exportcontactstooltip === Ekspor Kontak
+response_waexport_unablefetchcontacts === Tidak dapat memperoleh kontak grup!
+response_waexport_nocontactsfound === Tidak ada kontak yang ditemukan!
+response_systemupdate_manualinterreq === Pembaruan memerlukan intervensi manual. Mengarahkan ke halaman changelog..
+apexcharts_locale_monthjanuary === Januari
+apexcharts_locale_monthfebruary === Februari
+apexcharts_locale_monthmarch === Maret
+apexcharts_locale_monthapril === April
+apexcharts_locale_monthmay === Mei
+apexcharts_locale_monthjune === Juni
+apexcharts_locale_monthjuly === Juli
+apexcharts_locale_monthaugust === Agustus
+apexcharts_locale_monthseptember === September
+apexcharts_locale_monthoctober === Oktober
+apexcharts_locale_monthnovember === November
+apexcharts_locale_monthdecember === Desember
+apexcharts_locale_monthjanshort === Jan
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Apr
+apexcharts_locale_monthmayshort === Mei
+apexcharts_locale_monthjunshort === Jun
+apexcharts_locale_monthjulshort === Jul
+apexcharts_locale_monthaugshort === Agt
+apexcharts_locale_monthsepshort === Sep
+apexcharts_locale_monthoctshort === Okt
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Des
+apexcharts_locale_daymonday === Senin
+apexcharts_locale_daytuesday === Selasa
+apexcharts_locale_daywednesday === Rabu
+apexcharts_locale_daythursday === Kamis
+apexcharts_locale_dayfriday === Jumat
+apexcharts_locale_daysaturday === Sabtu
+apexcharts_locale_daysunday === Minggu
+apexcharts_locale_daymondayshort === Sen
+apexcharts_locale_daytuesdayshort === Sel
+apexcharts_locale_daywednesdayshort === Rab
+apexcharts_locale_daythursdayshort === Kam
+apexcharts_locale_dayfridayshort === Jum
+apexcharts_locale_daysaturdayshort === Sab
+apexcharts_locale_daysundayshort === Min
+apexcharts_locale_exportsvg === Unduh SVG
+apexcharts_locale_exportpng === Unduh PNG
+apexcharts_locale_menu === Menu
+apexcharts_locale_selection === Pemilihan
+apexcharts_locale_selectionzoom === Zoom Pemilihan
+apexcharts_locale_zin === Perbesar
+apexcharts_locale_zout === Perkecil
+apexcharts_locale_pan === Geser
+apexcharts_locale_reset === Atur Ulang Zoom

@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === স্বয়ংক্রি�
 table_toolsautoreply_account38 === অ্যাকাউন্ট: _8880_
 table_toolsautoreply_device38 === ডিভাইস: _8880_
 forms_whatsapp_mediafilehelp38 === মিডিয়া ফাইল, মিডিয়া ফাইল আপলোড করতে হবে। .jpg, .png, .gif, .mp4, .mp3 এবং .ogg ফাইল সমর্থন করে।
+response_notify_smsreceivedmessage === বার্তা
+response_waquick_waaccountnotconn === হোয়াটসঅ্যাপ অ্যাকাউন্ট সংযোগ নেই!
+admin_table_waserverpackagesempty === প্যাকেজ বিদ্যমান নেই!
+admin_table_waserverstatustext === অবস্থা:
+admin_table_waserverconnectedtext === সংযুক্ত:
+admin_table_waservermaxtext === সর্বোচ্চ অ্যাকাউন্ট:
+admin_table_waserverpackagestext === অনুমোদিত প্যাকেজ:
+ratesgateway_options_viewratesbtn === হার দেখুন
+ratesgateway_options_viewratestitle === এই গেটওয়ের জন্য হার দেখুন
+ratesgateway_options_tablecrtdate === তৈরীর তারিখ
+ratesgateway_options_tablegatewayid === গেটওয়ে আইডি
+ratesgateway_options_tablegatewayname === গেটওয়ের নাম
+ratesgateway_options_tableoptions === অপশন
+dashboard_overall_overview === ওভারভিউ
+dashboard_overview_gatewaysbtn === গেটওয়ে
+dashboard_overview_user_totalsent === মোট পাঠানো হয়েছে
+dashboard_overview_user_totalreceived === মোট প্রাপ্ত
+dashboard_overview_user_topuploader === অনুরোধ প্রক্রিয়াকরণ
+sms_btnevent_formcontent_btntranslate === অনুবাদ করা
+form_adddevice_showqrbtn === QR দেখান
+dashboard_sidebarblk_overview === ওভারভিউ
+dashboard_sidebarblk_hosts === হোস্ট
+dashboard_sidebarblk_hostsandroid === অ্যান্ড্রয়েড
+dashboard_sidebarblk_hostswhatsapp === হোয়াটসঅ্যাপ
+dashboard_sidebarblk_waservers === WA সার্ভার
+dashboard_sidebarblk_docsandroid === অ্যান্ড্রয়েড
+dashboard_pageheading_docsandroid === অ্যান্ড্রয়েড
+dashboard_adminoverview_topcountries5 === দর্শনার্থীদের দ্বারা শীর্ষ 5টি দেশ
+dashboard_adminoverview_browsers === ব্রাউজার দ্বারা দর্শক
+dashboard_adminoverview_os === OS দ্বারা দর্শক
+dashboard_userhosts_hostbreadcrumb === হোস্ট
+dashboard_authenticate_loginpagetagline === ড্যাশবোর্ড অ্যাক্সেস করতে লগইন করুন
+dashboard_authenticate_regpagetagline === ড্যাশবোর্ড অ্যাক্সেস করতে নিবন্ধন করুন
+dashboard_authenticate_forgotpagetagline === আপনার ভুলে যাওয়া পাসওয়ার্ড পুনরুদ্ধার করুন
+dashboard_authenticate_loginpagedonthave === কোনো একাউন্ট এখনও আছে না?
+dashboard_authenticate_regpagehave === ইতিমধ্যে একটি সদস্যপদ আছে?
+dashboard_admin_waserverstitle === WA সার্ভার
+dashboard_admin_waserversbtn_addserver === সার্ভার যোগ
+dashboard_docsnew_androidtitle === অ্যান্ড্রয়েড
+form_waserver_addeditserver_name === নাম
+form_waserver_addeditserver_nametagline === এই WhatsApp সার্ভারের জন্য একটি অনন্য নাম।
+form_waserver_addeditserver_accounts === হিসাব
+form_waserver_addeditserver_accountstagline === সংযুক্ত করার জন্য অনুমোদিত অ্যাকাউন্টগুলির সর্বাধিক সংখ্যা৷
+form_waserver_addeditserver_packages === প্যাকেজ
+form_waserver_addeditserver_packagestagline === এই হোয়াটসঅ্যাপ সার্ভার ব্যবহার করার জন্য অনুমোদিত প্যাকেজগুলি নির্বাচন করুন৷
+form_waserver_addeditserver_serverurl === সার্ভার URL
+form_waserver_addeditserver_serverport === সার্ভারের পোর্ট
+datatable_length_v38 === _MENU_ এন্ট্রি দেখান
+datatable_info_v38 === _TOTAL_ এর _START_ থেকে _END_ পর্যন্ত
+datatable_empty_v38 === কোন এন্ট্রি পাওয়া যায়নি
+datatable_filtered_v38 === (মোট _MAX_)
+requests_waserver_selectatleastonepack === অন্তত 1 প্যাকেজ নির্বাচন করুন!
+requests_waserver_updatedsuccess === হোয়াটসঅ্যাপ সার্ভার আপডেট করা হয়েছে!
+requests_waserver_addedsuccess === হোয়াটসঅ্যাপ সার্ভার যোগ করা হয়েছে!
+requests_waserver_deletedsuccess === হোয়াটসঅ্যাপ সার্ভার মুছে ফেলা হয়েছে!
+widget_waserver_addwatitle === হোয়াটসঅ্যাপ সার্ভার যোগ করুন
+widget_waserver_addwatitleloader === হোয়াটসঅ্যাপ সার্ভার যোগ করা হচ্ছে
+widget_waserver_editwatitle === হোয়াটসঅ্যাপ সার্ভার সম্পাদনা করুন
+widget_waserver_editwatitleloader === হোয়াটসঅ্যাপ সার্ভার সম্পাদনা করা হচ্ছে
+widget_waserver_fieldmaxacc === সর্বোচ্চ অ্যাকাউন্ট
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === বন্দর
+widget_waserver_fieldsecret === গোপন
+widget_waserver_setupwatitle === হোয়াটসঅ্যাপ সার্ভার সেটআপ করুন
+form_waserver_secretkey === গোপন চাবি
+form_waserver_secretkeydesc === একটি নিরাপদ গোপন কী তৈরি করুন। এটি জেন্ডারের সাথে পিয়ার সংযোগ যাচাই করতে WhatsApp সার্ভার ব্যবহার করবে। বিশেষ অক্ষর ব্যবহার করবেন না দয়া করে!
+table_waservers_optionssetupbtn === সেটআপ
+table_androidver_14 === অ্যান্ড্রয়েড 14
+table_waservers_dtcreated === তৈরি হয়েছে
+table_waservers_dtname === নাম
+table_waservers_dturl === URL
+table_waservers_dtport === বন্দর
+table_waservers_dtdetails === বিস্তারিত
+table_waservers_dtops === অপশন
+page_socialerror_autherrortitle === প্রমাণীকরণ ত্রুটি
+page_socialerror_authwentwrong === প্রমাণীকরণ প্রক্রিয়ার সাথে কিছু ভুল হয়েছে। অনুগ্রহপূর্বক আবার চেষ্টা করুন!
+page_socialerror_authsuspended === দুঃখিত! সন্দেহজনক কার্যকলাপের কারণে আমরা আপনার অ্যাকাউন্ট স্থগিত করেছি।
+page_socialerror_authemailnotfound === আপনার _8880_ অ্যাকাউন্টে একটি বৈধ ইমেল ঠিকানা থাকতে হবে!
+page_socialerror_authreturn === লগইন এ ফিরে যান
+page_socialerror_authuhoh === আহ ওহ!
+widget_setupcronjobs_title === Cronjobs সেটআপ করুন
+admin_btncron_tooltip === ক্রোন সেটআপ
+admin_btncron_btn === ক্রোন
+waexport_loader_exporting === গ্রুপ পরিচিতি রপ্তানি করা হচ্ছে
+table_wagroups_exportcontactstooltip === পরিচিতি রপ্তানি করুন
+response_waexport_unablefetchcontacts === গ্রুপ পরিচিতি পেতে অক্ষম!
+response_waexport_nocontactsfound === কোন পরিচিতি পাওয়া যায়নি!
+response_systemupdate_manualinterreq === আপডেটের জন্য ম্যানুয়াল হস্তক্ষেপ প্রয়োজন। চেঞ্জলগ পৃষ্ঠায় পুনঃনির্দেশ করা হচ্ছে..
+apexcharts_locale_monthjanuary === জানুয়ারি
+apexcharts_locale_monthfebruary === ফেব্রুয়ারি
+apexcharts_locale_monthmarch === মার্চ
+apexcharts_locale_monthapril === এপ্রিল
+apexcharts_locale_monthmay === মে
+apexcharts_locale_monthjune === জুন
+apexcharts_locale_monthjuly === জুলাই
+apexcharts_locale_monthaugust === আগস্ট
+apexcharts_locale_monthseptember === সেপ্টেম্বর
+apexcharts_locale_monthoctober === অক্টোবর
+apexcharts_locale_monthnovember === নভেম্বর
+apexcharts_locale_monthdecember === ডিসেম্বর
+apexcharts_locale_monthjanshort === জানু
+apexcharts_locale_monthfebshort === ফেব
+apexcharts_locale_monthmarshort === মার্চ
+apexcharts_locale_monthaprshort === এপ্রিল
+apexcharts_locale_monthmayshort === মে
+apexcharts_locale_monthjunshort === জুন
+apexcharts_locale_monthjulshort === জুলাই
+apexcharts_locale_monthaugshort === আগস্ট
+apexcharts_locale_monthsepshort === সেপ্টেম্বর
+apexcharts_locale_monthoctshort === অক্টোবর
+apexcharts_locale_monthnovshort === নভেম্বর
+apexcharts_locale_monthdecshort === ডিসেম্বর
+apexcharts_locale_daymonday === সোমবার
+apexcharts_locale_daytuesday === মঙ্গলবার
+apexcharts_locale_daywednesday === বুধবার
+apexcharts_locale_daythursday === বৃহস্পতিবার
+apexcharts_locale_dayfriday === শুক্রবার
+apexcharts_locale_daysaturday === শনিবার
+apexcharts_locale_daysunday === রবিবার
+apexcharts_locale_daymondayshort === সোম
+apexcharts_locale_daytuesdayshort === মঙ্গল
+apexcharts_locale_daywednesdayshort === বুধ
+apexcharts_locale_daythursdayshort === বৃহস্পতি
+apexcharts_locale_dayfridayshort === শুক্র
+apexcharts_locale_daysaturdayshort === শনি
+apexcharts_locale_daysundayshort === রবি
+apexcharts_locale_exportsvg === SVG ডাউনলোড করুন
+apexcharts_locale_exportpng === PNG ডাউনলোড করুন
+apexcharts_locale_menu === মেনু
+apexcharts_locale_selection === নির্বাচন
+apexcharts_locale_selectionzoom === নির্বাচিত জুম
+apexcharts_locale_zin === জুম ইন
+apexcharts_locale_zout === জুম আউট
+apexcharts_locale_pan === প্যানিং
+apexcharts_locale_reset === রিসেট জুম

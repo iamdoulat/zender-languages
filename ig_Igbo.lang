@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Eririokwu ma ọ bụ setịpụ
 table_toolsautoreply_account38 === Akaụntụ: _8880_
 table_toolsautoreply_device38 === Ngwaọrụ: _8880_
 forms_whatsapp_mediafilehelp38 === Faịlụ mgbasa ozi, faịlụ mgbasa ozi nke a ga-ebugo. Na-akwado .jpg, .png, .gif, .mp4, .mp3 na .ogg faịlụ.
+response_notify_smsreceivedmessage === ozi
+response_waquick_waaccountnotconn === Ejikọtaghị akaụntụ WhatsApp!
+admin_table_waserverpackagesempty === ngwugwu adịghị!
+admin_table_waserverstatustext === Ọnọdụ:
+admin_table_waserverconnectedtext === Ejikọtara:
+admin_table_waservermaxtext === Akaụntụ kacha:
+admin_table_waserverpackagestext === Ngwungwu anabatara:
+ratesgateway_options_viewratesbtn === Lelee ọnụego
+ratesgateway_options_viewratestitle === Lelee ọnụego maka ọnụ ụzọ ámá a
+ratesgateway_options_tablecrtdate === Ụbọchị Emepụtara
+ratesgateway_options_tablegatewayid === NJ ọnụ ụzọ ámá
+ratesgateway_options_tablegatewayname === Aha ọnụ ụzọ ámá
+ratesgateway_options_tableoptions === Nhọrọ
+dashboard_overall_overview === Nchịkọta
+dashboard_overview_gatewaysbtn === Ọnụ ụzọ ámá
+dashboard_overview_user_totalsent === Mkpokọta ezitere
+dashboard_overview_user_totalreceived === Ngụkọta natara
+dashboard_overview_user_topuploader === Nhazi arịrịọ
+sms_btnevent_formcontent_btntranslate === Tụgharịa asụsụ
+form_adddevice_showqrbtn === Gosi QR
+dashboard_sidebarblk_overview === Nchịkọta
+dashboard_sidebarblk_hosts === Ndị ọbịa
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === Ndị ọrụ WA
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Mba 5 kacha elu site n'aka ndị ọbịa
+dashboard_adminoverview_browsers === Ndị ọbịa site na ihe nchọgharị
+dashboard_adminoverview_os === Ndị ọbịa sitere na OS
+dashboard_userhosts_hostbreadcrumb === Ndị ọbịa
+dashboard_authenticate_loginpagetagline === Nbanye iji nweta Dashboard
+dashboard_authenticate_regpagetagline === Debanye aha iji nweta Dashboard
+dashboard_authenticate_forgotpagetagline === Weghachite paswọọdụ echefuru echefu
+dashboard_authenticate_loginpagedonthave === Ị nwebeghị akaụntụ?
+dashboard_authenticate_regpagehave === Ị nwere akaụntụ?
+dashboard_admin_waserverstitle === Ndị ọrụ WA
+dashboard_admin_waserversbtn_addserver === Tinye ihe nkesa
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Aha
+form_waserver_addeditserver_nametagline === Aha pụrụ iche maka nkesa WhatsApp a.
+form_waserver_addeditserver_accounts === Akaụntụ
+form_waserver_addeditserver_accountstagline === Ọnụ ọgụgụ kacha elu nke akaụntụ ekwenyere ka jikọọ.
+form_waserver_addeditserver_packages === ngwugwu
+form_waserver_addeditserver_packagestagline === Họrọ ngwungwu ndị ekwenyere iji sava WhatsApp a.
+form_waserver_addeditserver_serverurl === URL nkesa
+form_waserver_addeditserver_serverport === Port nke sava
+datatable_length_v38 === Gosi ndenye _MENU_
+datatable_info_v38 === _START_ ruo _END_ nke _TOTAL_
+datatable_empty_v38 === Enweghị ndenye ahụrụ
+datatable_filtered_v38 === (mkpokọta _MAX_)
+requests_waserver_selectatleastonepack === Biko họrọ opekata mpe otu ngwugwu!
+requests_waserver_updatedsuccess === Emelitela sava WhatsApp!
+requests_waserver_addedsuccess === Agbakwunyela sava WhatsApp!
+requests_waserver_deletedsuccess === Ehichapụla ihe nkesa WhatsApp!
+widget_waserver_addwatitle === Tinye ihe nkesa WhatsApp
+widget_waserver_addwatitleloader === Na-agbakwunye WhatsApp Server
+widget_waserver_editwatitle === Dezie WhatsApp sava
+widget_waserver_editwatitleloader === Na-edezi WhatsApp Server
+widget_waserver_fieldmaxacc === Akaụntụ kacha
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Port
+widget_waserver_fieldsecret === Nzuzo
+widget_waserver_setupwatitle === Melite WhatsApp Server
+form_waserver_secretkey === Igodo nzuzo
+form_waserver_secretkeydesc === Mepụta igodo nzuzo echekwara. Ihe nkesa WhatsApp ga-eji nke a iji nyochaa njikọ ndị ọgbọ na Zender. Biko ejikwala mkpụrụedemede pụrụ iche!
+table_waservers_optionssetupbtn === Melite
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Emepụtara
+table_waservers_dtname === Aha
+table_waservers_dturl === URL
+table_waservers_dtport === Port
+table_waservers_dtdetails === Nkọwa
+table_waservers_dtops === Nhọrọ
+page_socialerror_autherrortitle === Mperi nyocha
+page_socialerror_authwentwrong === Ọ nwere ihe adịghị mma na usoro nyocha. Biko nwaa ọzọ!
+page_socialerror_authsuspended === Ndo! Anyị akwụsịla akaụntụ gị n'ihi mmemme enyo.
+page_socialerror_authemailnotfound === Adreesị ozi-e ziri ezi ga-adịrịrị na akaụntụ _8880_ gị!
+page_socialerror_authreturn === Laghachi na Nbanye
+page_socialerror_authuhoh === Na na na!
+widget_setupcronjobs_title === Mepụta Cronjobs
+admin_btncron_tooltip === Ntọala cron
+admin_btncron_btn === Cron
+waexport_loader_exporting === Kọntaktị Otu na-ebupụ
+table_wagroups_exportcontactstooltip === Mbupu kọntaktị
+response_waexport_unablefetchcontacts === Enweghị ike ịnweta kọntaktị otu!
+response_waexport_nocontactsfound === Enweghị kọntaktị ahụrụ!
+response_systemupdate_manualinterreq === Mmelite chọrọ enyemaka aka. Na-atụgharị gaa na ibe mgbanwe..
+apexcharts_locale_monthjanuary === Jánúárị
+apexcharts_locale_monthfebruary === Febrụwarị
+apexcharts_locale_monthmarch === Màachị
+apexcharts_locale_monthapril === Éprel
+apexcharts_locale_monthmay === Mee
+apexcharts_locale_monthjune === Jụn
+apexcharts_locale_monthjuly === Júlị
+apexcharts_locale_monthaugust === Ọgọọst
+apexcharts_locale_monthseptember === Septemba
+apexcharts_locale_monthoctober === Oktoba
+apexcharts_locale_monthnovember === Novemba
+apexcharts_locale_monthdecember === Disemba
+apexcharts_locale_monthjanshort === Ján
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Màa
+apexcharts_locale_monthaprshort === Épr
+apexcharts_locale_monthmayshort === Mee
+apexcharts_locale_monthjunshort === Jụn
+apexcharts_locale_monthjulshort === Júl
+apexcharts_locale_monthaugshort === Ọgọ
+apexcharts_locale_monthsepshort === Sep
+apexcharts_locale_monthoctshort === Okt
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Dis
+apexcharts_locale_daymonday === Mọnde
+apexcharts_locale_daytuesday === Tiwẹsde
+apexcharts_locale_daywednesday === Wensde
+apexcharts_locale_daythursday === Tọọzde
+apexcharts_locale_dayfriday === Fraịde
+apexcharts_locale_daysaturday === Satọde
+apexcharts_locale_daysunday === Sọnụde
+apexcharts_locale_daymondayshort === Mọn
+apexcharts_locale_daytuesdayshort === Tiw
+apexcharts_locale_daywednesdayshort === Wen
+apexcharts_locale_daythursdayshort === Tọọ
+apexcharts_locale_dayfridayshort === Fra
+apexcharts_locale_daysaturdayshort === Sat
+apexcharts_locale_daysundayshort === Sọn
+apexcharts_locale_exportsvg === Nwepụtara SVG
+apexcharts_locale_exportpng === Nwepụtara PNG
+apexcharts_locale_menu === Menyu
+apexcharts_locale_selection === Nchekwara
+apexcharts_locale_selectionzoom === Nchekwara Zoom
+apexcharts_locale_zin === Zụzụ
+apexcharts_locale_zout === Wepụ
+apexcharts_locale_pan === Tufi
+apexcharts_locale_reset === Fọọrụ Zụzụ

@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === Стрингови или ску
 table_toolsautoreply_account38 === Налог: _8880_
 table_toolsautoreply_device38 === Уређај: _8880_
 forms_whatsapp_mediafilehelp38 === Медијска датотека, медијска датотека за отпремање. Подржава .јпг, .пнг, .гиф, .мп4, .мп3 и .огг датотеке.
+response_notify_smsreceivedmessage === порука
+response_waquick_waaccountnotconn === ВхатсАпп налог није повезан!
+admin_table_waserverpackagesempty === Пакети не постоје!
+admin_table_waserverstatustext === Статус:
+admin_table_waserverconnectedtext === Повезан:
+admin_table_waservermaxtext === Максимални број налога:
+admin_table_waserverpackagestext === Дозвољени пакети:
+ratesgateway_options_viewratesbtn === Погледај стопе
+ratesgateway_options_viewratestitle === Погледајте цене за овај пролаз
+ratesgateway_options_tablecrtdate === Датум креирања
+ratesgateway_options_tablegatewayid === ИД пролаза
+ratesgateway_options_tablegatewayname === Име мрежног пролаза
+ratesgateway_options_tableoptions === Опције
+dashboard_overall_overview === Преглед
+dashboard_overview_gatewaysbtn === Гатеваис
+dashboard_overview_user_totalsent === Укупно послано
+dashboard_overview_user_totalreceived === Укупно примљено
+dashboard_overview_user_topuploader === Обрада захтева
+sms_btnevent_formcontent_btntranslate === превести
+form_adddevice_showqrbtn === Прикажи КР
+dashboard_sidebarblk_overview === Преглед
+dashboard_sidebarblk_hosts === Домаћини
+dashboard_sidebarblk_hostsandroid === Андроид
+dashboard_sidebarblk_hostswhatsapp === ВхатсАпп
+dashboard_sidebarblk_waservers === ВА сервери
+dashboard_sidebarblk_docsandroid === Андроид
+dashboard_pageheading_docsandroid === Андроид
+dashboard_adminoverview_topcountries5 === 5 најбољих земаља по посетиоцима
+dashboard_adminoverview_browsers === Посетиоци преко претраживача
+dashboard_adminoverview_os === Посетиоци према ОС
+dashboard_userhosts_hostbreadcrumb === Домаћини
+dashboard_authenticate_loginpagetagline === Пријавите се да бисте приступили контролној табли
+dashboard_authenticate_regpagetagline === Региструјте се да бисте приступили контролној табли
+dashboard_authenticate_forgotpagetagline === Вратите своју заборављену лозинку
+dashboard_authenticate_loginpagedonthave === Још увек немате налог?
+dashboard_authenticate_regpagehave === Већ имате налог?
+dashboard_admin_waserverstitle === ВА сервери
+dashboard_admin_waserversbtn_addserver === Додај сервер
+dashboard_docsnew_androidtitle === Андроид
+form_waserver_addeditserver_name === Име
+form_waserver_addeditserver_nametagline === Јединствено име за овај ВхатсАпп сервер.
+form_waserver_addeditserver_accounts === Рачуни
+form_waserver_addeditserver_accountstagline === Максималан број налога који се могу повезати.
+form_waserver_addeditserver_packages === Пакети
+form_waserver_addeditserver_packagestagline === Изаберите пакете којима је дозвољено да користе овај ВхатсАпп сервер.
+form_waserver_addeditserver_serverurl === УРЛ сервера
+form_waserver_addeditserver_serverport === Сервер порт
+datatable_length_v38 === Прикажи _MENU_ уноса
+datatable_info_v38 === _START_ до _END_ од _TOTAL_
+datatable_empty_v38 === Нема пронађених уноса
+datatable_filtered_v38 === (укупно _MAX_)
+requests_waserver_selectatleastonepack === Молимо изаберите најмање 1 пакет!
+requests_waserver_updatedsuccess === ВхатсАпп сервер је ажуриран!
+requests_waserver_addedsuccess === ВхатсАпп сервер је додат!
+requests_waserver_deletedsuccess === ВхатсАпп сервер је избрисан!
+widget_waserver_addwatitle === Додајте ВхатсАпп сервер
+widget_waserver_addwatitleloader === Додавање ВхатсАпп сервера
+widget_waserver_editwatitle === Уредите ВхатсАпп сервер
+widget_waserver_editwatitleloader === Уређивање ВхатсАпп сервера
+widget_waserver_fieldmaxacc === Мак Аццоунтс
+widget_waserver_fieldurl === УРЛ
+widget_waserver_fieldport === Лука
+widget_waserver_fieldsecret === Тајна
+widget_waserver_setupwatitle === Подесите ВхатсАпп сервер
+form_waserver_secretkey === Тајни кључ
+form_waserver_secretkeydesc === Направите безбедан тајни кључ. Ово ће користити ВхатсАпп сервер за верификацију равноправне везе са Зендером. Немојте користити посебне знакове!
+table_waservers_optionssetupbtn === Подесити
+table_androidver_14 === Андроид 14
+table_waservers_dtcreated === Цреатед
+table_waservers_dtname === Име
+table_waservers_dturl === УРЛ
+table_waservers_dtport === Лука
+table_waservers_dtdetails === Детаљи
+table_waservers_dtops === Опције
+page_socialerror_autherrortitle === Грешка потврда идентитета
+page_socialerror_authwentwrong === Нешто је пошло наопако са процесом аутентификације. Молим вас, покушајте поново!
+page_socialerror_authsuspended === Извињавам се! Обуставили смо ваш налог због сумњиве активности.
+page_socialerror_authemailnotfound === Важећа адреса е-поште мора бити присутна на вашем _8880_ налогу!
+page_socialerror_authreturn === Вратите се на Пријава
+page_socialerror_authuhoh === Ух Ох!
+widget_setupcronjobs_title === Сетуп Цроњобс
+admin_btncron_tooltip === Црон Сетуп
+admin_btncron_btn === Црон
+waexport_loader_exporting === Извоз групних контаката
+table_wagroups_exportcontactstooltip === Извези контакте
+response_waexport_unablefetchcontacts === Није могуће добити групне контакте!
+response_waexport_nocontactsfound === Нема пронађених контаката!
+response_systemupdate_manualinterreq === Ажурирање захтева ручну интервенцију. Преусмеравање на страницу дневника промена..
+apexcharts_locale_monthjanuary === Јануар
+apexcharts_locale_monthfebruary === Фебруар
+apexcharts_locale_monthmarch === Март
+apexcharts_locale_monthapril === Април
+apexcharts_locale_monthmay === Мај
+apexcharts_locale_monthjune === Јун
+apexcharts_locale_monthjuly === Јул
+apexcharts_locale_monthaugust === Август
+apexcharts_locale_monthseptember === Септембар
+apexcharts_locale_monthoctober === Октобар
+apexcharts_locale_monthnovember === Новембар
+apexcharts_locale_monthdecember === Децембар
+apexcharts_locale_monthjanshort === Јан
+apexcharts_locale_monthfebshort === Феб
+apexcharts_locale_monthmarshort === Мар
+apexcharts_locale_monthaprshort === Апр
+apexcharts_locale_monthmayshort === Мај
+apexcharts_locale_monthjunshort === Јун
+apexcharts_locale_monthjulshort === Јул
+apexcharts_locale_monthaugshort === Авг
+apexcharts_locale_monthsepshort === Сеп
+apexcharts_locale_monthoctshort === Окт
+apexcharts_locale_monthnovshort === Нов
+apexcharts_locale_monthdecshort === Дец
+apexcharts_locale_daymonday === Понедељак
+apexcharts_locale_daytuesday === Уторак
+apexcharts_locale_daywednesday === Среда
+apexcharts_locale_daythursday === Четвртак
+apexcharts_locale_dayfriday === Петак
+apexcharts_locale_daysaturday === Субота
+apexcharts_locale_daysunday === Недеља
+apexcharts_locale_daymondayshort === Пон
+apexcharts_locale_daytuesdayshort === Уто
+apexcharts_locale_daywednesdayshort === Сре
+apexcharts_locale_daythursdayshort === Чет
+apexcharts_locale_dayfridayshort === Пет
+apexcharts_locale_daysaturdayshort === Суб
+apexcharts_locale_daysundayshort === Нед
+apexcharts_locale_exportsvg === Преузми SVG
+apexcharts_locale_exportpng === Преузми PNG
+apexcharts_locale_menu === Мени
+apexcharts_locale_selection === Избор
+apexcharts_locale_selectionzoom === Зум избор
+apexcharts_locale_zin === Зумирај унутра
+apexcharts_locale_zout === Зумирај споља
+apexcharts_locale_pan === Померање
+apexcharts_locale_reset === Ресетуј зум

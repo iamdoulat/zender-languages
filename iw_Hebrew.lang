@@ -2681,3 +2681,138 @@ form_autoreply_modal_widget_trigger_38_desc === המחרוזות או קבוצת
 table_toolsautoreply_account38 === חשבון: _8880_
 table_toolsautoreply_device38 === מכשיר: _8880_
 forms_whatsapp_mediafilehelp38 === קובץ מדיה, קובץ המדיה שיש להעלות. תומך בקבצי .jpg, .png, .gif, .mp4, .mp3 ו- .ogg.
+response_notify_smsreceivedmessage === הוֹדָעָה
+response_waquick_waaccountnotconn === חשבון WhatsApp לא מחובר!
+admin_table_waserverpackagesempty === חבילות לא קיימות!
+admin_table_waserverstatustext === סטָטוּס:
+admin_table_waserverconnectedtext === מְחוּבָּר:
+admin_table_waservermaxtext === מקסימום חשבונות:
+admin_table_waserverpackagestext === חבילות מותרות:
+ratesgateway_options_viewratesbtn === צפה בתעריפים
+ratesgateway_options_viewratestitle === צפה בתעריפים עבור שער זה
+ratesgateway_options_tablecrtdate === תאריך יצירה
+ratesgateway_options_tablegatewayid === מזהה שער
+ratesgateway_options_tablegatewayname === שם שער
+ratesgateway_options_tableoptions === אפשרויות
+dashboard_overall_overview === סקירה כללית
+dashboard_overview_gatewaysbtn === שערים
+dashboard_overview_user_totalsent === סך הכל נשלח
+dashboard_overview_user_totalreceived === סך הכל התקבל
+dashboard_overview_user_topuploader === מעבד בקשה
+sms_btnevent_formcontent_btntranslate === לתרגם
+form_adddevice_showqrbtn === הצג QR
+dashboard_sidebarblk_overview === סקירה כללית
+dashboard_sidebarblk_hosts === מארחים
+dashboard_sidebarblk_hostsandroid === דְמוּי אָדָם
+dashboard_sidebarblk_hostswhatsapp === וואטסאפ
+dashboard_sidebarblk_waservers === שרתי WA
+dashboard_sidebarblk_docsandroid === דְמוּי אָדָם
+dashboard_pageheading_docsandroid === דְמוּי אָדָם
+dashboard_adminoverview_topcountries5 === 5 המדינות המובילות לפי מבקרים
+dashboard_adminoverview_browsers === מבקרים לפי דפדפן
+dashboard_adminoverview_os === מבקרים לפי מערכת הפעלה
+dashboard_userhosts_hostbreadcrumb === מארחים
+dashboard_authenticate_loginpagetagline === התחבר כדי לגשת ללוח המחוונים
+dashboard_authenticate_regpagetagline === הירשם כדי לגשת ללוח המחוונים
+dashboard_authenticate_forgotpagetagline === אחזר את הסיסמה הנשכחת שלך
+dashboard_authenticate_loginpagedonthave === אין לך עדיין חשבון?
+dashboard_authenticate_regpagehave === כבר יש לך חשבון?
+dashboard_admin_waserverstitle === שרתי WA
+dashboard_admin_waserversbtn_addserver === הוסף שרת
+dashboard_docsnew_androidtitle === דְמוּי אָדָם
+form_waserver_addeditserver_name === שֵׁם
+form_waserver_addeditserver_nametagline === שם ייחודי לשרת WhatsApp זה.
+form_waserver_addeditserver_accounts === חשבונות
+form_waserver_addeditserver_accountstagline === המספר המרבי של חשבונות שמותר להתחבר.
+form_waserver_addeditserver_packages === חבילות
+form_waserver_addeditserver_packagestagline === בחר את החבילות המורשות להשתמש בשרת WhatsApp זה.
+form_waserver_addeditserver_serverurl === כתובת האתר של השרת
+form_waserver_addeditserver_serverport === יציאת שרת
+datatable_length_v38 === הצג _MENU_ ערכים
+datatable_info_v38 === _START_ עד _END_ מתוך _TOTAL_
+datatable_empty_v38 === לא נמצאו ערכים
+datatable_filtered_v38 === (_MAX_ בסך הכל)
+requests_waserver_selectatleastonepack === אנא בחר חבילה אחת לפחות!
+requests_waserver_updatedsuccess === שרת WhatsApp עודכן!
+requests_waserver_addedsuccess === שרת WhatsApp נוסף!
+requests_waserver_deletedsuccess === שרת WhatsApp נמחק!
+widget_waserver_addwatitle === הוסף שרת WhatsApp
+widget_waserver_addwatitleloader === הוספת שרת WhatsApp
+widget_waserver_editwatitle === ערוך את שרת WhatsApp
+widget_waserver_editwatitleloader === עריכת שרת WhatsApp
+widget_waserver_fieldmaxacc === מקסימום חשבונות
+widget_waserver_fieldurl === כתובת אתר
+widget_waserver_fieldport === נמל
+widget_waserver_fieldsecret === סוֹד
+widget_waserver_setupwatitle === הגדר את שרת WhatsApp
+form_waserver_secretkey === מפתח סודי
+form_waserver_secretkeydesc === צור מפתח סודי מאובטח. זה ישמש את שרת WhatsApp לאימות חיבור עמיתים עם Zender. נא לא להשתמש בתווים מיוחדים!
+table_waservers_optionssetupbtn === להכין
+table_androidver_14 === אנדרואיד 14
+table_waservers_dtcreated === נוצר
+table_waservers_dtname === שֵׁם
+table_waservers_dturl === כתובת אתר
+table_waservers_dtport === נמל
+table_waservers_dtdetails === פרטים
+table_waservers_dtops === אפשרויות
+page_socialerror_autherrortitle === שגיאת אימות
+page_socialerror_authwentwrong === משהו השתבש בתהליך האימות. בבקשה נסה שוב!
+page_socialerror_authsuspended === מצטער! השעינו את חשבונך עקב פעילות חשודה.
+page_socialerror_authemailnotfound === כתובת דוא"ל חוקית חייבת להיות קיימת בחשבון _8880_ שלך!
+page_socialerror_authreturn === חזור לכניסה
+page_socialerror_authuhoh === או - או!
+widget_setupcronjobs_title === הגדר Cronjobs
+admin_btncron_tooltip === הגדרת קרון
+admin_btncron_btn === קרון
+waexport_loader_exporting === ייצוא אנשי קשר קבוצתיים
+table_wagroups_exportcontactstooltip === ייצוא אנשי קשר
+response_waexport_unablefetchcontacts === לא ניתן להשיג אנשי קשר בקבוצה!
+response_waexport_nocontactsfound === לא נמצאו אנשי קשר!
+response_systemupdate_manualinterreq === העדכון דורש התערבות ידנית. מפנה מחדש לדף יומן שינויים..
+apexcharts_locale_monthjanuary === ינואר
+apexcharts_locale_monthfebruary === פברואר
+apexcharts_locale_monthmarch === מרץ
+apexcharts_locale_monthapril === אפריל
+apexcharts_locale_monthmay === מאי
+apexcharts_locale_monthjune === יוני
+apexcharts_locale_monthjuly === יולי
+apexcharts_locale_monthaugust === אוגוסט
+apexcharts_locale_monthseptember === ספטמבר
+apexcharts_locale_monthoctober === אוקטובר
+apexcharts_locale_monthnovember === נובמבר
+apexcharts_locale_monthdecember === דצמבר
+apexcharts_locale_monthjanshort === ינו
+apexcharts_locale_monthfebshort === פבר
+apexcharts_locale_monthmarshort === מרץ
+apexcharts_locale_monthaprshort === אפר
+apexcharts_locale_monthmayshort === מאי
+apexcharts_locale_monthjunshort === יונ
+apexcharts_locale_monthjulshort === יול
+apexcharts_locale_monthaugshort === אוג
+apexcharts_locale_monthsepshort === ספט
+apexcharts_locale_monthoctshort === אוק
+apexcharts_locale_monthnovshort === נוב
+apexcharts_locale_monthdecshort === דצמ
+apexcharts_locale_daymonday === יום שני
+apexcharts_locale_daytuesday === יום שלישי
+apexcharts_locale_daywednesday === יום רביעי
+apexcharts_locale_daythursday === יום חמישי
+apexcharts_locale_dayfriday === יום שישי
+apexcharts_locale_daysaturday === יום שבת
+apexcharts_locale_daysunday === יום ראשון
+apexcharts_locale_daymondayshort === ב'
+apexcharts_locale_daytuesdayshort === ג'
+apexcharts_locale_daywednesdayshort === ד'
+apexcharts_locale_daythursdayshort === ה'
+apexcharts_locale_dayfridayshort === ו'
+apexcharts_locale_daysaturdayshort === שבת
+apexcharts_locale_daysundayshort === א'
+apexcharts_locale_exportsvg === הורדת SVG
+apexcharts_locale_exportpng === הורדת PNG
+apexcharts_locale_menu === תפריט
+apexcharts_locale_selection === בחירה
+apexcharts_locale_selectionzoom === התמקדות זום
+apexcharts_locale_zin === הגדלה
+apexcharts_locale_zout === הקטנה
+apexcharts_locale_pan === הזזה
+apexcharts_locale_reset === איפוס זום
