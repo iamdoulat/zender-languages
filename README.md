@@ -12,6 +12,7 @@
 | Arabic | Released | Titan Systems |
 | Bengali | Released | Titan Systems |
 | German | Released | Titan Systems |
+| Greek | Released | Titan Systems |
 | Spanish | Released | Titan Systems |
 | French | Released | Titan Systems |
 | Hausa | Released | Titan Systems |
