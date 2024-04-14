@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === ซูมเข้า
 apexcharts_locale_zout === ซูมออก
 apexcharts_locale_pan === แตะเลื่อน
 apexcharts_locale_reset === รีเซ็ตการซูม
+actions_waexportgroupcontacts_title === ส่งออก
+actions_waexportgroupcontacts_desc === ผู้ติดต่อกลุ่มจะถูกบันทึกเป็นไฟล์ Excel
+response_adminuserimpersonate_entry === กำลังเปลี่ยนเส้นทางไปยังบัญชีผู้ใช้...
+response_adminuserimpersonate_exit === กำลังเปลี่ยนเส้นทางไปยังบัญชีผู้ดูแลระบบ...
+impersonate_userentry_title === แอบอ้างเป็น
+impersonate_userentry_desc === คุณต้องการเข้าสู่ระบบในฐานะผู้ใช้รายนี้หรือไม่?
+impersonate_userentry_loader === การแอบอ้างเป็นบัญชีผู้ใช้
+impersonate_userexit_loader === กำลังออกจากเซสชันบัญชีปัจจุบัน
+impersonate_exit_btn === ออก
+table_adminusers_impersonatetp === แอบอ้างเป็น

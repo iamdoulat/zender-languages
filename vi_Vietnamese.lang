@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === Phóng to
 apexcharts_locale_zout === Thu nhỏ
 apexcharts_locale_pan === Di chuyển
 apexcharts_locale_reset === Thiết lập lại Phóng to
+actions_waexportgroupcontacts_title === Xuất khẩu
+actions_waexportgroupcontacts_desc === Danh bạ nhóm sẽ được lưu dưới dạng tệp Excel.
+response_adminuserimpersonate_entry === Đang chuyển hướng tới tài khoản người dùng...
+response_adminuserimpersonate_exit === Đang chuyển hướng tới tài khoản quản trị viên...
+impersonate_userentry_title === Mạo danh
+impersonate_userentry_desc === Bạn có muốn đăng nhập với tư cách người dùng này không?
+impersonate_userentry_loader === Mạo danh tài khoản người dùng
+impersonate_userexit_loader === Thoát khỏi phiên tài khoản hiện tại
+impersonate_exit_btn === Lối ra
+table_adminusers_impersonatetp === Mạo danh

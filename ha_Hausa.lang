@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === Zuba
 apexcharts_locale_zout === Goge
 apexcharts_locale_pan === Kara
 apexcharts_locale_reset === Kashe Zuba
+actions_waexportgroupcontacts_title === fitarwa
+actions_waexportgroupcontacts_desc === Za a adana lambobin rukuni azaman fayil na Excel.
+response_adminuserimpersonate_entry === Ana turawa zuwa asusun mai amfani...
+response_adminuserimpersonate_exit === Ana turawa zuwa asusun admin...
+impersonate_userentry_title === Kwaikwaya
+impersonate_userentry_desc === Kuna so ku shiga a matsayin wannan mai amfani?
+impersonate_userentry_loader === Yin kwaikwayon asusun mai amfani
+impersonate_userexit_loader === Fita zaman asusu na yanzu
+impersonate_exit_btn === Fita
+table_adminusers_impersonatetp === Kwaikwaya

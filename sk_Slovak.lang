@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === Priblížiť
 apexcharts_locale_zout === Oddialiť
 apexcharts_locale_pan === Posunúť
 apexcharts_locale_reset === Obnoviť priblíženie
+actions_waexportgroupcontacts_title === Export
+actions_waexportgroupcontacts_desc === Skupinové kontakty sa uložia ako súbor programu Excel.
+response_adminuserimpersonate_entry === Prebieha presmerovanie na používateľský účet...
+response_adminuserimpersonate_exit === Prebieha presmerovanie na účet správcu...
+impersonate_userentry_title === Zosobniť sa
+impersonate_userentry_desc === Chcete sa prihlásiť ako tento používateľ?
+impersonate_userentry_loader === Odcudzenie identity používateľského účtu
+impersonate_userexit_loader === Ukončenie relácie aktuálneho účtu
+impersonate_exit_btn === VÝCHOD
+table_adminusers_impersonatetp === Zosobniť sa
