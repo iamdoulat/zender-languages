@@ -1,0 +1,10 @@
+actions_waexportgroupcontacts_title === Export
+actions_waexportgroupcontacts_desc === Group contacts will be saved as Excel file.
+response_adminuserimpersonate_entry === Redirecting to user account...
+response_adminuserimpersonate_exit === Redirecting to admin account...
+impersonate_userentry_title === Impersonate
+impersonate_userentry_desc === Do you want to login as this user?
+impersonate_userentry_loader === Impersonating user account
+impersonate_userexit_loader === Exiting current account session
+impersonate_exit_btn === Exit
+table_adminusers_impersonatetp === Impersonate

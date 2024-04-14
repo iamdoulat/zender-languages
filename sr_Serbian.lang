@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === Зумирај унутра
 apexcharts_locale_zout === Зумирај споља
 apexcharts_locale_pan === Померање
 apexcharts_locale_reset === Ресетуј зум
+actions_waexportgroupcontacts_title === Извоз
+actions_waexportgroupcontacts_desc === Групни контакти ће бити сачувани као Екцел датотека.
+response_adminuserimpersonate_entry === Преусмеравање на кориснички налог...
+response_adminuserimpersonate_exit === Преусмеравање на администраторски налог...
+impersonate_userentry_title === лажно се представљати
+impersonate_userentry_desc === Да ли желите да се пријавите као овај корисник?
+impersonate_userentry_loader === Лажно представљање корисничког налога
+impersonate_userexit_loader === Излазак из сесије текућег налога
+impersonate_exit_btn === Изађи
+table_adminusers_impersonatetp === лажно се представљати

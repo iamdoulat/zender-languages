@@ -2816,3 +2816,14 @@ apexcharts_locale_zin === ज़ूम इन
 apexcharts_locale_zout === ज़ूम आउट
 apexcharts_locale_pan === पैनिंग
 apexcharts_locale_reset === ज़ूम रीसेट करें
+actions_waexportgroupcontacts_title === निर्यात
+actions_waexportgroupcontacts_desc === समूह संपर्क एक्सेल फ़ाइल के रूप में सहेजे जाएंगे।
+actions_waexportgroupcontacts_title === निर्यात
+response_adminuserimpersonate_entry === उपयोगकर्ता खाते पर पुनर्निर्देशित किया जा रहा है...
+response_adminuserimpersonate_exit === व्यवस्थापक खाते पर पुनर्निर्देशित किया जा रहा है...
+impersonate_userentry_title === अभिनय करना
+impersonate_userentry_desc === क्या आप इस उपयोगकर्ता के रूप में लॉगिन करना चाहते हैं?
+impersonate_userentry_loader === उपयोगकर्ता खाते का प्रतिरूपण करना
+impersonate_userexit_loader === चालू खाता सत्र से बाहर निकलना
+impersonate_exit_btn === बाहर निकलना
+table_adminusers_impersonatetp === अभिनय करना

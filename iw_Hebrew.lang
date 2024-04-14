@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === הגדלה
 apexcharts_locale_zout === הקטנה
 apexcharts_locale_pan === הזזה
 apexcharts_locale_reset === איפוס זום
+actions_waexportgroupcontacts_title === יְצוּא
+actions_waexportgroupcontacts_desc === אנשי קשר בקבוצה יישמרו כקובץ Excel.
+response_adminuserimpersonate_entry === מפנה מחדש לחשבון משתמש...
+response_adminuserimpersonate_exit === מפנה מחדש לחשבון מנהל מערכת...
+impersonate_userentry_title === לְהִתְחַזוֹת
+impersonate_userentry_desc === האם ברצונך להתחבר כמשתמש זה?
+impersonate_userentry_loader === מתחזה לחשבון משתמש
+impersonate_userexit_loader === יוצא מההפעלה של החשבון הנוכחי
+impersonate_exit_btn === יְצִיאָה
+table_adminusers_impersonatetp === לְהִתְחַזוֹת

@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === Yakınlaştır
 apexcharts_locale_zout === Uzaklaştır
 apexcharts_locale_pan === Sürükle
 apexcharts_locale_reset === Sıfırla
+actions_waexportgroupcontacts_title === İhracat
+actions_waexportgroupcontacts_desc === Grup kişileri Excel dosyası olarak kaydedilecektir.
+response_adminuserimpersonate_entry === Kullanıcı hesabına yönlendiriliyor...
+response_adminuserimpersonate_exit === Yönetici hesabına yönlendiriliyorsunuz...
+impersonate_userentry_title === Başkasının kimliğine bürün
+impersonate_userentry_desc === Bu kullanıcı olarak giriş yapmak istiyor musunuz?
+impersonate_userentry_loader === Kullanıcı hesabının kimliğine bürünme
+impersonate_userexit_loader === Cari hesap oturumundan çıkılıyor
+impersonate_exit_btn === çıkış
+table_adminusers_impersonatetp === Başkasının kimliğine bürün

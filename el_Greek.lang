@@ -2815,3 +2815,13 @@ apexcharts_locale_zin === Μεγέθυνση
 apexcharts_locale_zout === Σμίκρυνση
 apexcharts_locale_pan === Μετακίνηση
 apexcharts_locale_reset === Επαναφορά Εστίασης
+actions_waexportgroupcontacts_title === Εξαγωγή
+actions_waexportgroupcontacts_desc === Οι επαφές της ομάδας θα αποθηκευτούν ως αρχείο Excel.
+response_adminuserimpersonate_entry === Ανακατεύθυνση σε λογαριασμό χρήστη...
+response_adminuserimpersonate_exit === Ανακατεύθυνση σε λογαριασμό διαχειριστή...
+impersonate_userentry_title === Υποδύομαι
+impersonate_userentry_desc === Θέλετε να συνδεθείτε ως αυτός ο χρήστης;
+impersonate_userentry_loader === Μίμηση λογαριασμού χρήστη
+impersonate_userexit_loader === Έξοδος από την περίοδο λειτουργίας τρεχούμενου λογαριασμού
+impersonate_exit_btn === Εξοδος
+table_adminusers_impersonatetp === Υποδύομαι

@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === 拡大
 apexcharts_locale_zout === 縮小
 apexcharts_locale_pan === 移動
 apexcharts_locale_reset === ズームリセット
+actions_waexportgroupcontacts_title === 輸出
+actions_waexportgroupcontacts_desc === グループの連絡先は Excel ファイルとして保存されます。
+response_adminuserimpersonate_entry === ユーザーアカウントにリダイレクトしています...
+response_adminuserimpersonate_exit === 管理者アカウントにリダイレクトしています...
+impersonate_userentry_title === なりすます
+impersonate_userentry_desc === このユーザーとしてログインしますか?
+impersonate_userentry_loader === ユーザーアカウントになりすます
+impersonate_userexit_loader === 現在のアカウントセッションを終了しています
+impersonate_exit_btn === 出口
+table_adminusers_impersonatetp === なりすます

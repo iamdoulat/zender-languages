@@ -2815,4 +2815,13 @@ apexcharts_locale_selectionzoom === Urval Zoom
 apexcharts_locale_zin === Zooma in
 apexcharts_locale_zout === Zooma ut
 apexcharts_locale_pan === Panorera
-apexcharts_locale_reset === Återställ Zoom
+apexcharts_locale_reset === Återställ Zoomactions_waexportgroupcontacts_title === Exportera
+actions_waexportgroupcontacts_desc === Gruppkontakter kommer att sparas som Excel-fil.
+response_adminuserimpersonate_entry === Omdirigerar till användarkonto...
+response_adminuserimpersonate_exit === Omdirigerar till administratörskonto...
+impersonate_userentry_title === Imitera
+impersonate_userentry_desc === Vill du logga in som denna användare?
+impersonate_userentry_loader === Utger sig för att vara ett användarkonto
+impersonate_userexit_loader === Avslutar aktuell kontosession
+impersonate_exit_btn === Utgång
+table_adminusers_impersonatetp === Imitera

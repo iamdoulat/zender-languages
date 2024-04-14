@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === Nagyítás
 apexcharts_locale_zout === Kicsinyítés
 apexcharts_locale_pan === Mozgatás
 apexcharts_locale_reset === Visszaállítás
+actions_waexportgroupcontacts_title === Export
+actions_waexportgroupcontacts_desc === A csoport névjegyei Excel fájlként kerülnek mentésre.
+response_adminuserimpersonate_entry === Átirányítás a felhasználói fiókba...
+response_adminuserimpersonate_exit === Átirányítás a rendszergazdai fiókba...
+impersonate_userentry_title === Megszemélyesíteni
+impersonate_userentry_desc === Szeretnél e felhasználóként bejelentkezni?
+impersonate_userentry_loader === Felhasználói fiók megszemélyesítése
+impersonate_userexit_loader === Kilépés az aktuális fiók munkamenetéből
+impersonate_exit_btn === Kijárat
+table_adminusers_impersonatetp === Megszemélyesíteni

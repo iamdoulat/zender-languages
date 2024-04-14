@@ -2816,3 +2816,13 @@ apexcharts_locale_zin === Karibu
 apexcharts_locale_zout === Onyesha Mbali
 apexcharts_locale_pan === Kusogeza
 apexcharts_locale_reset === Rudisha
+actions_waexportgroupcontacts_title === Hamisha
+actions_waexportgroupcontacts_desc === Anwani za kikundi zitahifadhiwa kama faili ya Excel.
+response_adminuserimpersonate_entry === Inaelekeza kwa akaunti ya mtumiaji...
+response_adminuserimpersonate_exit === Inaelekeza kwenye akaunti ya msimamizi...
+impersonate_userentry_title === Kuiga
+impersonate_userentry_desc === Je, ungependa kuingia kama mtumiaji huyu?
+impersonate_userentry_loader === Kuiga akaunti ya mtumiaji
+impersonate_userexit_loader === Inatoka kwa kipindi cha sasa cha akaunti
+impersonate_exit_btn === Utgång
+table_adminusers_impersonatetp === Kuiga
