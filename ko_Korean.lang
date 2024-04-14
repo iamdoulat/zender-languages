@@ -2816,13 +2816,3 @@ apexcharts_locale_zin === 확대
 apexcharts_locale_zout === 축소
 apexcharts_locale_pan === 이동
 apexcharts_locale_reset === 줌 재설정
-actions_waexportgroupcontacts_title === 내보내다
-actions_waexportgroupcontacts_desc === 그룹 연락처는 Excel 파일로 저장됩니다.
-response_adminuserimpersonate_entry === 사용자 계정으로 리디렉션하는 중...
-response_adminuserimpersonate_exit === 관리자 계정으로 리디렉션하는 중...
-impersonate_userentry_title === 가장
-impersonate_userentry_desc === 이 사용자로 로그인하시겠습니까?
-impersonate_userentry_loader === 사용자 계정 가장
-impersonate_userexit_loader === 현재 계정 세션 종료 중
-impersonate_exit_btn === 출구
-table_adminusers_impersonatetp === 가장

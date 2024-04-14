@@ -2816,13 +2816,3 @@ apexcharts_locale_zin === वाढवा
 apexcharts_locale_zout === कमी करा
 apexcharts_locale_pan === फिरणे
 apexcharts_locale_reset === रीसेट करा
-actions_waexportgroupcontacts_title === निर्यात करा
-actions_waexportgroupcontacts_desc === गट संपर्क एक्सेल फाइल म्हणून सेव्ह केले जातील.
-response_adminuserimpersonate_entry === वापरकर्ता खात्यावर पुनर्निर्देशित करत आहे...
-response_adminuserimpersonate_exit === प्रशासक खात्यावर पुनर्निर्देशित करत आहे...
-impersonate_userentry_title === तोतयागिरी करणे
-impersonate_userentry_desc === तुम्ही हा वापरकर्ता म्हणून लॉग इन करू इच्छिता?
-impersonate_userentry_loader === वापरकर्ता खाते तोतयागिरी करत आहे
-impersonate_userexit_loader === चालू खाते सत्रातून बाहेर पडत आहे
-impersonate_exit_btn === बाहेर पडा
-table_adminusers_impersonatetp === तोतयागिरी करणे

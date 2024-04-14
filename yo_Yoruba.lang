@@ -2816,13 +2816,3 @@ apexcharts_locale_zin === Jíjẹ̀wẹ́
 apexcharts_locale_zout === Ríwà
 apexcharts_locale_pan === Jíjẹ̀wẹ́
 apexcharts_locale_reset === Tẹdò
-actions_waexportgroupcontacts_title === okeere
-actions_waexportgroupcontacts_desc === Awọn olubasọrọ ẹgbẹ yoo wa ni ipamọ bi faili Excel.
-response_adminuserimpersonate_entry === Ndarí si akoto olumulo...
-response_adminuserimpersonate_exit === Ndarí si akọọlẹ abojuto...
-impersonate_userentry_title === Farafarawe
-impersonate_userentry_desc === Ṣe o fẹ buwolu wọle bi olumulo yii?
-impersonate_userentry_loader === Afarawe iroyin olumulo
-impersonate_userexit_loader === Njade kuro ni igba akọọlẹ lọwọlọwọ
-impersonate_exit_btn === Jade
-table_adminusers_impersonatetp === Farafarawe

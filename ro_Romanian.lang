@@ -2816,13 +2816,3 @@ apexcharts_locale_zin === Mărește
 apexcharts_locale_zout === Micșorează
 apexcharts_locale_pan === Panoramare
 apexcharts_locale_reset === Resetare zoom
-actions_waexportgroupcontacts_title === Export
-actions_waexportgroupcontacts_desc === Contactele grupului vor fi salvate ca fișier Excel.
-response_adminuserimpersonate_entry === Se redirecționează către contul de utilizator...
-response_adminuserimpersonate_exit === Se redirecționează către contul de administrator...
-impersonate_userentry_title === Uzurpare identitatea
-impersonate_userentry_desc === Doriți să vă autentificați ca acest utilizator?
-impersonate_userentry_loader === Uzurparea identității contului de utilizator
-impersonate_userexit_loader === Ieșire din sesiunea de cont curent
-impersonate_exit_btn === Ieșire
-table_adminusers_impersonatetp === Uzurpare identitatea

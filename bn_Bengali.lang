@@ -2816,13 +2816,3 @@ apexcharts_locale_zin === জুম ইন
 apexcharts_locale_zout === জুম আউট
 apexcharts_locale_pan === প্যানিং
 apexcharts_locale_reset === রিসেট জুম
-actions_waexportgroupcontacts_title === রপ্তানি
-actions_waexportgroupcontacts_desc === গ্রুপ পরিচিতি এক্সেল ফাইল হিসাবে সংরক্ষণ করা হবে.
-response_adminuserimpersonate_entry === ব্যবহারকারীর অ্যাকাউন্টে পুনঃনির্দেশ করা হচ্ছে...
-response_adminuserimpersonate_exit === অ্যাডমিন অ্যাকাউন্টে পুনঃনির্দেশ করা হচ্ছে...
-impersonate_userentry_title === ছদ্মবেশী
-impersonate_userentry_desc === আপনি কি এই ব্যবহারকারী হিসাবে লগইন করতে চান?
-impersonate_userentry_loader === ছদ্মবেশী ব্যবহারকারী অ্যাকাউন্ট
-impersonate_userexit_loader === বর্তমান অ্যাকাউন্ট সেশন থেকে প্রস্থান করা হচ্ছে
-impersonate_exit_btn === প্রস্থান করুন
-table_adminusers_impersonatetp === ছদ্মবেশী

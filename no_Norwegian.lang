@@ -2816,13 +2816,3 @@ apexcharts_locale_zin === Zoom inn
 apexcharts_locale_zout === Zoom ut
 apexcharts_locale_pan === Panorer
 apexcharts_locale_reset === Tilbakestill zoom
-actions_waexportgroupcontacts_title === Eksport
-actions_waexportgroupcontacts_desc === Gruppekontakter vil bli lagret som Excel-fil.
-response_adminuserimpersonate_entry === Omdirigerer til brukerkonto...
-response_adminuserimpersonate_exit === Omdirigerer til administratorkonto ...
-impersonate_userentry_title === Etterligne
-impersonate_userentry_desc === Vil du logge på som denne brukeren?
-impersonate_userentry_loader === Etterligner brukerkonto
-impersonate_userexit_loader === Avslutter gjeldende kontoøkt
-impersonate_exit_btn === Exit
-table_adminusers_impersonatetp === Etterligne

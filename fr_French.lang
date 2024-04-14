@@ -2816,13 +2816,3 @@ apexcharts_locale_zin === Zoom avant
 apexcharts_locale_zout === Zoom arrière
 apexcharts_locale_pan === Déplacer
 apexcharts_locale_reset === Réinitialiser le zoom
-actions_waexportgroupcontacts_title === Exporter
-actions_waexportgroupcontacts_desc === Les contacts du groupe seront enregistrés sous forme de fichier Excel.
-response_adminuserimpersonate_entry === Redirection vers le compte utilisateur...
-response_adminuserimpersonate_exit === Redirection vers le compte administrateur...
-impersonate_userentry_title === Imiter
-impersonate_userentry_desc === Voulez-vous vous connecter en tant qu'utilisateur ?
-impersonate_userentry_loader === Usurpation d'identité de compte utilisateur
-impersonate_userexit_loader === Sortie de la session de compte courant
-impersonate_exit_btn === Sortie
-table_adminusers_impersonatetp === Imiter

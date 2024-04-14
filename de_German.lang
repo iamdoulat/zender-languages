@@ -2816,13 +2816,3 @@ apexcharts_locale_zin === Vergrößern
 apexcharts_locale_zout === Verkleinern
 apexcharts_locale_pan === Verschieben
 apexcharts_locale_reset === Zoom zurücksetzen
-actions_waexportgroupcontacts_title === Export
-actions_waexportgroupcontacts_desc === Gruppenkontakte werden als Excel-Datei gespeichert.
-response_adminuserimpersonate_entry === Weiterleitung zum Benutzerkonto...
-response_adminuserimpersonate_exit === Weiterleitung zum Administratorkonto...
-impersonate_userentry_title === Imitieren
-impersonate_userentry_desc === Möchten Sie sich als dieser Benutzer anmelden?
-impersonate_userentry_loader === Identitätswechsel des Benutzerkontos
-impersonate_userexit_loader === Verlassen der Girokontositzung
-impersonate_exit_btn === Ausfahrt
-table_adminusers_impersonatetp === Imitieren
