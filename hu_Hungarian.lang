@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Felhasználói fiók megszemélyesítése
 impersonate_userexit_loader === Kilépés az aktuális fiók munkamenetéből
 impersonate_exit_btn === Kijárat
 table_adminusers_impersonatetp === Megszemélyesíteni
+pages_error404_title === Nem található
+misc_gatewayrates_title === Átjáró árak
+misc_partnerrates_title === Partner árak
+misc_packages_title === Csomagok
+page_error404page_header === Nem találjuk az oldalt!
+page_error404page_tagline === Előfordulhat, hogy a keresett oldalt eltávolították, a neve megváltozott, vagy átmenetileg nem érhető el.
+page_error404page_button === Hazatérni
+modals_addnewsmssched_tooltip === Új SMS ütemezés hozzáadása
+modals_addnewwasched_tooltip === Új WhatsApp ütemezés hozzáadása
+widgets_viewbank_titlenew === Offline fizetés
+modal_paymentbtn_banktransfernew === Offline fizetés
+modal_adminsettings_banktransfer1new === Offline fizetési sablon
+modal_adminsettings_banktransfer2new === Ha engedélyezte az offline fizetést, készítsen hozzá sablont, ezt látják a felhasználók, amikor rákattintottak a gombra. Itt adhatja meg az utasításokat és a bankcímet. HTML elfogadva.
+modal_adminsettings_banktransfer3new === Az offline fizetési sablonban használható változók halmaza.
+modal_adminsettings_systemcurrencynew === Rendszer pénzneme
+modal_adminsettings_offlinepaymenttooltipnew === Ha engedélyezve van, a fizetési mód tartalmazni fog egy offline fizetési gombot.
+modal_adminsettings_systemcurrencytooltipnew === Ezt az alapvalutát fogja használni a rendszer az árak megjelenítéséhez, és a fizetési bővítmények is ezt használják alapként, ha az USD-konverzió engedélyezve van.
+plugin_controller_wentwrong === Hiba történt. Később próbálja meg újra.
+plugin_controller_error === Kritikus bővítményhiba: _8880_
+plugin_page_errortitle === Plugin hiba
+plugin_generic_unabletoprocess === Nem tudjuk feldolgozni kérését!
+plugin_generic_wentwrongerr === Valami elromlott! Hiba: _8880_
+table_plugins_name383 === Név
+table_plugins_details383 === Részletek
+widget_editplugin_nojsonsettings === Ennek a bővítménynek nincsenek beállításai!
+pages_errors_titleuhoh === UH Oh!
+pages_pluginsgeneric_returntodash === Vissza az irányítópulthoz
+theme_settings_defthemecolortitle === Alapértelmezett témaszín
+theme_settings_defthemecolortooltip === Válassza ki a téma alapértelmezett színét. Világos vagy sötét.
+theme_settings_defthemecolorlight === Fény
+theme_settings_defthemecolordark === Sötét
+user_settings_defthemecolortitle === Téma színe
+user_settings_defthemecolortooltip === Válassza ki a kívánt színt az irányítópulthoz. Világos vagy sötét.
+plugin_paymentpage_processingtitle === Fizetési oldal
+plugin_paymentpage_processingtagline === Kérjük, kattintson az alábbi gombra a fizetés folytatásához.
+plugin_paymentpage_processingbutton === Fizess most

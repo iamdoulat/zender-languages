@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Meniru identitas akun pengguna
 impersonate_userexit_loader === Keluar dari sesi akun saat ini
 impersonate_exit_btn === KELUAR
 table_adminusers_impersonatetp === Menirukan
+pages_error404_title === Tidak ditemukan
+misc_gatewayrates_title === Tarif Gerbang
+misc_partnerrates_title === Tarif Mitra
+misc_packages_title === Paket
+page_error404page_header === Kami tidak dapat menemukan halaman itu!
+page_error404page_tagline === Halaman yang Anda cari mungkin telah dihapus, namanya diubah, atau untuk sementara tidak tersedia.
+page_error404page_button === Kembali ke Rumah
+modals_addnewsmssched_tooltip === Tambahkan Jadwal SMS Baru
+modals_addnewwasched_tooltip === Tambahkan Jadwal WhatsApp Baru
+widgets_viewbank_titlenew === Pembayaran Offline
+modal_paymentbtn_banktransfernew === Pembayaran Offline
+modal_adminsettings_banktransfer1new === Templat Pembayaran Offline
+modal_adminsettings_banktransfer2new === Jika Anda mengaktifkan pembayaran offline, Anda harus membuat template untuk itu, inilah yang akan dilihat pengguna ketika mereka mengklik tombol. Anda dapat menambahkan instruksi dan alamat bank di sini. HTML diterima.
+modal_adminsettings_banktransfer3new === Kumpulan variabel yang dapat Anda gunakan dalam template pembayaran offline.
+modal_adminsettings_systemcurrencynew === Mata Uang Sistem
+modal_adminsettings_offlinepaymenttooltipnew === Jika diaktifkan, tombol pembayaran offline akan disertakan dalam modal pembayaran.
+modal_adminsettings_systemcurrencytooltipnew === Ini adalah mata uang dasar yang akan digunakan oleh sistem dalam menampilkan harga, juga digunakan oleh plugin pembayaran sebagai dasar ketika konversi USD diaktifkan.
+plugin_controller_wentwrong === Ada yang tidak beres, coba lagi nanti.
+plugin_controller_error === Kesalahan plugin kritis: _8880_
+plugin_page_errortitle === Kesalahan Pengaya
+plugin_generic_unabletoprocess === Kami tidak dapat memproses permintaan Anda!
+plugin_generic_wentwrongerr === Ada yang salah! Kesalahan: _8880_
+table_plugins_name383 === Nama
+table_plugins_details383 === Detail
+widget_editplugin_nojsonsettings === Plugin ini tidak memiliki pengaturan!
+pages_errors_titleuhoh === Uh oh!
+pages_pluginsgeneric_returntodash === Kembali ke Dasbor
+theme_settings_defthemecolortitle === Warna Tema Default
+theme_settings_defthemecolortooltip === Pilih warna default tema. Terang atau gelap.
+theme_settings_defthemecolorlight === Lampu
+theme_settings_defthemecolordark === Gelap
+user_settings_defthemecolortitle === Warna Tema
+user_settings_defthemecolortooltip === Pilih warna tema yang Anda sukai untuk dasbor. Terang atau gelap.
+plugin_paymentpage_processingtitle === Halaman Pembayaran
+plugin_paymentpage_processingtagline === Silakan klik tombol di bawah ini untuk melanjutkan pembayaran.
+plugin_paymentpage_processingbutton === Bayar sekarang

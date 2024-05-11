@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Kullanıcı hesabının kimliğine bürünme
 impersonate_userexit_loader === Cari hesap oturumundan çıkılıyor
 impersonate_exit_btn === çıkış
 table_adminusers_impersonatetp === Başkasının kimliğine bürün
+pages_error404_title === Bulunamadı
+misc_gatewayrates_title === Ağ Geçidi Oranları
+misc_partnerrates_title === İş Ortağı Oranları
+misc_packages_title === Paketler
+page_error404page_header === O sayfayı bulamıyoruz!
+page_error404page_tagline === Aradığınız sayfa kaldırılmış, adı değiştirilmiş veya geçici olarak kullanılamıyor olabilir.
+page_error404page_button === Ana Sayfaya Dönüş
+modals_addnewsmssched_tooltip === Yeni SMS Planı Ekle
+modals_addnewwasched_tooltip === Yeni WhatsApp Programı Ekle
+widgets_viewbank_titlenew === Çevrimdışı Ödeme
+modal_paymentbtn_banktransfernew === Çevrimdışı Ödeme
+modal_adminsettings_banktransfer1new === Çevrimdışı Ödeme Şablonu
+modal_adminsettings_banktransfer2new === Çevrimdışı ödemeyi etkinleştirdiyseniz bunun için bir şablon oluşturmalısınız; kullanıcılar düğmeye tıkladıklarında bunu göreceklerdir. Talimatları ve banka adresini buraya ekleyebilirsiniz. HTML kabul edildi.
+modal_adminsettings_banktransfer3new === Çevrimdışı ödeme şablonunda kullanabileceğiniz değişkenler kümesi.
+modal_adminsettings_systemcurrencynew === Sistem Para Birimi
+modal_adminsettings_offlinepaymenttooltipnew === Etkinleştirilirse ödeme moduna bir çevrimdışı ödeme düğmesi eklenecektir.
+modal_adminsettings_systemcurrencytooltipnew === Bu, sistem tarafından fiyatları görüntülerken kullanılacak temel para birimidir; ayrıca USD dönüşümü etkinleştirildiğinde ödeme eklentileri tarafından da temel olarak kullanılır.
+plugin_controller_wentwrong === Bir şeyler yanlış oldu. Lütfen sonra tekrar deneyiniz.
+plugin_controller_error === Kritik eklenti hatası: _8880_
+plugin_page_errortitle === Eklenti Hatası
+plugin_generic_unabletoprocess === İsteğinizi yerine getiremiyoruz!
+plugin_generic_wentwrongerr === Bir şeyler yanlış gitti! Hata: _8880_
+table_plugins_name383 === İsim
+table_plugins_details383 === Detaylar
+widget_editplugin_nojsonsettings === Bu eklentinin ayarları yok!
+pages_errors_titleuhoh === Ah ah!
+pages_pluginsgeneric_returntodash === Kontrol Paneline Dön
+theme_settings_defthemecolortitle === Varsayılan Tema Rengi
+theme_settings_defthemecolortooltip === Temanın varsayılan rengini seçin. Açık veya karanlık.
+theme_settings_defthemecolorlight === Işık
+theme_settings_defthemecolordark === Karanlık
+user_settings_defthemecolortitle === Tema Rengi
+user_settings_defthemecolortooltip === Kontrol paneli için tercih ettiğiniz tema rengini seçin. Açık veya karanlık.
+plugin_paymentpage_processingtitle === Ödeme Sayfası
+plugin_paymentpage_processingtagline === Ödeme işlemine devam etmek için lütfen aşağıdaki butona tıklayın.
+plugin_paymentpage_processingbutton === Şimdi öde

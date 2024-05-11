@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Suplantar cuenta de usuario
 impersonate_userexit_loader === Salir de la sesión de cuenta actual
 impersonate_exit_btn === Salida
 table_adminusers_impersonatetp === Personificar
+pages_error404_title === Extraviado
+misc_gatewayrates_title === Tarifas de puerta de enlace
+misc_partnerrates_title === Tarifas de socios
+misc_packages_title === Paquetes
+page_error404page_header === ¡No podemos encontrar esa página!
+page_error404page_tagline === Es posible que la página que está buscando se haya eliminado, haya cambiado de nombre o no esté disponible temporalmente.
+page_error404page_button === Vuelve a casa
+modals_addnewsmssched_tooltip === Agregar nuevo horario de SMS
+modals_addnewwasched_tooltip === Agregar nuevo horario de WhatsApp
+widgets_viewbank_titlenew === Pago sin conexión
+modal_paymentbtn_banktransfernew === Pago sin conexión
+modal_adminsettings_banktransfer1new === Plantilla de pago sin conexión
+modal_adminsettings_banktransfer2new === Si habilitó el pago sin conexión, debe crear una plantilla para ello, esto es lo que los usuarios verán cuando hagan clic en el botón. Puede agregar las instrucciones y la dirección del banco aquí. HTML aceptado.
+modal_adminsettings_banktransfer3new === Conjunto de variables que puedes utilizar en la plantilla de pago fuera de línea.
+modal_adminsettings_systemcurrencynew === Moneda del sistema
+modal_adminsettings_offlinepaymenttooltipnew === Si está habilitado, se incluirá un botón de pago fuera de línea en el modo de pago.
+modal_adminsettings_systemcurrencytooltipnew === Esta es la moneda base que utilizará el sistema para mostrar los precios; también la utilizan los complementos de pago como base cuando la conversión a USD está habilitada.
+plugin_controller_wentwrong === Algo salió mal, inténtalo de nuevo más tarde.
+plugin_controller_error === Error crítico del complemento: _8880_
+plugin_page_errortitle === Error de complemento
+plugin_generic_unabletoprocess === ¡No podemos procesar tu solicitud!
+plugin_generic_wentwrongerr === ¡Algo salió mal! Error: _8880_
+table_plugins_name383 === Nombre
+table_plugins_details383 === Detalles
+widget_editplugin_nojsonsettings === ¡Este complemento no tiene configuración!
+pages_errors_titleuhoh === ¡UH oh!
+pages_pluginsgeneric_returntodash === Volver al panel
+theme_settings_defthemecolortitle === Color de tema predeterminado
+theme_settings_defthemecolortooltip === Seleccione el color predeterminado del tema. Claro u oscuro.
+theme_settings_defthemecolorlight === Luz
+theme_settings_defthemecolordark === Oscuro
+user_settings_defthemecolortitle === Color del tema
+user_settings_defthemecolortooltip === Seleccione el color del tema que prefiera para el panel. Claro u oscuro.
+plugin_paymentpage_processingtitle === Página de pago
+plugin_paymentpage_processingtagline === Haga clic en el botón a continuación para continuar con el pago.
+plugin_paymentpage_processingbutton === Pagar ahora

@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Representando conta de usuário
 impersonate_userexit_loader === Saindo da sessão da conta atual
 impersonate_exit_btn === Saída
 table_adminusers_impersonatetp === Personificar
+pages_error404_title === Não encontrado
+misc_gatewayrates_title === Tarifas de gateway
+misc_partnerrates_title === Taxas de parceiros
+misc_packages_title === Pacotes
+page_error404page_header === Não conseguimos encontrar essa página!
+page_error404page_tagline === A página que você procura pode ter sido removida, ter seu nome alterado ou estar temporariamente indisponível.
+page_error404page_button === Voltar para casa
+modals_addnewsmssched_tooltip === Adicionar nova programação de SMS
+modals_addnewwasched_tooltip === Adicionar nova programação do WhatsApp
+widgets_viewbank_titlenew === Pagamento off-line
+modal_paymentbtn_banktransfernew === Pagamento off-line
+modal_adminsettings_banktransfer1new === Modelo de pagamento offline
+modal_adminsettings_banktransfer2new === Se você habilitou o pagamento offline, você deve criar um modelo para ele, é isso que os usuários verão quando clicarem no botão. Você pode adicionar as instruções e o endereço do banco aqui. HTML aceito.
+modal_adminsettings_banktransfer3new === Conjunto de variáveis ​​que você pode usar no modelo de pagamento offline.
+modal_adminsettings_systemcurrencynew === Moeda do sistema
+modal_adminsettings_offlinepaymenttooltipnew === Se habilitado, um botão de pagamento offline será incluído no modo de pagamento.
+modal_adminsettings_systemcurrencytooltipnew === Esta é a moeda base que será utilizada pelo sistema na exibição dos preços, também é utilizada pelos plugins de pagamento como base quando a conversão em USD estiver habilitada.
+plugin_controller_wentwrong === Algo deu errado. Tente novamente mais tarde.
+plugin_controller_error === Erro crítico de plug-in: _8880_
+plugin_page_errortitle === Erro de plug-in
+plugin_generic_unabletoprocess === Nós somos incapazes de processar seu pedido!
+plugin_generic_wentwrongerr === Algo deu errado! Erro: _8880_
+table_plugins_name383 === Nome
+table_plugins_details383 === Detalhes
+widget_editplugin_nojsonsettings === Este plugin não possui configurações!
+pages_errors_titleuhoh === Ah, ah!
+pages_pluginsgeneric_returntodash === Retornar ao painel
+theme_settings_defthemecolortitle === Cor do tema padrão
+theme_settings_defthemecolortooltip === Selecione a cor padrão do tema. Claro ou escuro.
+theme_settings_defthemecolorlight === Luz
+theme_settings_defthemecolordark === Escuro
+user_settings_defthemecolortitle === Cor do tema
+user_settings_defthemecolortooltip === Selecione a cor do tema de sua preferência para o painel. Claro ou escuro.
+plugin_paymentpage_processingtitle === Página de pagamento
+plugin_paymentpage_processingtagline === Por favor clique no botão abaixo para prosseguir com o pagamento.
+plugin_paymentpage_processingbutton === Pague agora

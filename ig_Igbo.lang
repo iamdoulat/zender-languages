@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Na-eṅomi akaụntụ njirimara
 impersonate_userexit_loader === Wepụ nnọkọ akaụntụ ugbu a
 impersonate_exit_btn === Ụzọ ọpụpụ
 table_adminusers_impersonatetp === Na-eṅomi
+pages_error404_title === Ahụghị
+misc_gatewayrates_title === Ọnụ ụzọ ámá
+misc_partnerrates_title === Ọnụ ego onye mmekọ
+misc_packages_title === ngwugwu
+page_error404page_header === Anyị enweghị ike ịhụ ibe ahụ!
+page_error404page_tagline === Ibe ahụ ị na-achọ nwere ike ịbụ na ewepụrụla ya, gbanwere aha ya, ma ọ bụ na ọ dịghị nwa oge.
+page_error404page_button === Laghachi n'ụlọ
+modals_addnewsmssched_tooltip === Tinye Usoro SMS ọhụrụ
+modals_addnewwasched_tooltip === Tinye usoro ihe omume WhatsApp ọhụrụ
+widgets_viewbank_titlenew === Ịkwụ Ụgwọ Na-anọghị n'ịntanetị
+modal_paymentbtn_banktransfernew === Ịkwụ Ụgwọ Na-anọghị n'ịntanetị
+modal_adminsettings_banktransfer1new === Ụdị Ịkwụ Ụgwọ Na-anọghị n'ịntanetị
+modal_adminsettings_banktransfer2new === Ọ bụrụ na ị kwadoro ịkwụ ụgwọ na-anọghị n'ịntanetị, ị kwesịrị ịmepụta template maka ya, nke a bụ ihe ndị ọrụ ga-ahụ mgbe ha pịrị bọtịnụ. Ị nwere ike itinye ntuziaka na adreesị ụlọ akụ ebe a. HTML nabatara.
+modal_adminsettings_banktransfer3new === Tọọ ụdị mgbanwe ị nwere ike iji na ndebiri ịkwụ ụgwọ na-anọghị n'ịntanetị.
+modal_adminsettings_systemcurrencynew === Ego Sistemu
+modal_adminsettings_offlinepaymenttooltipnew === Ọ bụrụ na agbanyere ya, a ga-etinye bọtịnụ ịkwụ ụgwọ na-anọghị n'ịntanetị na usoro ịkwụ ụgwọ.
+modal_adminsettings_systemcurrencytooltipnew === Nke a bụ ego ntọala nke sistemụ ahụ ga-eji gosipụta ọnụ ahịa, mgbakwunye nkwụnye ụgwọ na-ejikwa ya dị ka ntọala mgbe enyere ngbanwe USD.
+plugin_controller_wentwrong === Ọ nwere ihe adịghị mma, biko nwaa ọzọ ma emechaa.
+plugin_controller_error === Njehie ngwa mgbakwunye dị egwu: _8880_
+plugin_page_errortitle === Njehie ngwa mgbakwunye
+plugin_generic_unabletoprocess === Anyị enweghị ike hazie arịrịọ gị!
+plugin_generic_wentwrongerr === Ọ nwere ihe adịghị mma! Njehie: _8880_
+table_plugins_name383 === Aha
+table_plugins_details383 === Nkọwa
+widget_editplugin_nojsonsettings === Ngwa mgbakwunye a enweghị ntọala!
+pages_errors_titleuhoh === Na na na!
+pages_pluginsgeneric_returntodash === laghachi na Dashboard
+theme_settings_defthemecolortitle === Agba Gburugburu
+theme_settings_defthemecolortooltip === Họrọ agba ndabara nke isiokwu. Ìhè ma ọ bụ ọchịchịrị.
+theme_settings_defthemecolorlight === Ìhè
+theme_settings_defthemecolordark === Ọchịchịrị
+user_settings_defthemecolortitle === Agba isiokwu
+user_settings_defthemecolortooltip === Họrọ agba isiokwu ịchọrọ maka dashboard. Ìhè ma ọ bụ ọchịchịrị.
+plugin_paymentpage_processingtitle === Ibe ịkwụ ụgwọ
+plugin_paymentpage_processingtagline === Biko pịa bọtịnụ dị n'okpuru ka ịga n'ihu na ịkwụ ụgwọ ahụ.
+plugin_paymentpage_processingbutton === kwụọ ụgwọ ugbu a

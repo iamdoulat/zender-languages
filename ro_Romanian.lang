@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Uzurparea identității contului de utilizator
 impersonate_userexit_loader === Ieșire din sesiunea de cont curent
 impersonate_exit_btn === Ieșire
 table_adminusers_impersonatetp === Uzurpare identitatea
+pages_error404_title === Nu a fost găsit
+misc_gatewayrates_title === Tarife Gateway
+misc_partnerrates_title === Tarife pentru parteneri
+misc_packages_title === Pachete
+page_error404page_header === Nu găsim pagina respectivă!
+page_error404page_tagline === Este posibil ca pagina pe care o căutați să fi fost eliminată, să i s-a schimbat numele sau să fie temporar indisponibilă.
+page_error404page_button === Intoarcere acasa
+modals_addnewsmssched_tooltip === Adăugați o nouă programare SMS
+modals_addnewwasched_tooltip === Adăugați un nou program WhatsApp
+widgets_viewbank_titlenew === Plata offline
+modal_paymentbtn_banktransfernew === Plata offline
+modal_adminsettings_banktransfer1new === Șablon de plată offline
+modal_adminsettings_banktransfer2new === Dacă ați activat plata offline, ar trebui să creați un șablon pentru aceasta, acesta este ceea ce vor vedea utilizatorii când vor face clic pe butonul. Puteți adăuga instrucțiunile și adresa băncii aici. HTML acceptat.
+modal_adminsettings_banktransfer3new === Set de variabile pe care le puteți utiliza în șablonul de plată offline.
+modal_adminsettings_systemcurrencynew === Moneda sistemului
+modal_adminsettings_offlinepaymenttooltipnew === Dacă este activat, un buton de plată offline va fi inclus în modalul de plată.
+modal_adminsettings_systemcurrencytooltipnew === Aceasta este moneda de bază care va fi folosită de sistem în afișarea prețurilor, este folosită și de pluginurile de plată ca bază atunci când conversia USD este activată.
+plugin_controller_wentwrong === Vă rugăm să încercați din nou mai târziu.
+plugin_controller_error === Eroare critică de plugin: _8880_
+plugin_page_errortitle === Eroare de plugin
+plugin_generic_unabletoprocess === Nu putem procesa cererea dvs.!
+plugin_generic_wentwrongerr === Ceva n-a mers bine! Eroare: _8880_
+table_plugins_name383 === Nume
+table_plugins_details383 === Detalii
+widget_editplugin_nojsonsettings === Acest plugin nu are setări!
+pages_errors_titleuhoh === Uh oh!
+pages_pluginsgeneric_returntodash === Reveniți la Tabloul de bord
+theme_settings_defthemecolortitle === Culoarea implicită a temei
+theme_settings_defthemecolortooltip === Selectați culoarea implicită a temei. Lumină sau întunecată.
+theme_settings_defthemecolorlight === Ușoară
+theme_settings_defthemecolordark === Întuneric
+user_settings_defthemecolortitle === Culoare tema
+user_settings_defthemecolortooltip === Selectați culoarea temei pe care o preferați pentru tabloul de bord. Lumină sau întunecată.
+plugin_paymentpage_processingtitle === Pagina de plată
+plugin_paymentpage_processingtagline === Vă rugăm să faceți clic pe butonul de mai jos pentru a continua cu plata.
+plugin_paymentpage_processingbutton === Plătește acum

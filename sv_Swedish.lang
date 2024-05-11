@@ -2825,3 +2825,40 @@ impersonate_userentry_loader === Utger sig för att vara ett användarkonto
 impersonate_userexit_loader === Avslutar aktuell kontosession
 impersonate_exit_btn === Utgång
 table_adminusers_impersonatetp === Imitera
+actions_waexportgroupcontacts_title === Exportera
+pages_error404_title === Hittades inte
+misc_gatewayrates_title === Gateway priser
+misc_partnerrates_title === Partnerpriser
+misc_packages_title === Paket
+page_error404page_header === Vi kan inte hitta den sidan!
+page_error404page_tagline === Sidan du letar efter kan ha tagits bort, fått sitt namn ändrat eller är tillfälligt otillgänglig.
+page_error404page_button === Återvända hem
+modals_addnewsmssched_tooltip === Lägg till nytt SMS-schema
+modals_addnewwasched_tooltip === Lägg till nytt WhatsApp-schema
+widgets_viewbank_titlenew === Offlinebetalning
+modal_paymentbtn_banktransfernew === Offlinebetalning
+modal_adminsettings_banktransfer1new === Offline betalningsmall
+modal_adminsettings_banktransfer2new === Om du aktiverat offlinebetalning bör du skapa en mall för det, detta är vad användarna kommer att se när de klickade på knappen. Du kan lägga till instruktioner och bankadress här. HTML accepteras.
+modal_adminsettings_banktransfer3new === Uppsättning av variabler du kan använda i offlinebetalningsmallen.
+modal_adminsettings_systemcurrencynew === Systemvaluta
+modal_adminsettings_offlinepaymenttooltipnew === Om den är aktiverad kommer en offlinebetalningsknapp att inkluderas i betalningsmodalen.
+modal_adminsettings_systemcurrencytooltipnew === Detta är basvalutan som kommer att användas av systemet för att visa priser, den används också av betalningsplugins som bas när USD-konvertering är aktiverad.
+plugin_controller_wentwrong === Försök igen senare.
+plugin_controller_error === Kritiskt plugin-fel: _8880_
+plugin_page_errortitle === Plugin-fel
+plugin_generic_unabletoprocess === Vi kan inte behandla din begäran!
+plugin_generic_wentwrongerr === Något gick fel! Fel: _8880_
+table_plugins_name383 === namn
+table_plugins_details383 === Detaljer
+widget_editplugin_nojsonsettings === Detta plugin har inga inställningar!
+pages_errors_titleuhoh === Hoppsan!
+pages_pluginsgeneric_returntodash === Återgå till instrumentpanelen
+theme_settings_defthemecolortitle === Standardtemafärg
+theme_settings_defthemecolortooltip === Välj standardfärgen på temat. Ljus eller mörk.
+theme_settings_defthemecolorlight === Ljus
+theme_settings_defthemecolordark === Mörk
+user_settings_defthemecolortitle === Tema färg
+user_settings_defthemecolortooltip === Välj den temafärg du föredrar för instrumentpanelen. Ljus eller mörk.
+plugin_paymentpage_processingtitle === Betalningssida
+plugin_paymentpage_processingtagline === Klicka på knappen nedan för att fortsätta med betalningen.
+plugin_paymentpage_processingbutton === Betala nu

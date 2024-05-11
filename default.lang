@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Impersonating user account
 impersonate_userexit_loader === Exiting current account session
 impersonate_exit_btn === Exit
 table_adminusers_impersonatetp === Impersonate
+pages_error404_title === Not Found
+misc_gatewayrates_title === Gateway Rates
+misc_partnerrates_title === Partner Rates
+misc_packages_title === Packages
+page_error404page_header === We can't find that page!
+page_error404page_tagline === The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+page_error404page_button === Return to Home
+modals_addnewsmssched_tooltip === Add New SMS Schedule
+modals_addnewwasched_tooltip === Add New WhatsApp Schedule
+widgets_viewbank_titlenew === Offline Payment
+modal_paymentbtn_banktransfernew === Offline Payment
+modal_adminsettings_banktransfer1new === Offline Payment Template
+modal_adminsettings_banktransfer2new === If you enabled offline payment, you should create a template for it, this is what the users will see when they clicked the button. You can add the instructions and bank address here. HTML accepted.
+modal_adminsettings_banktransfer3new === Set of variables you can use in the offline payment template.
+modal_adminsettings_systemcurrencynew === System Currency
+modal_adminsettings_offlinepaymenttooltipnew === If enabled, an offline payment button will be included in the payment modal.
+modal_adminsettings_systemcurrencytooltipnew === This is the base currency that will be used by the system in displaying prices, it's also used by the payment plugins as base when USD conversion is enabled.
+plugin_controller_wentwrong === Something went wrong, please try again later.
+plugin_controller_error === Critical plugin error: _8880_
+plugin_page_errortitle === Plugin Error
+plugin_generic_unabletoprocess === We are unable to process your request!
+plugin_generic_wentwrongerr === Something went wrong! Error: _8880_
+table_plugins_name383 === Name
+table_plugins_details383 === Details
+widget_editplugin_nojsonsettings === This plugin doesn't have settings!
+pages_errors_titleuhoh === Uh oh!
+pages_pluginsgeneric_returntodash === Return to Dashboard
+theme_settings_defthemecolortitle === Default Theme Color
+theme_settings_defthemecolortooltip === Select the default color of the theme. Light or dark.
+theme_settings_defthemecolorlight === Light
+theme_settings_defthemecolordark === Dark
+user_settings_defthemecolortitle === Theme Color
+user_settings_defthemecolortooltip === Select the theme color you prefer for the dashboard. Light or dark.
+plugin_paymentpage_processingtitle === Payment Page
+plugin_paymentpage_processingtagline === Please click the button below to proceed with the payment.
+plugin_paymentpage_processingbutton === Pay Now

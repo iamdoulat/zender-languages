@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Afarawe iroyin olumulo
 impersonate_userexit_loader === Njade kuro ni igba akọọlẹ lọwọlọwọ
 impersonate_exit_btn === Jade
 table_adminusers_impersonatetp === Farafarawe
+pages_error404_title === Ko ri
+misc_gatewayrates_title === Gateway Awọn ošuwọn
+misc_partnerrates_title === Awọn ošuwọn Alabaṣepọ
+misc_packages_title === Awọn idii
+page_error404page_header === A ko le rii oju-iwe yẹn!
+page_error404page_tagline === Oju-iwe ti o n wa le ti yọkuro, ti yi orukọ rẹ pada, tabi ko si fun igba diẹ.
+page_error404page_button === Pada si Ile
+modals_addnewsmssched_tooltip === Ṣafikun Iṣeto SMS Tuntun
+modals_addnewwasched_tooltip === Ṣafikun Eto WhatsApp Tuntun
+widgets_viewbank_titlenew === Isanwo Aisinipo
+modal_paymentbtn_banktransfernew === Isanwo Aisinipo
+modal_adminsettings_banktransfer1new === Aisinipo Awoṣe Isanwo
+modal_adminsettings_banktransfer2new === Ti o ba mu isanwo offline ṣiṣẹ, o yẹ ki o ṣẹda awoṣe fun rẹ, eyi ni ohun ti awọn olumulo yoo rii nigbati wọn tẹ bọtini naa. O le ṣafikun awọn itọnisọna ati adirẹsi banki nibi. HTML gba.
+modal_adminsettings_banktransfer3new === Ṣeto awọn oniyipada ti o le lo ninu awoṣe isanwo aisinipo.
+modal_adminsettings_systemcurrencynew === Owo System
+modal_adminsettings_offlinepaymenttooltipnew === Ti o ba mu ṣiṣẹ, bọtini isanwo aisinipo yoo wa ninu ilana isanwo.
+modal_adminsettings_systemcurrencytooltipnew === Eyi ni owo ipilẹ ti yoo lo nipasẹ eto ni iṣafihan awọn idiyele, o tun lo nipasẹ awọn afikun isanwo bi ipilẹ nigbati iyipada USD ṣiṣẹ.
+plugin_controller_wentwrong === Nkankan ti ko tọ, jọwọ gbiyanju lẹẹkansi nigbamii.
+plugin_controller_error === Aṣiṣe itanna pataki: _8880_
+plugin_page_errortitle === Aṣiṣe itanna
+plugin_generic_unabletoprocess === A ko le ṣe ilana ibeere rẹ!
+plugin_generic_wentwrongerr === Nnkan o lo daadaa! Aṣiṣe: _8880_
+table_plugins_name383 === Oruko
+table_plugins_details383 === Awọn alaye
+widget_editplugin_nojsonsettings === Ohun itanna yii ko ni awọn eto!
+pages_errors_titleuhoh === Ah oh!
+pages_pluginsgeneric_returntodash === Pada si Dasibodu
+theme_settings_defthemecolortitle === Aiyipada Akori Awọ
+theme_settings_defthemecolortooltip === Yan awọ aiyipada ti akori naa. Imọlẹ tabi dudu.
+theme_settings_defthemecolorlight === Imọlẹ
+theme_settings_defthemecolordark === Dudu
+user_settings_defthemecolortitle === Akori Awọ
+user_settings_defthemecolortooltip === Yan awọ akori ti o fẹ fun dasibodu naa. Imọlẹ tabi dudu.
+plugin_paymentpage_processingtitle === Oju-iwe isanwo
+plugin_paymentpage_processingtagline === Jọwọ tẹ bọtini ni isalẹ lati tẹsiwaju pẹlu sisanwo.
+plugin_paymentpage_processingbutton === Sanwo Bayi

@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Account utente impersonato
 impersonate_userexit_loader === Uscita dalla sessione del conto corrente
 impersonate_exit_btn === Uscita
 table_adminusers_impersonatetp === Impersonare
+pages_error404_title === Non trovato
+misc_gatewayrates_title === Tariffe Gateway
+misc_partnerrates_title === Tariffe partner
+misc_packages_title === Pacchetti
+page_error404page_header === Non riusciamo a trovare quella pagina!
+page_error404page_tagline === La pagina che stai cercando potrebbe essere stata rimossa, il suo nome è stato cambiato o è temporaneamente non disponibile.
+page_error404page_button === Tornare a casa
+modals_addnewsmssched_tooltip === Aggiungi nuova pianificazione SMS
+modals_addnewwasched_tooltip === Aggiungi un nuovo programma WhatsApp
+widgets_viewbank_titlenew === Pagamento offline
+modal_paymentbtn_banktransfernew === Pagamento offline
+modal_adminsettings_banktransfer1new === Modello di pagamento offline
+modal_adminsettings_banktransfer2new === Se hai abilitato il pagamento offline, dovresti creare un modello per questo, questo è ciò che gli utenti vedranno quando faranno clic sul pulsante. Puoi aggiungere le istruzioni e l'indirizzo bancario qui. HTML accettato.
+modal_adminsettings_banktransfer3new === Insieme di variabili che puoi utilizzare nel modello di pagamento offline.
+modal_adminsettings_systemcurrencynew === Valuta di sistema
+modal_adminsettings_offlinepaymenttooltipnew === Se abilitato, nella modalità di pagamento verrà incluso un pulsante di pagamento offline.
+modal_adminsettings_systemcurrencytooltipnew === Questa è la valuta di base che verrà utilizzata dal sistema per visualizzare i prezzi, viene utilizzata anche dai plugin di pagamento come base quando la conversione in USD è abilitata.
+plugin_controller_wentwrong === Qualcosa è andato storto, riprova più tardi.
+plugin_controller_error === Errore critico del plug-in: _8880_
+plugin_page_errortitle === Errore del plug-in
+plugin_generic_unabletoprocess === Non siamo in grado di elaborare la tua richiesta!
+plugin_generic_wentwrongerr === Qualcosa è andato storto! Errore: _8880_
+table_plugins_name383 === Nome
+table_plugins_details383 === Dettagli
+widget_editplugin_nojsonsettings === Questo plugin non ha impostazioni!
+pages_errors_titleuhoh === Uh Oh!
+pages_pluginsgeneric_returntodash === Ritorna alla dashboard
+theme_settings_defthemecolortitle === Colore tema predefinito
+theme_settings_defthemecolortooltip === Seleziona il colore predefinito del tema. Chiaro o scuro.
+theme_settings_defthemecolorlight === Leggero
+theme_settings_defthemecolordark === Buio
+user_settings_defthemecolortitle === Colore del tema
+user_settings_defthemecolortooltip === Seleziona il colore del tema che preferisci per la dashboard. Chiaro o scuro.
+plugin_paymentpage_processingtitle === Pagina di pagamento
+plugin_paymentpage_processingtagline === Clicca sul pulsante qui sotto per procedere con il pagamento.
+plugin_paymentpage_processingbutton === Paga ora

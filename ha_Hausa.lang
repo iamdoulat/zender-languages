@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Yin kwaikwayon asusun mai amfani
 impersonate_userexit_loader === Fita zaman asusu na yanzu
 impersonate_exit_btn === Fita
 table_adminusers_impersonatetp === Kwaikwaya
+pages_error404_title === Ba a Samu ba
+misc_gatewayrates_title === Ƙofar Ƙofar
+misc_partnerrates_title === Adadin Abokan Hulɗa
+misc_packages_title === Fakitin
+page_error404page_header === Ba za mu iya samun wancan shafin ba!
+page_error404page_tagline === Shafin da kuke nema zai yiwu an cire shi, an canza sunansa, ko kuma ba shi da shi na ɗan lokaci.
+page_error404page_button === Koma Gida
+modals_addnewsmssched_tooltip === Ƙara Sabon Jadawalin SMS
+modals_addnewwasched_tooltip === Ƙara Sabon Jadawalin WhatsApp
+widgets_viewbank_titlenew === Biyan Wajen Layi
+modal_paymentbtn_banktransfernew === Biyan Wajen Layi
+modal_adminsettings_banktransfer1new === Samfurin Biyan Wajen Layi
+modal_adminsettings_banktransfer2new === Idan kun kunna biyan kuɗi ta layi, yakamata ku ƙirƙiri samfuri don shi, wannan shine abin da masu amfani zasu gani lokacin da suka danna maɓallin. Kuna iya ƙara umarni da adireshin banki anan. HTML karbabbu.
+modal_adminsettings_banktransfer3new === Saitin masu canji da za ku iya amfani da su a cikin samfurin biyan kuɗi na layi.
+modal_adminsettings_systemcurrencynew === Kuɗin tsarin
+modal_adminsettings_offlinepaymenttooltipnew === Idan an kunna, za a haɗa maɓallin biyan kuɗi na layi a cikin tsarin biyan kuɗi.
+modal_adminsettings_systemcurrencytooltipnew === Wannan shine tushen kuɗin da tsarin zai yi amfani da shi wajen nuna farashi, kuma plugins ɗin biyan kuɗi ke amfani dashi azaman tushe lokacin da aka kunna canjin USD.
+plugin_controller_wentwrong === Wani abu ya faru, da fatan za a sake gwadawa daga baya.
+plugin_controller_error === Kuskuren plugin ɗin mai mahimmanci: _8880_
+plugin_page_errortitle === Kuskuren plugin
+plugin_generic_unabletoprocess === Ba mu iya aiwatar da buƙatarku ba!
+plugin_generic_wentwrongerr === Wani abu ya faru! Kuskure: _8880_
+table_plugins_name383 === Suna
+table_plugins_details383 === Cikakkun bayanai
+widget_editplugin_nojsonsettings === Wannan plugin ɗin bashi da saituna!
+pages_errors_titleuhoh === Uh oh!
+pages_pluginsgeneric_returntodash === Koma zuwa Dashboard
+theme_settings_defthemecolortitle === Launin Jigo na Tsohuwar
+theme_settings_defthemecolortooltip === Zaɓi launin tsoho na jigon. Haske ko duhu.
+theme_settings_defthemecolorlight === Haske
+theme_settings_defthemecolordark === Duhu
+user_settings_defthemecolortitle === Launin Jigo
+user_settings_defthemecolortooltip === Zaɓi launin jigon da kuka fi so don dashboard. Haske ko duhu.
+plugin_paymentpage_processingtitle === Shafin Biya
+plugin_paymentpage_processingtagline === Da fatan za a danna maɓallin da ke ƙasa don ci gaba da biyan kuɗi.
+plugin_paymentpage_processingbutton === Biya Yanzu

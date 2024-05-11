@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === انتحال شخصية حساب المستخد
 impersonate_userexit_loader === الخروج من جلسة الحساب الجاري
 impersonate_exit_btn === مخرج
 table_adminusers_impersonatetp === انتحال شخصية
+pages_error404_title === غير معثور عليه
+misc_gatewayrates_title === أسعار البوابة
+misc_partnerrates_title === أسعار الشركاء
+misc_packages_title === الحزم
+page_error404page_header === لا يمكننا العثور على تلك الصفحة!
+page_error404page_tagline === ربما تمت إزالة الصفحة التي تبحث عنها، أو تم تغيير اسمها، أو أنها غير متاحة مؤقتًا.
+page_error404page_button === العودة إلى المنزل
+modals_addnewsmssched_tooltip === إضافة جدول الرسائل القصيرة الجديد
+modals_addnewwasched_tooltip === إضافة جدول واتساب جديد
+widgets_viewbank_titlenew === الدفع دون اتصال بالإنترنت
+modal_paymentbtn_banktransfernew === الدفع دون اتصال بالإنترنت
+modal_adminsettings_banktransfer1new === قالب الدفع دون اتصال بالإنترنت
+modal_adminsettings_banktransfer2new === إذا قمت بتمكين الدفع دون اتصال بالإنترنت، فيجب عليك إنشاء قالب له، وهذا ما سيراه المستخدمون عند النقر فوق الزر. يمكنك إضافة التعليمات وعنوان البنك هنا. تم قبول HTML.
+modal_adminsettings_banktransfer3new === مجموعة من المتغيرات التي يمكنك استخدامها في قالب الدفع دون اتصال بالإنترنت.
+modal_adminsettings_systemcurrencynew === عملة النظام
+modal_adminsettings_offlinepaymenttooltipnew === إذا تم تمكينه، فسيتم تضمين زر الدفع دون اتصال بالإنترنت في طريقة الدفع.
+modal_adminsettings_systemcurrencytooltipnew === هذه هي العملة الأساسية التي سيستخدمها النظام في عرض الأسعار، كما يتم استخدامها أيضًا بواسطة المكونات الإضافية للدفع كقاعدة عند تمكين تحويل الدولار الأمريكي.
+plugin_controller_wentwrong === هناك شئ خاطئ، يرجى المحاولة فى وقت لاحق.
+plugin_controller_error === خطأ فادح في البرنامج المساعد: _8880_
+plugin_page_errortitle === خطأ في البرنامج المساعد
+plugin_generic_unabletoprocess === نحن غير قادرين على معالجة طلبك!
+plugin_generic_wentwrongerr === هناك خطأ ما! خطأ: _8880_
+table_plugins_name383 === اسم
+table_plugins_details383 === تفاصيل
+widget_editplugin_nojsonsettings === هذا البرنامج المساعد لا يحتوي على إعدادات!
+pages_errors_titleuhoh === اه اه!
+pages_pluginsgeneric_returntodash === العودة إلى لوحة القيادة
+theme_settings_defthemecolortitle === لون السمة الافتراضي
+theme_settings_defthemecolortooltip === حدد اللون الافتراضي للموضوع. فاتح أو غامق.
+theme_settings_defthemecolorlight === ضوء
+theme_settings_defthemecolordark === مظلم
+user_settings_defthemecolortitle === لون الموضوع
+user_settings_defthemecolortooltip === حدد لون السمة الذي تفضله للوحة المعلومات. فاتح أو غامق.
+plugin_paymentpage_processingtitle === صفحة الدفع
+plugin_paymentpage_processingtagline === الرجاء الضغط على الزر أدناه لمتابعة الدفع.
+plugin_paymentpage_processingbutton === ادفع الآن

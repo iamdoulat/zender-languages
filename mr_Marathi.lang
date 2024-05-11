@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === वापरकर्ता खाते तो
 impersonate_userexit_loader === चालू खाते सत्रातून बाहेर पडत आहे
 impersonate_exit_btn === बाहेर पडा
 table_adminusers_impersonatetp === तोतयागिरी करणे
+pages_error404_title === सापडले नाही
+misc_gatewayrates_title === गेटवे दर
+misc_partnerrates_title === भागीदार दर
+misc_packages_title === पॅकेजेस
+page_error404page_header === आम्ही ते पृष्ठ शोधू शकत नाही!
+page_error404page_tagline === तुम्ही शोधत असलेले पृष्ठ कदाचित काढले गेले असेल, त्याचे नाव बदलले असेल किंवा तात्पुरते अनुपलब्ध असेल.
+page_error404page_button === घरी परत या
+modals_addnewsmssched_tooltip === नवीन एसएमएस शेड्यूल जोडा
+modals_addnewwasched_tooltip === नवीन WhatsApp वेळापत्रक जोडा
+widgets_viewbank_titlenew === ऑफलाइन पेमेंट
+modal_paymentbtn_banktransfernew === ऑफलाइन पेमेंट
+modal_adminsettings_banktransfer1new === ऑफलाइन पेमेंट टेम्पलेट
+modal_adminsettings_banktransfer2new === तुम्ही ऑफलाइन पेमेंट सक्षम केले असल्यास, तुम्ही त्यासाठी टेम्पलेट तयार केले पाहिजे, वापरकर्त्यांनी बटण क्लिक केल्यावर त्यांना हे दिसेल. तुम्ही येथे सूचना आणि बँकेचा पत्ता जोडू शकता. HTML स्वीकारले.
+modal_adminsettings_banktransfer3new === तुम्ही ऑफलाइन पेमेंट टेम्पलेटमध्ये वापरू शकता अशा व्हेरिएबल्सचा संच.
+modal_adminsettings_systemcurrencynew === प्रणाली चलन
+modal_adminsettings_offlinepaymenttooltipnew === सक्षम केल्यास, ऑफलाइन पेमेंट बटण पेमेंट मॉडेलमध्ये समाविष्ट केले जाईल.
+modal_adminsettings_systemcurrencytooltipnew === हे मूलभूत चलन आहे जे किमती प्रदर्शित करण्यासाठी सिस्टमद्वारे वापरले जाईल, जेव्हा USD रूपांतरण सक्षम केले जाते तेव्हा ते पेमेंट प्लगइनद्वारे देखील वापरले जाते.
+plugin_controller_wentwrong === काहीतरी चुकीचे घडले आहे, कृपया थोड्यावेळाने प्रयत्न करा.
+plugin_controller_error === गंभीर प्लगइन त्रुटी: _8880_
+plugin_page_errortitle === प्लगइन त्रुटी
+plugin_generic_unabletoprocess === आम्ही तुमच्या विनंतीवर प्रक्रिया करण्यात अक्षम आहोत!
+plugin_generic_wentwrongerr === काहीतरी चूक झाली! त्रुटी: _8880_
+table_plugins_name383 === नाव
+table_plugins_details383 === तपशील
+widget_editplugin_nojsonsettings === या प्लगइनमध्ये सेटिंग्ज नाहीत!
+pages_errors_titleuhoh === अरेरे!
+pages_pluginsgeneric_returntodash === डॅशबोर्डवर परत या
+theme_settings_defthemecolortitle === डीफॉल्ट थीम रंग
+theme_settings_defthemecolortooltip === थीमचा डीफॉल्ट रंग निवडा. प्रकाश किंवा गडद.
+theme_settings_defthemecolorlight === प्रकाश
+theme_settings_defthemecolordark === गडद
+user_settings_defthemecolortitle === थीम रंग
+user_settings_defthemecolortooltip === डॅशबोर्डसाठी तुम्हाला आवडणारा थीम रंग निवडा. प्रकाश किंवा गडद.
+plugin_paymentpage_processingtitle === पेमेंट पृष्ठ
+plugin_paymentpage_processingtagline === देयक पुढे जाण्यासाठी कृपया खालील बटणावर क्लिक करा.
+plugin_paymentpage_processingbutton === आता द्या

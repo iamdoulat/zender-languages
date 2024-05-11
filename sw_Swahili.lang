@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Kuiga akaunti ya mtumiaji
 impersonate_userexit_loader === Inatoka kwa kipindi cha sasa cha akaunti
 impersonate_exit_btn === Utgång
 table_adminusers_impersonatetp === Kuiga
+pages_error404_title === Haipatikani
+misc_gatewayrates_title === Viwango vya lango
+misc_partnerrates_title === Viwango vya Washirika
+misc_packages_title === Vifurushi
+page_error404page_header === Hatuwezi kupata ukurasa huo!
+page_error404page_tagline === Ukurasa unaotafuta unaweza kuwa umeondolewa, jina lake limebadilishwa, au haupatikani kwa muda.
+page_error404page_button === Rudi Nyumbani
+modals_addnewsmssched_tooltip === Ongeza Ratiba Mpya ya SMS
+modals_addnewwasched_tooltip === Ongeza Ratiba Mpya ya WhatsApp
+widgets_viewbank_titlenew === Malipo ya Nje ya Mtandao
+modal_paymentbtn_banktransfernew === Malipo ya Nje ya Mtandao
+modal_adminsettings_banktransfer1new === Kiolezo cha Malipo ya Nje ya Mtandao
+modal_adminsettings_banktransfer2new === Ikiwa uliwasha malipo ya nje ya mtandao, unapaswa kuunda kiolezo chake, hivi ndivyo watumiaji watakavyoona walipobofya kitufe. Unaweza kuongeza maagizo na anwani ya benki hapa. HTML imekubaliwa.
+modal_adminsettings_banktransfer3new === Seti ya vigeu unayoweza kutumia katika kiolezo cha malipo ya nje ya mtandao.
+modal_adminsettings_systemcurrencynew === Sarafu ya Mfumo
+modal_adminsettings_offlinepaymenttooltipnew === Ikiwashwa, kitufe cha malipo cha nje ya mtandao kitajumuishwa kwenye njia ya malipo.
+modal_adminsettings_systemcurrencytooltipnew === Hii ndiyo sarafu ya msingi itakayotumiwa na mfumo katika kuonyesha bei, pia inatumiwa na programu-jalizi za malipo kama msingi wakati ubadilishaji wa USD umewashwa.
+plugin_controller_wentwrong === Hitilafu fulani imetokea, tafadhali jaribu tena baadaye.
+plugin_controller_error === Hitilafu muhimu ya programu-jalizi: _8880_
+plugin_page_errortitle === Hitilafu ya programu-jalizi
+plugin_generic_unabletoprocess === Hatuwezi kushughulikia ombi lako!
+plugin_generic_wentwrongerr === Hitilafu fulani imetokea! Hitilafu: _8880_
+table_plugins_name383 === Jina
+table_plugins_details383 === Maelezo
+widget_editplugin_nojsonsettings === Programu-jalizi hii haina mipangilio!
+pages_errors_titleuhoh === Lo!
+pages_pluginsgeneric_returntodash === Rudi kwenye Dashibodi
+theme_settings_defthemecolortitle === Rangi ya Mandhari Chaguomsingi
+theme_settings_defthemecolortooltip === Chagua rangi chaguo-msingi ya mandhari. Mwanga au giza.
+theme_settings_defthemecolorlight === Mwanga
+theme_settings_defthemecolordark === Giza
+user_settings_defthemecolortitle === Rangi ya Mandhari
+user_settings_defthemecolortooltip === Chagua rangi ya mandhari unayopendelea kwa dashibodi. Mwanga au giza.
+plugin_paymentpage_processingtitle === Ukurasa wa Malipo
+plugin_paymentpage_processingtagline === Tafadhali bofya kitufe kilicho hapa chini ili kuendelea na malipo.
+plugin_paymentpage_processingbutton === LIPA sasa

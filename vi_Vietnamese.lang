@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Mạo danh tài khoản người dùng
 impersonate_userexit_loader === Thoát khỏi phiên tài khoản hiện tại
 impersonate_exit_btn === Lối ra
 table_adminusers_impersonatetp === Mạo danh
+pages_error404_title === Không tìm thấy
+misc_gatewayrates_title === Giá cổng
+misc_partnerrates_title === Giá đối tác
+misc_packages_title === Gói
+page_error404page_header === Chúng tôi không thể tìm thấy trang đó!
+page_error404page_tagline === Trang bạn đang tìm kiếm có thể đã bị xóa, đã thay đổi tên hoặc tạm thời không khả dụng.
+page_error404page_button === Trở về nhà
+modals_addnewsmssched_tooltip === Thêm lịch SMS mới
+modals_addnewwasched_tooltip === Thêm lịch WhatsApp mới
+widgets_viewbank_titlenew === Thanh toán ngoại tuyến
+modal_paymentbtn_banktransfernew === Thanh toán ngoại tuyến
+modal_adminsettings_banktransfer1new === Mẫu thanh toán ngoại tuyến
+modal_adminsettings_banktransfer2new === Nếu bạn đã bật thanh toán ngoại tuyến, bạn nên tạo mẫu cho nó, đây là những gì người dùng sẽ thấy khi họ nhấp vào nút. Bạn có thể thêm hướng dẫn và địa chỉ ngân hàng tại đây. HTML được chấp nhận.
+modal_adminsettings_banktransfer3new === Tập hợp các biến bạn có thể sử dụng trong mẫu thanh toán ngoại tuyến.
+modal_adminsettings_systemcurrencynew === Tiền tệ hệ thống
+modal_adminsettings_offlinepaymenttooltipnew === Nếu được bật, nút thanh toán ngoại tuyến sẽ được đưa vào phương thức thanh toán.
+modal_adminsettings_systemcurrencytooltipnew === Đây là loại tiền cơ bản sẽ được hệ thống sử dụng để hiển thị giá, nó cũng được các plugin thanh toán sử dụng làm cơ sở khi bật quy đổi USD.
+plugin_controller_wentwrong === Đã xảy ra lỗi, vui lòng thử lại sau.
+plugin_controller_error === Lỗi plugin nghiêm trọng: _8880_
+plugin_page_errortitle === Lỗi plugin
+plugin_generic_unabletoprocess === Chúng tôi không thể thực hiện yêu cầu của bạn!
+plugin_generic_wentwrongerr === Đã xảy ra lỗi! Lỗi: _8880_
+table_plugins_name383 === Tên
+table_plugins_details383 === Chi tiết
+widget_editplugin_nojsonsettings === Plugin này không có cài đặt!
+pages_errors_titleuhoh === Ờ ồ!
+pages_pluginsgeneric_returntodash === Quay lại Trang tổng quan
+theme_settings_defthemecolortitle === Màu chủ đề mặc định
+theme_settings_defthemecolortooltip === Chọn màu mặc định của chủ đề. Sáng hoặc tối.
+theme_settings_defthemecolorlight === Ánh sáng
+theme_settings_defthemecolordark === Tối tăm
+user_settings_defthemecolortitle === Màu chủ đề
+user_settings_defthemecolortooltip === Chọn màu chủ đề bạn thích cho trang tổng quan. Sáng hoặc tối.
+plugin_paymentpage_processingtitle === Trang thanh toán
+plugin_paymentpage_processingtagline === Vui lòng nhấp vào nút bên dưới để tiến hành thanh toán.
+plugin_paymentpage_processingbutton === Thanh toán ngay

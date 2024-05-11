@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Odcudzenie identity používateľského účtu
 impersonate_userexit_loader === Ukončenie relácie aktuálneho účtu
 impersonate_exit_btn === VÝCHOD
 table_adminusers_impersonatetp === Zosobniť sa
+pages_error404_title === Nenájdené
+misc_gatewayrates_title === Sadzby brány
+misc_partnerrates_title === Partnerské sadzby
+misc_packages_title === Balíčky
+page_error404page_header === Nemôžeme nájsť tú stránku!
+page_error404page_tagline === Stránka, ktorú hľadáte, mohla byť odstránená, zmenila sa jej názov alebo je dočasne nedostupná.
+page_error404page_button === Návrat domov
+modals_addnewsmssched_tooltip === Pridať nový plán SMS
+modals_addnewwasched_tooltip === Pridať nový rozvrh WhatsApp
+widgets_viewbank_titlenew === Offline platba
+modal_paymentbtn_banktransfernew === Offline platba
+modal_adminsettings_banktransfer1new === Šablóna platby offline
+modal_adminsettings_banktransfer2new === Ak ste povolili offline platbu, mali by ste pre ňu vytvoriť šablónu, ktorá sa používateľom zobrazí po kliknutí na tlačidlo. Tu môžete pridať pokyny a adresu banky. HTML akceptované.
+modal_adminsettings_banktransfer3new === Sada premenných, ktoré môžete použiť v šablóne platby offline.
+modal_adminsettings_systemcurrencynew === Systémová mena
+modal_adminsettings_offlinepaymenttooltipnew === Ak je povolené, tlačidlo platby offline bude zahrnuté v spôsobe platby.
+modal_adminsettings_systemcurrencytooltipnew === Toto je základná mena, ktorú bude systém používať pri zobrazovaní cien, ako základ ju používajú aj platobné doplnky, keď je povolená konverzia USD.
+plugin_controller_wentwrong === Niečo sa pokazilo. Prosím skús to znovu neskôr.
+plugin_controller_error === Kritická chyba doplnku: _8880_
+plugin_page_errortitle === Chyba doplnku
+plugin_generic_unabletoprocess === Vašu požiadavku nemôžeme spracovať!
+plugin_generic_wentwrongerr === Niečo sa pokazilo! Chyba: _8880_
+table_plugins_name383 === názov
+table_plugins_details383 === Podrobnosti
+widget_editplugin_nojsonsettings === Tento doplnok nemá nastavenia!
+pages_errors_titleuhoh === Uh Oh!
+pages_pluginsgeneric_returntodash === Vráťte sa na informačný panel
+theme_settings_defthemecolortitle === Predvolená farba motívu
+theme_settings_defthemecolortooltip === Vyberte predvolenú farbu motívu. Svetlé alebo tmavé.
+theme_settings_defthemecolorlight === Svetlo
+theme_settings_defthemecolordark === Tmavý
+user_settings_defthemecolortitle === Farba motívu
+user_settings_defthemecolortooltip === Vyberte preferovanú farbu motívu pre dashboard. Svetlé alebo tmavé.
+plugin_paymentpage_processingtitle === Platobná stránka
+plugin_paymentpage_processingtagline === Ak chcete pokračovať v platbe, kliknite na tlačidlo nižšie.
+plugin_paymentpage_processingbutton === Zaplatiť teraz

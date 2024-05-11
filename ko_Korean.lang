@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === 사용자 계정 가장
 impersonate_userexit_loader === 현재 계정 세션 종료 중
 impersonate_exit_btn === 출구
 table_adminusers_impersonatetp === 가장
+pages_error404_title === 찾을 수 없음
+misc_gatewayrates_title === 게이트웨이 요금
+misc_partnerrates_title === 파트너 요금
+misc_packages_title === 패키지
+page_error404page_header === 해당 페이지를 찾을 수 없습니다!
+page_error404page_tagline === 찾고 있는 페이지가 제거되었거나, 이름이 변경되었거나, 일시적으로 사용이 불가능할 수 있습니다.
+page_error404page_button === 집으로 돌아가다
+modals_addnewsmssched_tooltip === 새 SMS 일정 추가
+modals_addnewwasched_tooltip === 새로운 WhatsApp 일정 추가
+widgets_viewbank_titlenew === 오프라인 결제
+modal_paymentbtn_banktransfernew === 오프라인 결제
+modal_adminsettings_banktransfer1new === 오프라인 결제 템플릿
+modal_adminsettings_banktransfer2new === 오프라인 결제를 활성화한 경우 이에 대한 템플릿을 생성해야 합니다. 이는 사용자가 버튼을 클릭할 때 표시되는 내용입니다. 여기에 지침과 은행 주소를 추가할 수 있습니다. HTML이 허용됩니다.
+modal_adminsettings_banktransfer3new === 오프라인 결제 템플릿에서 사용할 수 있는 변수 세트입니다.
+modal_adminsettings_systemcurrencynew === 시스템 통화
+modal_adminsettings_offlinepaymenttooltipnew === 활성화되면 오프라인 결제 버튼이 결제 모달에 포함됩니다.
+modal_adminsettings_systemcurrencytooltipnew === 이는 시스템에서 가격을 표시하는 데 사용되는 기본 통화이며, USD 변환이 활성화되면 결제 플러그인에서도 기본 통화로 사용됩니다.
+plugin_controller_wentwrong === 문제가 발생했습니다. 나중에 다시 시도해 주세요.
+plugin_controller_error === 심각한 플러그인 오류: _8880_
+plugin_page_errortitle === 플러그인 오류
+plugin_generic_unabletoprocess === 귀하의 요청을 처리할 수 없습니다!
+plugin_generic_wentwrongerr === 문제가 발생했습니다. 오류: _8880_
+table_plugins_name383 === 이름
+table_plugins_details383 === 세부
+widget_editplugin_nojsonsettings === 이 플러그인에는 설정이 없습니다!
+pages_errors_titleuhoh === 어 오!
+pages_pluginsgeneric_returntodash === 대시보드로 돌아가기
+theme_settings_defthemecolortitle === 기본 테마 색상
+theme_settings_defthemecolortooltip === 테마의 기본 색상을 선택합니다. 밝거나 어둡습니다.
+theme_settings_defthemecolorlight === 빛
+theme_settings_defthemecolordark === 어두운
+user_settings_defthemecolortitle === 테마 색상
+user_settings_defthemecolortooltip === 대시보드에 대해 선호하는 테마 색상을 선택하세요. 밝거나 어둡습니다.
+plugin_paymentpage_processingtitle === 결제 페이지
+plugin_paymentpage_processingtagline === 아래 버튼을 눌러 결제를 진행해주세요.
+plugin_paymentpage_processingbutton === 지금 지불하세요

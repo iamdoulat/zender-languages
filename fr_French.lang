@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Usurpation d'identité de compte utilisateur
 impersonate_userexit_loader === Sortie de la session de compte courant
 impersonate_exit_btn === Sortie
 table_adminusers_impersonatetp === Imiter
+pages_error404_title === Pas trouvé
+misc_gatewayrates_title === Tarifs de la passerelle
+misc_partnerrates_title === Tarifs partenaires
+misc_packages_title === Paquets
+page_error404page_header === Nous ne trouvons pas cette page !
+page_error404page_tagline === La page que vous recherchez a peut-être été supprimée, son nom a changé ou est temporairement indisponible.
+page_error404page_button === Retourner à la maison
+modals_addnewsmssched_tooltip === Ajouter un nouveau programme de SMS
+modals_addnewwasched_tooltip === Ajouter un nouveau programme WhatsApp
+widgets_viewbank_titlenew === Paiement hors ligne
+modal_paymentbtn_banktransfernew === Paiement hors ligne
+modal_adminsettings_banktransfer1new === Modèle de paiement hors ligne
+modal_adminsettings_banktransfer2new === Si vous avez activé le paiement hors ligne, vous devez créer un modèle pour celui-ci, c'est ce que les utilisateurs verront lorsqu'ils cliqueront sur le bouton. Vous pouvez ajouter les instructions et l'adresse bancaire ici. HTML accepté.
+modal_adminsettings_banktransfer3new === Ensemble de variables que vous pouvez utiliser dans le modèle de paiement hors ligne.
+modal_adminsettings_systemcurrencynew === Devise du système
+modal_adminsettings_offlinepaymenttooltipnew === S'il est activé, un bouton de paiement hors ligne sera inclus dans le mode de paiement.
+modal_adminsettings_systemcurrencytooltipnew === Il s'agit de la devise de base qui sera utilisée par le système pour afficher les prix. Elle est également utilisée par les plugins de paiement comme base lorsque la conversion en USD est activée.
+plugin_controller_wentwrong === Quelque chose c'est mal passé. Merci d'essayer plus tard.
+plugin_controller_error === Erreur critique du plugin : _8880_
+plugin_page_errortitle === Erreur de plug-in
+plugin_generic_unabletoprocess === Nous ne pouvons pas accéder à votre demande!
+plugin_generic_wentwrongerr === Quelque chose s'est mal passé ! Erreur : _8880_
+table_plugins_name383 === Nom
+table_plugins_details383 === Détails
+widget_editplugin_nojsonsettings === Ce plugin n'a pas de paramètres !
+pages_errors_titleuhoh === Euh oh !
+pages_pluginsgeneric_returntodash === Retour au tableau de bord
+theme_settings_defthemecolortitle === Couleur du thème par défaut
+theme_settings_defthemecolortooltip === Sélectionnez la couleur par défaut du thème. Clair ou sombre.
+theme_settings_defthemecolorlight === Lumière
+theme_settings_defthemecolordark === Sombre
+user_settings_defthemecolortitle === Couleur du thème
+user_settings_defthemecolortooltip === Sélectionnez la couleur du thème que vous préférez pour le tableau de bord. Clair ou sombre.
+plugin_paymentpage_processingtitle === Page de paiement
+plugin_paymentpage_processingtagline === Veuillez cliquer sur le bouton ci-dessous pour procéder au paiement.
+plugin_paymentpage_processingbutton === Payez maintenant

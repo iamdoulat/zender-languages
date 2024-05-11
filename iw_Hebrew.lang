@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === מתחזה לחשבון משתמש
 impersonate_userexit_loader === יוצא מההפעלה של החשבון הנוכחי
 impersonate_exit_btn === יְצִיאָה
 table_adminusers_impersonatetp === לְהִתְחַזוֹת
+pages_error404_title === לא נמצא
+misc_gatewayrates_title === תעריפי שער
+misc_partnerrates_title === תעריפי שותפים
+misc_packages_title === חבילות
+page_error404page_header === אנחנו לא מוצאים את הדף הזה!
+page_error404page_tagline === ייתכן שהדף שאתה מחפש הוסר, ששמו שונה או שאינו זמין באופן זמני.
+page_error404page_button === חזור לבית
+modals_addnewsmssched_tooltip === הוסף לוח זמנים חדש ל-SMS
+modals_addnewwasched_tooltip === הוסף לוח זמנים חדש של WhatsApp
+widgets_viewbank_titlenew === תשלום לא מקוון
+modal_paymentbtn_banktransfernew === תשלום לא מקוון
+modal_adminsettings_banktransfer1new === תבנית תשלום לא מקוונת
+modal_adminsettings_banktransfer2new === אם הפעלת תשלום לא מקוון, עליך ליצור עבורו תבנית, זה מה שהמשתמשים יראו כאשר ילחצו על הכפתור. אתה יכול להוסיף את ההוראות וכתובת הבנק כאן. HTML מקובל.
+modal_adminsettings_banktransfer3new === סט משתנים שתוכל להשתמש בתבנית התשלום הלא מקוון.
+modal_adminsettings_systemcurrencynew === מטבע המערכת
+modal_adminsettings_offlinepaymenttooltipnew === אם מופעל, כפתור תשלום לא מקוון ייכלל בשיטת התשלום.
+modal_adminsettings_systemcurrencytooltipnew === זהו מטבע הבסיס שישמש את המערכת בהצגת מחירים, הוא משמש גם את התוספים לתשלום כבסיס כאשר המרת דולר ארה"ב מופעלת.
+plugin_controller_wentwrong === משהו השתבש, אנא נסה שוב מאוחר יותר.
+plugin_controller_error === שגיאת פלאגין קריטית: _8880_
+plugin_page_errortitle === שגיאת פלאגין
+plugin_generic_unabletoprocess === אין באפשרותנו לטפל בבקשתך!
+plugin_generic_wentwrongerr === משהו השתבש! שגיאה: _8880_
+table_plugins_name383 === שֵׁם
+table_plugins_details383 === פרטים
+widget_editplugin_nojsonsettings === לפלאגין הזה אין הגדרות!
+pages_errors_titleuhoh === או - או!
+pages_pluginsgeneric_returntodash === חזור ללוח המחוונים
+theme_settings_defthemecolortitle === צבע ערכת נושא המוגדר כברירת מחדל
+theme_settings_defthemecolortooltip === בחר את צבע ברירת המחדל של ערכת הנושא. אור או כהה.
+theme_settings_defthemecolorlight === אוֹר
+theme_settings_defthemecolordark === אפל
+user_settings_defthemecolortitle === צבע נושא
+user_settings_defthemecolortooltip === בחר את צבע הנושא שאתה מעדיף עבור לוח המחוונים. אור או כהה.
+plugin_paymentpage_processingtitle === דף תשלום
+plugin_paymentpage_processingtagline === אנא לחץ על הלחצן למטה כדי להמשיך בתשלום.
+plugin_paymentpage_processingbutton === שלם עכשיו

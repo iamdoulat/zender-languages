@@ -2827,3 +2827,39 @@ impersonate_userentry_loader === उपयोगकर्ता खाते क
 impersonate_userexit_loader === चालू खाता सत्र से बाहर निकलना
 impersonate_exit_btn === बाहर निकलना
 table_adminusers_impersonatetp === अभिनय करना
+pages_error404_title === नहीं मिला
+misc_gatewayrates_title === गेटवे दरें
+misc_partnerrates_title === साझेदार दरें
+misc_packages_title === संकुल
+page_error404page_header === हमें वह पृष्ठ नहीं मिल सका!
+page_error404page_tagline === आप जिस पृष्ठ को खोज रहे हैं वह संभवतः हटा दिया गया है, उसका नाम बदल दिया गया है, या अस्थायी रूप से अनुपलब्ध है।
+page_error404page_button === घर पर वापस
+modals_addnewsmssched_tooltip === नया एसएमएस शेड्यूल जोड़ें
+modals_addnewwasched_tooltip === नया व्हाट्सएप शेड्यूल जोड़ें
+widgets_viewbank_titlenew === ऑफ़लाइन भुगतान
+modal_paymentbtn_banktransfernew === ऑफ़लाइन भुगतान
+modal_adminsettings_banktransfer1new === ऑफ़लाइन भुगतान टेम्पलेट
+modal_adminsettings_banktransfer2new === यदि आपने ऑफ़लाइन भुगतान सक्षम किया है, तो आपको इसके लिए एक टेम्पलेट बनाना चाहिए, बटन पर क्लिक करने पर उपयोगकर्ता यही देखेंगे। आप यहां निर्देश और बैंक का पता जोड़ सकते हैं। HTML स्वीकृत.
+modal_adminsettings_banktransfer3new === वेरिएबल का सेट जिसे आप ऑफ़लाइन भुगतान टेम्पलेट में उपयोग कर सकते हैं।
+modal_adminsettings_systemcurrencynew === सिस्टम मुद्रा
+modal_adminsettings_offlinepaymenttooltipnew === यदि सक्षम किया गया है, तो भुगतान मोड में एक ऑफ़लाइन भुगतान बटन शामिल किया जाएगा।
+modal_adminsettings_systemcurrencytooltipnew === यह आधार मुद्रा है जिसका उपयोग सिस्टम द्वारा कीमतें प्रदर्शित करने में किया जाएगा, इसका उपयोग यूएसडी रूपांतरण सक्षम होने पर भुगतान प्लगइन्स द्वारा आधार के रूप में भी किया जाता है।
+plugin_controller_wentwrong === कुछ गलत हो गया है। कृपया बाद में दोबारा प्रयास करें।
+plugin_controller_error === गंभीर प्लगइन त्रुटि: _8880_
+plugin_page_errortitle === प्लगइन त्रुटि
+plugin_generic_unabletoprocess === हम आपके अनुरोध को प्रोसेस करने में सक्षम नहीं हैं!
+plugin_generic_wentwrongerr === कुछ गलत हो गया! त्रुटि: _8880_
+table_plugins_name383 === नाम
+table_plugins_details383 === विवरण
+widget_editplugin_nojsonsettings === इस प्लगइन में सेटिंग्स नहीं हैं!
+pages_errors_titleuhoh === उह ओह!
+pages_pluginsgeneric_returntodash === डैशबोर्ड पर लौटें
+theme_settings_defthemecolortitle === डिफ़ॉल्ट थीम रंग
+theme_settings_defthemecolortooltip === थीम का डिफ़ॉल्ट रंग चुनें. प्रकाश हो या अँधेरा.
+theme_settings_defthemecolorlight === रोशनी
+theme_settings_defthemecolordark === अँधेरा
+user_settings_defthemecolortitle === थीम रंग
+user_settings_defthemecolortooltip === डैशबोर्ड के लिए अपनी पसंद का थीम रंग चुनें। प्रकाश हो या अँधेरा.
+plugin_paymentpage_processingtitle === भुगतान पृष्ठ
+plugin_paymentpage_processingtagline === भुगतान के लिए आगे बढ़ने के लिए कृपया नीचे दिए गए बटन पर क्लिक करें।
+plugin_paymentpage_processingbutton === अब भुगतान करें

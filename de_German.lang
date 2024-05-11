@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Identitätswechsel des Benutzerkontos
 impersonate_userexit_loader === Verlassen der Girokontositzung
 impersonate_exit_btn === Ausfahrt
 table_adminusers_impersonatetp === Imitieren
+pages_error404_title === Nicht gefunden
+misc_gatewayrates_title === Gateway-Preise
+misc_partnerrates_title === Partnertarife
+misc_packages_title === Pakete
+page_error404page_header === Wir können diese Seite nicht finden!
+page_error404page_tagline === Die gesuchte Seite wurde möglicherweise entfernt, ihr Name wurde geändert oder sie ist vorübergehend nicht verfügbar.
+page_error404page_button === Nach Hause zurückkehren
+modals_addnewsmssched_tooltip === Neuen SMS-Zeitplan hinzufügen
+modals_addnewwasched_tooltip === Neuen WhatsApp-Zeitplan hinzufügen
+widgets_viewbank_titlenew === Offline-Zahlung
+modal_paymentbtn_banktransfernew === Offline-Zahlung
+modal_adminsettings_banktransfer1new === Offline-Zahlungsvorlage
+modal_adminsettings_banktransfer2new === Wenn Sie die Offline-Zahlung aktiviert haben, sollten Sie eine Vorlage dafür erstellen. Diese wird den Benutzern angezeigt, wenn sie auf die Schaltfläche klicken. Hier können Sie die Anweisungen und die Bankadresse hinzufügen. HTML akzeptiert.
+modal_adminsettings_banktransfer3new === Satz von Variablen, die Sie in der Offline-Zahlungsvorlage verwenden können.
+modal_adminsettings_systemcurrencynew === Systemwährung
+modal_adminsettings_offlinepaymenttooltipnew === Wenn diese Option aktiviert ist, wird eine Offline-Zahlungsschaltfläche in die Zahlungsmodalität eingefügt.
+modal_adminsettings_systemcurrencytooltipnew === Dies ist die Basiswährung, die vom System zur Preisanzeige verwendet wird. Sie wird auch von den Zahlungs-Plugins als Basis verwendet, wenn die USD-Umrechnung aktiviert ist.
+plugin_controller_wentwrong === Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.
+plugin_controller_error === Kritischer Plugin-Fehler: _8880_
+plugin_page_errortitle === Plugin-Fehler
+plugin_generic_unabletoprocess === Wir können Ihre Anfrage nicht bearbeiten!
+plugin_generic_wentwrongerr === Etwas ist schief gelaufen! Fehler: _8880_
+table_plugins_name383 === Name
+table_plugins_details383 === Einzelheiten
+widget_editplugin_nojsonsettings === Dieses Plugin hat keine Einstellungen!
+pages_errors_titleuhoh === Oh oh!
+pages_pluginsgeneric_returntodash === Kehren Sie zum Dashboard zurück
+theme_settings_defthemecolortitle === Standard-Designfarbe
+theme_settings_defthemecolortooltip === Wählen Sie die Standardfarbe des Themas aus. Hell oder dunkel.
+theme_settings_defthemecolorlight === Licht
+theme_settings_defthemecolordark === Dunkel
+user_settings_defthemecolortitle === Themenfarbe
+user_settings_defthemecolortooltip === Wählen Sie die gewünschte Designfarbe für das Dashboard aus. Hell oder dunkel.
+plugin_paymentpage_processingtitle === Zahlungsseite
+plugin_paymentpage_processingtagline === Bitte klicken Sie auf die Schaltfläche unten, um mit der Zahlung fortzufahren.
+plugin_paymentpage_processingbutton === Zahlen Sie jetzt

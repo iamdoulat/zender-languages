@@ -2826,3 +2826,39 @@ impersonate_userentry_loader === Etterligner brukerkonto
 impersonate_userexit_loader === Avslutter gjeldende kontoøkt
 impersonate_exit_btn === Exit
 table_adminusers_impersonatetp === Etterligne
+pages_error404_title === Ikke funnet
+misc_gatewayrates_title === Gateway priser
+misc_partnerrates_title === Partnerpriser
+misc_packages_title === Pakker
+page_error404page_header === Vi finner ikke den siden!
+page_error404page_tagline === Siden du leter etter kan ha blitt fjernet, fått navnet endret, eller er midlertidig utilgjengelig.
+page_error404page_button === Gå tilbake til Hjemmet
+modals_addnewsmssched_tooltip === Legg til ny SMS-plan
+modals_addnewwasched_tooltip === Legg til ny WhatsApp-plan
+widgets_viewbank_titlenew === Frakoblet betaling
+modal_paymentbtn_banktransfernew === Frakoblet betaling
+modal_adminsettings_banktransfer1new === Frakoblet betalingsmal
+modal_adminsettings_banktransfer2new === Hvis du aktivert offline betaling, bør du lage en mal for det, dette er hva brukerne vil se når de klikket på knappen. Du kan legge til instruksjonene og bankadressen her. HTML akseptert.
+modal_adminsettings_banktransfer3new === Sett med variabler du kan bruke i frakoblet betalingsmal.
+modal_adminsettings_systemcurrencynew === Systemvaluta
+modal_adminsettings_offlinepaymenttooltipnew === Hvis den er aktivert, vil en frakoblet betalingsknapp inkluderes i betalingsmodalen.
+modal_adminsettings_systemcurrencytooltipnew === Dette er basisvalutaen som vil bli brukt av systemet til å vise priser, den brukes også av betalingspluginene som base når USD-konvertering er aktivert.
+plugin_controller_wentwrong === Noe gikk galt. Prøv igjen senere.
+plugin_controller_error === Kritisk plugin-feil: _8880_
+plugin_page_errortitle === Plugin-feil
+plugin_generic_unabletoprocess === Vi kan ikke behandle forespørselen din!
+plugin_generic_wentwrongerr === Noe gikk galt! Feil: _8880_
+table_plugins_name383 === Navn
+table_plugins_details383 === Detaljer
+widget_editplugin_nojsonsettings === Denne plugin-en har ingen innstillinger!
+pages_errors_titleuhoh === UH oh!
+pages_pluginsgeneric_returntodash === Gå tilbake til Dashboard
+theme_settings_defthemecolortitle === Standard temafarge
+theme_settings_defthemecolortooltip === Velg standardfargen på temaet. Lys eller mørk.
+theme_settings_defthemecolorlight === Lys
+theme_settings_defthemecolordark === Mørk
+user_settings_defthemecolortitle === Tema farge
+user_settings_defthemecolortooltip === Velg temafargen du foretrekker for dashbordet. Lys eller mørk.
+plugin_paymentpage_processingtitle === Betalingsside
+plugin_paymentpage_processingtagline === Klikk på knappen nedenfor for å fortsette med betalingen.
+plugin_paymentpage_processingbutton === Betal nå
