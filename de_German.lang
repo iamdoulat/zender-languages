@@ -2862,3 +2862,4 @@ user_settings_defthemecolortooltip === Wählen Sie die gewünschte Designfarbe f
 plugin_paymentpage_processingtitle === Zahlungsseite
 plugin_paymentpage_processingtagline === Bitte klicken Sie auf die Schaltfläche unten, um mit der Zahlung fortzufahren.
 plugin_paymentpage_processingbutton === Zahlen Sie jetzt
+plugin_generic_downloadstitle === Plugin-Downloads

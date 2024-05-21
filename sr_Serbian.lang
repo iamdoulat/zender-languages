@@ -2862,3 +2862,4 @@ user_settings_defthemecolortooltip === Изаберите боју теме ко
 plugin_paymentpage_processingtitle === Страница за плаћање
 plugin_paymentpage_processingtagline === Кликните на дугме испод да бисте наставили са плаћањем.
 plugin_paymentpage_processingbutton === Платити сада
+plugin_generic_downloadstitle === Преузимања додатака

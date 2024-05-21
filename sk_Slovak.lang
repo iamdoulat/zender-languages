@@ -2862,3 +2862,4 @@ user_settings_defthemecolortooltip === Vyberte preferovanú farbu motívu pre da
 plugin_paymentpage_processingtitle === Platobná stránka
 plugin_paymentpage_processingtagline === Ak chcete pokračovať v platbe, kliknite na tlačidlo nižšie.
 plugin_paymentpage_processingbutton === Zaplatiť teraz
+plugin_generic_downloadstitle === Plugin na stiahnutie

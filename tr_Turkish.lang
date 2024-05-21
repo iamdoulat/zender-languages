@@ -2862,3 +2862,4 @@ user_settings_defthemecolortooltip === Kontrol paneli için tercih ettiğiniz te
 plugin_paymentpage_processingtitle === Ödeme Sayfası
 plugin_paymentpage_processingtagline === Ödeme işlemine devam etmek için lütfen aşağıdaki butona tıklayın.
 plugin_paymentpage_processingbutton === Şimdi öde
+plugin_generic_downloadstitle === Eklenti İndirmeleri

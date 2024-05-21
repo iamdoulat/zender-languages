@@ -2862,3 +2862,4 @@ user_settings_defthemecolortooltip === Selecione a cor do tema de sua preferênc
 plugin_paymentpage_processingtitle === Página de pagamento
 plugin_paymentpage_processingtagline === Por favor clique no botão abaixo para prosseguir com o pagamento.
 plugin_paymentpage_processingbutton === Pague agora
+plugin_generic_downloadstitle === Downloads de plug-ins

@@ -2862,3 +2862,4 @@ user_settings_defthemecolortooltip === حدد لون السمة الذي تفض�
 plugin_paymentpage_processingtitle === صفحة الدفع
 plugin_paymentpage_processingtagline === الرجاء الضغط على الزر أدناه لمتابعة الدفع.
 plugin_paymentpage_processingbutton === ادفع الآن
+plugin_generic_downloadstitle === تنزيلات البرنامج المساعد

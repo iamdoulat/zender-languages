@@ -2862,3 +2862,4 @@ user_settings_defthemecolortooltip === ダッシュボードに使用するテ�
 plugin_paymentpage_processingtitle === 支払いページ
 plugin_paymentpage_processingtagline === 下のボタンをクリックして支払いを進めてください。
 plugin_paymentpage_processingbutton === 今払う
+plugin_generic_downloadstitle === プラグインのダウンロード

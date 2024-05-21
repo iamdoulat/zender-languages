@@ -2861,3 +2861,4 @@ user_settings_defthemecolortooltip === Επιλέξτε το χρώμα θέμα
 plugin_paymentpage_processingtitle === Σελίδα πληρωμής
 plugin_paymentpage_processingtagline === Κάντε κλικ στο κουμπί παρακάτω για να προχωρήσετε στην πληρωμή.
 plugin_paymentpage_processingbutton === Πλήρωσε τώρα
+plugin_generic_downloadstitle === Λήψεις προσθηκών

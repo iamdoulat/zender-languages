@@ -2862,3 +2862,4 @@ user_settings_defthemecolortooltip === 选择您喜欢的仪表板主题颜色�
 plugin_paymentpage_processingtitle === 付款页面
 plugin_paymentpage_processingtagline === 请点击下面的按钮继续付款。
 plugin_paymentpage_processingbutton === 现在付款
+plugin_generic_downloadstitle === 插件下载

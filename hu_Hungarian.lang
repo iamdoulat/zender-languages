@@ -2862,3 +2862,4 @@ user_settings_defthemecolortooltip === Válassza ki a kívánt színt az irány�
 plugin_paymentpage_processingtitle === Fizetési oldal
 plugin_paymentpage_processingtagline === Kérjük, kattintson az alábbi gombra a fizetés folytatásához.
 plugin_paymentpage_processingbutton === Fizess most
+plugin_generic_downloadstitle === Plugin letöltések
