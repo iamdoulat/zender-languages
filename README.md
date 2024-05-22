@@ -35,6 +35,7 @@
 | Swahili | Released | Titan Systems |
 | Thai | Released | Titan Systems |
 | Turkish | Released | Titan Systems |
+| Urdu | Released | Titan Systems |
 | Vietnamese | Released | Titan Systems |
 | Yoruba | Released | Titan Systems |
 | Chinese | Released | Titan Systems |
