@@ -1,0 +1,135 @@
+response_notify_smsreceivedmessage === message
+response_waquick_waaccountnotconn === WhatsApp account is not connected!
+admin_table_waserverpackagesempty === Packages doesn't exist!
+admin_table_waserverstatustext === Status:
+admin_table_waserverconnectedtext === Connected:
+admin_table_waservermaxtext === Max Accounts:
+admin_table_waserverpackagestext === Allowed Packages:
+ratesgateway_options_viewratesbtn === View Rates
+ratesgateway_options_viewratestitle === View rates for this gateway
+ratesgateway_options_tablecrtdate === Created Date
+ratesgateway_options_tablegatewayid === Gateway ID
+ratesgateway_options_tablegatewayname === Gateway Name
+ratesgateway_options_tableoptions === Options
+dashboard_overall_overview === Overview
+dashboard_overview_gatewaysbtn === Gateways
+dashboard_overview_user_totalsent === Total Sent
+dashboard_overview_user_totalreceived === Total Received
+dashboard_overview_user_topuploader === Processing request
+sms_btnevent_formcontent_btntranslate === Translate
+form_adddevice_showqrbtn === Show QR
+dashboard_sidebarblk_overview === Overview
+dashboard_sidebarblk_hosts === Hosts
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === WA Servers
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Top 5 Countries by Visitors
+dashboard_adminoverview_browsers === Visitors by Browser
+dashboard_adminoverview_os === Visitors by OS
+dashboard_userhosts_hostbreadcrumb === Hosts
+dashboard_authenticate_loginpagetagline === Login to Access the Dashboard
+dashboard_authenticate_regpagetagline === Register to Access the Dashboard
+dashboard_authenticate_forgotpagetagline === Retrieve your Forgotten Password
+dashboard_authenticate_loginpagedonthave === Don't have an account yet?
+dashboard_authenticate_regpagehave === Already have an account?
+dashboard_admin_waserverstitle === WA Servers
+dashboard_admin_waserversbtn_addserver === Add Server
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Name
+form_waserver_addeditserver_nametagline === A unique name for this WhatsApp server.
+form_waserver_addeditserver_accounts === Accounts
+form_waserver_addeditserver_accountstagline === The max number of accounts that are allowed to be connected.
+form_waserver_addeditserver_packages === Packages
+form_waserver_addeditserver_packagestagline === Select the packages that are allowed to use this WhatsApp server.
+form_waserver_addeditserver_serverurl === Server URL
+form_waserver_addeditserver_serverport === Server Port
+datatable_length_v38 === Show _MENU_ entries
+datatable_info_v38 === _START_ to _END_ of _TOTAL_
+datatable_empty_v38 === No entries found
+datatable_filtered_v38 === (_MAX_ total)
+requests_waserver_selectatleastonepack === Please select at least 1 package!
+requests_waserver_updatedsuccess === WhatsApp server has been updated!
+requests_waserver_addedsuccess === WhatsApp server has been added!
+requests_waserver_deletedsuccess === WhatsApp server has been deleted!
+widget_waserver_addwatitle === Add WhatsApp Server
+widget_waserver_addwatitleloader === Adding WhatsApp Server
+widget_waserver_editwatitle === Edit WhatsApp Server
+widget_waserver_editwatitleloader === Editing WhatsApp Server
+widget_waserver_fieldmaxacc === Max Accounts
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Port
+widget_waserver_fieldsecret === Secret
+widget_waserver_setupwatitle === Setup WhatsApp Server
+form_waserver_secretkey === Secret Key
+form_waserver_secretkeydesc === Create a secure secret key. This will be used by the WhatsApp server to verify peer connection with Zender. Please do not use special characters!
+table_waservers_optionssetupbtn === Setup
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Created
+table_waservers_dtname === Name
+table_waservers_dturl === URL
+table_waservers_dtport === Port
+table_waservers_dtdetails === Details
+table_waservers_dtops === Options
+page_socialerror_autherrortitle === Authentication Error
+page_socialerror_authwentwrong === Something went wrong with the authentication process. Please try again!
+page_socialerror_authsuspended === Sorry! We have suspended your account due to suspicious activity.
+page_socialerror_authemailnotfound === A valid email address must be present in your _8880_ account!
+page_socialerror_authreturn === Return to Login
+page_socialerror_authuhoh === Uh oh!
+widget_setupcronjobs_title === Setup Cronjobs
+admin_btncron_tooltip === Cron Setup
+admin_btncron_btn === Cron
+waexport_loader_exporting === Exporting Group Contacts
+table_wagroups_exportcontactstooltip === Export Contacts
+response_waexport_unablefetchcontacts === Unable to get group contacts!
+response_waexport_nocontactsfound === No contacts found!
+response_systemupdate_manualinterreq === Update requires manual intervention. Redirecting to changelog page..
+apexcharts_locale_monthjanuary === January
+apexcharts_locale_monthfebruary === February
+apexcharts_locale_monthmarch === March
+apexcharts_locale_monthapril === April
+apexcharts_locale_monthmay === May
+apexcharts_locale_monthjune === June
+apexcharts_locale_monthjuly === July
+apexcharts_locale_monthaugust === August
+apexcharts_locale_monthseptember === September
+apexcharts_locale_monthoctober === October
+apexcharts_locale_monthnovember === November
+apexcharts_locale_monthdecember === December
+apexcharts_locale_monthjanshort === Jan
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Apr
+apexcharts_locale_monthmayshort === May
+apexcharts_locale_monthjunshort === Jun
+apexcharts_locale_monthjulshort === Jul
+apexcharts_locale_monthaugshort === Aug
+apexcharts_locale_monthsepshort === Sep
+apexcharts_locale_monthoctshort === Oct
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Dec
+apexcharts_locale_daymonday === Monday
+apexcharts_locale_daytuesday === Tuesday
+apexcharts_locale_daywednesday === Wednesday
+apexcharts_locale_daythursday === Thursday
+apexcharts_locale_dayfriday === Friday
+apexcharts_locale_daysaturday === Saturday
+apexcharts_locale_daysunday === Sunday
+apexcharts_locale_daymondayshort === Mon
+apexcharts_locale_daytuesdayshort === Tue
+apexcharts_locale_daywednesdayshort === Wed
+apexcharts_locale_daythursdayshort === Thu
+apexcharts_locale_dayfridayshort === Fri
+apexcharts_locale_daysaturdayshort === Sat
+apexcharts_locale_daysundayshort === Sun
+apexcharts_locale_exportsvg === Download SVG
+apexcharts_locale_exportpng === Download PNG
+apexcharts_locale_menu === Menu
+apexcharts_locale_selection === Selection
+apexcharts_locale_selectionzoom === Selection Zoom
+apexcharts_locale_zin === Zoom In
+apexcharts_locale_zout === Zoom Out
+apexcharts_locale_pan === Panning
+apexcharts_locale_reset === Reset Zoom

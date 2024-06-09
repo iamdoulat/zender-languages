@@ -2163,7 +2163,6 @@ widgets_addshortener_requirename === Shortener name cannot be empty!
 widgets_editshortener_title === Edit Shortener
 widgets_editshortener_loader === Saving shortener changes
 widgets_editshortener_requirename === Shortener name cannot be empty!
-widgets_addplugin_loader === Intalling new plugin to system
 widgets_editplugin_loader === Applying plugin changes to system
 widgets_updateplugin_title === Update Plugin
 widgets_updateplugin_loader === Updating plugin
@@ -2324,3 +2323,543 @@ modal_adminsettings_banktransfer1 === Bank Transfer Template
 modal_adminsettings_banktransfer2 === If you enabled bank transfer in the payment options, you should create a template for it, this is what the users will see when they clicked the button. You can add the instructions and bank address here. HTML accepted.
 modal_adminsettings_banktransfer3 === Set of variable you can use in the bank transfer template.
 requests_delete_pluginssuccess === Plugin has been successfully deleted!
+table_whatsappreceived_chattitle === Chat
+table_whatsappreceived_accounttitle === Account
+tabs_whatsappaccounts_titleheader === WhatsApp Accounts
+form_editwhatsapp_randominterval === Random Send Interval
+form_editwhatsapp_randomintervalhelp === If enabled, chats will be sent in random intervals between 2 values. You can configure them below.
+form_editwhatsapp_randommin === Send Interval Min
+form_editwhatsapp_randomminhelp === Minimum send interval in seconds.
+form_editwhatsapp_randommax === Send Interval Max
+form_editwhatsapp_randommaxhelp === Maximum send interval in seconds.
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === Edit WhatsApp
+widgets_editwhatsapp_loader === Saving whatsapp account changes
+mail_waunlink_title === Your WhatsApp account has been unlinked!
+mail_waunlink_contentline1 === Hi there!
+mail_waunlink_contentline2 === One of your linked WhatsApp account has been removed with the following unique ID:
+mail_waunlink_contentline3 === This account is not connected to our system anymore due to WhatsApp related event, please link it again.
+mail_waunlink_contentline4 === Thank you!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === Phone
+form_btnall_visitlink === Visit
+unsubscribe_header_title === Unsubscribe
+unsubscribe_content_title === Unsubscribed
+unsubscribe_content_desc === You have unsubscribed from our sending list.
+requests_editwhatsapp_success === WhatsApp account has been updated!
+form_addusertpl_credits === Credits
+form_addusertpl_creditsdesc === Starting credits for this user account.
+form_addusertpl_creditsdesc2 === Modify credits of this user account.
+form_registerconfirm_desc === Your email address has been verified successfully. You can login to your account using the button below.
+requests_loginnotverified_response === Your account email address is not yet verified. We have sent a confirmation link to this address: _8880_
+requests_loginnotverified_response2 === Your account has been registered successfully. Before you can use it, you will need to verify your email address. We have sent a confirmation link to this address: _8880_
+requests_loginnotverified_responseunable === We are unable to send the email confirmation!
+requests_loginnotverified_emailtitle === Welcome to _8880_! Confirm the email address of your account here.
+requests_loginnotverified_emaildesc1 === Hi there!
+requests_loginnotverified_emaildesc2 === Thank you for creating your account with us, please verify your email address by visiting this link:
+requests_loginnotverified_emaildesc3 === Thank you!
+form_adminsettings_authredi === Auth Redirection
+form_adminsettings_authredidesc === Choose the redirect location after a successful authentication.
+form_adminsettings_authredihomepage === Homepage
+form_adminsettings_authredidashboard === Dashboard
+form_adminsettings_defaultcoun === Default Country
+form_adminsettings_defaultcoundesc === Default selected country on user registration form.
+form_adminsettings_defaulttimezo === Default Timezone
+form_adminsettings_defaulttimezodesc === Default selected timezone on user registration form.
+form_adminsettings_mailingtrig === Mailing Triggers
+form_adminsettings_mailingtrigdesc === Select mailing triggers to enable.
+form_adminsettings_adminemail === Admin Email
+form_adminsettings_adminemaildesc === Mailing triggered messages for admin will be sent to this email address. These messages are only available in english and cannot be translated.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === When enabled, recaptcha will be shown to authentication forms such as register, login and forgot password.
+form_editdevice_receiveoptiontitle === Receive SMS
+form_editdevice_receiveoptiondesc === If disabled, received messages from android inbox won't be saved by the system. Webhooks and other related tools won't work for the device when this is disabled.
+form_editwhatsapp_receiveoptiontitle === Receive Chats
+form_editwhatsapp_receiveoptiondesc === If disabled, received chats from whatsapp account won't be saved by the system. Webhooks and other related tools won't work for the WhatsApp account when this is disabled.
+js_calendarall_option === All
+js_calendarall_apply === Apply
+js_calendarall_cancel === Cancel
+js_calendarall_from === From
+js_calendarall_to === To
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === Tu
+js_calendarall_daywe === We
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === January
+js_calendarall_monfeb === February
+js_calendarall_monmar === March
+js_calendarall_monapr === April
+js_calendarall_monmay === May
+js_calendarall_monjun === June
+js_calendarall_monjul === July
+js_calendarall_monaug === August
+js_calendarall_monsep === September
+js_calendarall_monoct === October
+js_calendarall_monnov === November
+js_calendarall_mondec === December
+response_ussddelete_success === USSD request has been deleted!
+response_titanecho_invaltoken === System configuration error!
+widgets_addplugin_loader === Installing new plugin to system
+widgets_addwhatsapp_newmodal === Connect your WhatsApp by clicking the button to display the QRCode then scan it via _8880_ button in the app. You only have 15 seconds to scan the QRCode.
+widgets_addwhatsapp_newmodal2 === _8880_ has expired, if your account has been linked, or not, please click the button below.
+widgets_addwhatsapp_newmodal3 === Continue
+widgets_addwhatsapp_newmodal4 === Cancel
+datatable_addedtoclipboard === Added to clipboard
+datatable_addedtoclipboardkeys === Click the copy button to add the displayed rows to clipboard.
+datatable_addedtoclipboardmulti === Rows copied:
+datatable_addedtoclipboardsingle === 1 row copied
+table_details_schedulednewrepeat === Repeat:
+and_edit_dev_line70_1_new === The amount you want to charge per message, device country will be used as the base of currency. Float values are also supported such as cents.
+widget_waquick_requireaccountnew1 === WhatsApp account
+requests_whatsapp_notavail === WhatsApp server is unavailable!
+requests_whatsapp_unablegenqr === Unable to generate WhatsApp QRCode!
+requests_charts_commisionstitle === Commissions
+requests_token_refreshecho === Token for _8880_ has been refreshed!
+requests_remote_smscampaignresumed === SMS campaign has been resumed!
+requests_remote_smscampaignpaused === SMS campaign has been paused!
+requests_remote_wacampaignresumed === WhatsApp campaign has been resumed!
+requests_remote_wacampaignpaused === WhatsApp campaign has been paused!
+requests_create_payoutwithdrawalamountatleast === Withdrawal amount should be at least _8880_ _8881_!
+requests_sms_intervaltypereachedmax === The _8880_ allowed messages has been reached for this device, please try again later!
+requests_sms_encounteredgatewayerror === We encountered a gateway error!
+requests_sms_gatewaycannotsendowndevices === You cannot send messages with credits using your own devices!
+requests_create_encounteredshortenererror === We encountered a shortener error!
+requests_create_campaignnametooshort === Campaign name is too short!
+requests_sms_intervaltypedaily === daily
+requests_sms_intervaltypemonthly === monthly
+requests_sms_reachedmaximumsentpackage === You have reached the maximum sent messages for your current package!
+response_message_bulkqueuednew === _8880_ messages has been queued for sending!
+response_whatsapp_invalidmediafile === Invalid Media File!
+response_whatsapp_atleastonebutt === Please add at least one button!
+response_whatsapp_invalidimagefile === Invalid image file!
+response_whatsapp_listtitlereq === List title is required!
+response_whatsapp_listmenureq === List menu title is required!
+response_whatsapp_listformatreq === List format is required!
+response_whatsapp_listformatinval === List format is invalid!
+response_whatsapp_tempformatreq === Template format is required!
+response_whatsapp_tempformatinval === Template format is invalid!
+response_whatsapp_failedchatsqueue === Failed adding chat to WhatsApp queue!
+response_whatsapp_bulkchatssentcount === _8880_ chats has been queued for sending!
+response_whatsapp_failedchatsqueuemany === Failed adding chats to WhatsApp queue!
+response_whatsapp_nochatsqueuedpacklimit === Sorry, no chats were queued. Please check the sending limit of your package!
+response_whatsapp_successfetchgroups === Successfully fetched _8880_ groups!
+response_whatsapp_nogroupsfoundfetch === No groups were found!
+response_partners_commisionerror === Partner commission percentage cannot be less than 1 and greater than 80!
+response_delete_smsdeletecampaign === SMS campaign has been deleted!
+response_delete_wacampaigndeleted === WhatsApp campaign has been deleted!
+response_delete_wagroupdeleted === WhatsApp group has been deleted!
+table_smscampaign_createdtitle === Created
+table_smscampaign_nametitle === Name
+table_smscampaign_gatewaytitle === Gateway
+table_smscampaign_contactstitle === Contacts
+table_smscampaign_statustitle === Status
+table_smscampaign_optionstitle === Options
+table_campaign_completedstatus === Completed
+table_smscagmpaign_processingstatus === _8880_ of _8881_ processed
+table_campaign_pausecampaign === Pause this campaign
+table_campaign_resumecampaign === Resume this campaign
+table_smsscheduled_lastsendinfo === Last Send
+table_smstransac_createdtitle === Created
+table_smstransac_sendertitle === Sender
+table_smstransac_devicetitle === Device
+table_smstransac_messagetitle === Message
+table_smstransac_earningstitle === Earnings
+table_smstransac_messageremoved === Message has been removed!
+table_wacampaign_createdtitle === Created
+table_wacampaign_nametitle === Name
+table_wacampaign_accounttitle === Account
+table_wacampaign_typetitle === Type
+table_wacampaign_contactstitle === Contacts
+table_wacampaign_statustitle === Status
+table_wacampaign_optionstitle === Options
+table_wacampaign_processingstatus === _8880_ of _8881_ processed
+table_wascheduled_lastsendinfo === Last Send
+table_campaign_pendingstatus === Pending
+table_wagroups_nametitle === Name
+table_wagroups_accounttitle === Account
+table_wagroups_addresstitle === Group Address
+table_wagroups_optionstitle === Options
+table_waaccounts_statustitle === Status
+table_waaccounts_statusconnected === Connected
+table_waaccounts_statusconnecting === Connecting
+table_waaccounts_statusdisconnecting === Disconnecting
+table_waaccounts_statusdisconnected === Disconnected
+table_waaccounts_statuserror === Error
+table_waaccounts_copyaccountid === Copy Account ID
+table_android_brandtitle === Brand
+table_android_partnertitle === Partner
+table_android_statustitle === Status
+table_android_statusonline === Online
+table_android_statusoffline === Offline
+table_android_copydeviceid === Copy Device Unique ID
+table_partnerrates_devicename === Device Name
+widget_fetchgroups_titlefetch === Fetch Groups
+widget_fetchgroups_loaderfetch === Fetching groups from account
+pages_admin_tokenrefreshbutt === Token
+pages_admin_tokenrefreshbutthelp === Refresh the socket communication token. If the system is not displaying any live toast notifications or not updating in realtime, please click this button.
+pages_admin_cachehelp === Clear the entire system cache. Warning! This will also clear caches related to the API, authentication and payment. It is recommended to only do this when upgrading the system.
+pages_admin_themehelp === Modify site template and design.
+pages_admin_systemsettingshelp === Adjust important system settings.
+pages_sms_campaignstab === Campaigns
+pages_sms_partnertransactions === Transactions
+pages_whatsapp_campaignstab === Campaigns
+pages_whatsapp_groupstab === Groups
+forms_repeatdays_title === Repeat Days
+forms_repeatdays_tagline === Enter how many days to wait until repeat sending of message. Enter 365 to repeat every year on the same month, day and time, if not, it will only follow the time. Enter 0 to disable repeat.
+forms_whatsapp_messagetype === Message Type
+forms_whatsapp_messagetypehelp === Select the WhatsApp message type.
+forms_whatsapp_typetext === Text
+forms_whatsapp_typemedia === Media
+forms_whatsapp_typebutton === Button
+forms_whatsapp_typelist === List
+forms_whatsapp_typetemplate === Template
+forms_whatsapp_mediafile === Media File
+forms_whatsapp_mediafilehelp === Media file, the media file to be uploaded. Supports .jpg, .png, .gif and .mp4 files.
+forms_whatsapp_imagefile === Image File
+forms_whatsapp_imagefilehelp === Custom image file, this is optional.
+forms_whatsapp_buttons === Buttons 
+forms_whatsapp_buttonshelp === Custom buttons, the first button is required.
+forms_whatsapp_buttonsplace1 === Button 1
+forms_whatsapp_buttonsplace2 === Button 2 (Optional)
+forms_whatsapp_buttonsplace3 === Button 3 (Optional)
+forms_whatsapp_listtitle === List Title
+forms_whatsapp_listtitlehelp === This is the list title.
+forms_whatsapp_listplacetitle === My List
+forms_whatsapp_listmenutitle === Menu Title
+forms_whatsapp_listmenutitlehelp === This is the menu title.
+forms_whatsapp_listmenutitleplace === Menu Title
+forms_whatsapp_footermessage === Footer Message
+forms_whatsapp_footermessagehelp === Custom footer message, this is optional.
+forms_whatsapp_footermessageplace === This is the footer message...
+forms_whatsapp_listformat === List Format
+forms_whatsapp_listformathelp === This is the list format, supplied json must be valid.
+forms_whatsapp_templateformat === Template Format
+forms_whatsapp_templateformathelp === This is the template format, supplied json must be valid.
+and_settings_line159new === This token must not be shared to anyone. This is used for security of cronjobs, system API, WhatsApp requests and other external requests. If you think, your system token was compromised, please regenerate a new one, you will need to reconfigure your cronjobs, system API and other related settings after regenerating a new token. This will also affect the WhatsApp system, all connected accounts won't work anymore.
+forms_systemsettings_servicestitle === Services
+forms_systemsettings_waserver === WhatsApp Server URL
+forms_systemsettings_waserverhelp === The URL of your WhatsApp server, you need to host this on your own server. Please read the documentation for setup instructions.
+forms_systemsettings_waport === WhatsApp Server Port
+forms_systemsettings_waporthelp === The port of your WhatsApp server, default port is 7001. Please read the documentation for setup instructions.
+forms_systemsettings_messagestitle === Messages
+forms_systemsettings_partnercommission === Partner Commission
+forms_systemsettings_partnercommissionhelp === Percentage of commission you want to deduct from the earnings of partners for each messages sent. This will be your money and will be displayed in the statistics in the admin panel. Percentage must not be less than 1 and greater than 80!
+forms_systemsettings_partnerminimum === Partner Minimum Payout
+forms_systemsettings_partnerminimumhelp === Minimum earnings amount to be able to request for withdrawal. This amount will also use the default system currency which is the same with earnings.
+forms_editdevice_sendinglimittitle === Sending Limit 
+forms_editdevice_limitstatus === Limit Status
+forms_editdevice_limitstatushelp === If enabled, the allowed number of messages that can be sent using this device will be limited per day or month.
+forms_editdevice_limitinterv === Limit Interval
+forms_editdevice_limitintervhelp === Select the type of delay before refreshing the limit counter.
+forms_editdevice_messagecount === Number of Messages
+forms_editdevice_messagecounthelp === The number of messages that can be sent during the limit interval.
+forms_editdevice_limitintervselect1 === Daily
+forms_editdevice_limitintervselect2 === Monthly
+forms_editdevice_partnerstatus === Partner Status
+forms_edituser_clockformat === Clock Format
+forms_edituser_clockformathelp === Select the clock format to use when displaying time anywhere in the system.
+forms_edituser_clockformatselect1 === 12 Hours
+forms_edituser_clockformatselect2 === 24 Hours 
+forms_edituser_dateformat === Date Format
+forms_edituser_dateformathelp === Select the date format to use when displaying date anywhere in the system.
+forms_edituser_dateseparator === Date Separator
+forms_edituser_dateseparatorhelp === Select the date separator to use when displaying date anywhere in the system.
+forms_campagin_formname === Campaign Name
+forms_campagin_formhelp === Campaign name, an activity log will be created for these bulk messages, you will be able to easily stop the sending via the campaign manager.
+forms_campaign_formplaceholder === eg. Sample Campaign
+forms_whatsapp_numbersgroupsname === Numbers or Group Address
+forms_whatsapp_numbersgroupshelp === Multiple E.164 numbers and WhatsApp group addresses separated by line break.
+forms_whatsapp_groupsimportname === WhatsApp Account
+forms_whatsapp_groupsimportnamehelp === Select the whatsapp account where groups will be fetched.
+forms_whatsapp_groupsimportbutton === Fetch
+forms_whatsapp_phonegroupsname === Phone or Group Address
+forms_whatsapp_phonegroupshelp === E.164 recipient phone number or WhatsApp group address.
+pages_administration_commissionstitle === Commissions
+pages_smscampaigns_header === Campaigns
+pages_smstransactions_header === Transactions
+pages_smstransactions_comtagline === All SMS sent using partner devices has a _8880_% transaction fee. This is already deducted in the following table.
+pages_wacampaigns_header === Campaigns
+pages_wagroups_header === Groups
+pages_wagroups_fetchbtn === Fetch Groups
+tables_plugins_noactionsline === No Actions
+plugin_header_selectmethod === Select Payment Method
+title_plugin_paymentpage === Payment Page
+payment_title_pending === Order Pending
+btn_plugin_cancelorderpayment === Cancel Payment
+payment_title_orderfailed === Order Failed
+payment_page_orderfailed === Something went wrong while processing your order request.
+and_rate_gate_3new === _8880_ Rates
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Options
+app_fetching_messages === Fetching Messages
+app_fetching_ussd === Fetching USSD
+app_campaign_resumed === Sending resumed for campaign:
+app_campaign_paused === Sending paused for campaign:
+js_response_titanechorefreshdesc === Refresh token for the real-time socket communication?
+form_wa_templatetype_knownissue === Known Issue
+form_wa_templatetype_knownissuedesc === This type of WhatsApp message is not displaying properly on iOS. The WhatsApp iOS app will display a blank message.
+app_response_devicealreadylinked === This device was already linked to another account!
+app_response_devicealreadylinkedunable === We are unable to complete your request. This device was already linked to another account!
+requests_response_subschedmaxreached === You have reached the maximum allowed number of scheduled SMS and WhatsApp chats for your package!
+requests_response_subactionsmaxreached === You have reached the maximum allowed number of SMS actions and WhatsApp actions for your package!
+response_hook_added2 === Hook action has been added!
+response_webhook_added2 === Webhook has been added!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Not Configured
+template_administration_wablockonline === Online
+template_administration_wablockoffline === Offline
+template_administration_wablockstatus === Status:
+app_intro_level_8new === This is the floating action button, you can access some options and additional pages such as Run in Background here.
+app_intro_done_btn === Done
+form_spintaxsample_main === Tom is a _8880_ cat
+form_spintaxsample_bad === bad
+form_spintaxsample_good === good
+forms_whatsapp_typedoc === Document
+forms_whatsapp_docfile === Document File
+forms_whatsapp_docfilehelp === Document file, the document file to be uploaded. Supports .pdf, .xls, .xlsx, .doc, and .docx files.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Resume Campaign?
+campaign_popup_titlestop === Pause Campaign?
+campaign_popup_descsmsresume === Pending messages will be sent!
+campaign_popup_descsmsstop === Pending messages will not be sent until you resume!
+campaign_popup_descwaresume === Pending chats will be sent!
+campaign_popup_descwastop === Pending chats will not be sent until you resume!
+tabs_smspage_queuebtn === Queue
+tabs_wapage_queuebtn === Queue
+tabs_smspage_queuetitle === SMS Queue
+tabs_wapage_queuetitle === WhatsApp Queue
+tables_wabtn_downloadattach === Download Attachment
+app_response_devicealreadylinkednew === This device was already linked to another account with email: _8880_
+app_response_devicealreadylinkedunablenew === We are unable to complete your request. This device was already linked to another account with email: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Mobile Number
+plugin_mpg_payumoneymobilerequired === Mobile number is required for PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ is now connected!
+whatsapp_accountlink_linkadevicebtn === Link a device
+response_whatsapp_invaldocumenfile === Invalid Document File!
+app_gateway_started_msg === Gateway has been started. Please keep the app open and memory locked for optimal performance.
+app_gateway_ussd_accessibility === To send USSD requests, you must enable Accessibility Permission for the app.
+table_btn_refresh === Refresh
+table_whatsappaccount_relinktitle === Relink WhatsApp Account
+table_whatsappaccount_relinkpopuptitle === Relink Account
+table_wacampaigns_status_running === Running
+table_wacampaigns_status_paused === Paused
+table_wareceived_attachmentnomsg === There's no message
+form_waquicksend_prioritylabel === Priority
+form_waquicksend_priorityhelp === If enabled, the message will be sent immediately. This option is only available for quick chat.
+requests_waquicksend_prioritysuccess === WhatsApp chat has been sent!
+requests_waquicksend_priorityfail === Failed sending WhatsApp chat!
+general_deprecated_msg === Deprecated
+response_gateway_randommax_new === Maximum send interval cannot be greater than 5000 seconds!
+response_unable_to_process_msg === Sorry, we are unable to process your message.
+wa_bulk_selec_acc_unconnected === Selected WhatsApp accounts are not connected!
+wa_accnts_copy_unique_id_btn === Copy Unique ID
+wa_groups_btn_copy_group_addr === Copy Group Address
+wa_message_type_placeholder_audio === Not available for audio messages!
+js_wa_form_audiotype_entermsg === Enter your message here...
+js_wa_form_audionotavail_disinput === Not available for audio messages!
+response_select_newdoc_file_38 === Please upload another document file!
+response_select_newmed_file_38 === Please upload another media file!
+form_autoreply_modal_widget_matchtype === Match Type
+form_autoreply_modal_widget_matchtype_desc === The matching type to use for the detecting keywords.
+form_autoreply_modal_widget_matchtype_sel1 === Exact (Case Insensitive)
+form_autoreply_modal_widget_matchtype_sel2 === Exact (Case Sensitive)
+form_autoreply_modal_widget_matchtype_sel3 === Contains The Keywords
+form_autoreply_modal_widget_matchtype_sel4 === Regular Expression
+form_autoreply_modal_widget_devicedesc_38 === Select the device you want to use for trigerring the reply.
+form_autoreply_modal_widget_simslot_38 === Sim Slot
+form_autoreply_modal_widget_simslot_38_desc === Select the sim slot you want to use for trigerring the reply.
+form_autoreply_modal_widget_waaccount_38_desc === Select the WhatsApp account you want to use for triggering the reply.
+form_autoreply_modal_widget_priority_38 === Priority
+form_autoreply_modal_widget_priority_38_desc === If enabled, the message will be sent directly by the WhatsApp server.
+form_autoreply_modal_widget_trigger_38 === Trigger
+form_autoreply_modal_widget_trigger_38_desc === The strings or set of keywords separated by comma to use for triggering the autoreply.
+table_toolsautoreply_account38 === Account: _8880_
+table_toolsautoreply_device38 === Device: _8880_
+forms_whatsapp_mediafilehelp38 === Media file, the media file to be uploaded. Supports .jpg, .png, .gif, .mp4, .mp3 and .ogg files.
+response_notify_smsreceivedmessage === message
+response_waquick_waaccountnotconn === WhatsApp account is not connected!
+admin_table_waserverpackagesempty === Packages doesn't exist!
+admin_table_waserverstatustext === Status:
+admin_table_waserverconnectedtext === Connected:
+admin_table_waservermaxtext === Max Accounts:
+admin_table_waserverpackagestext === Allowed Packages:
+ratesgateway_options_viewratesbtn === View Rates
+ratesgateway_options_viewratestitle === View rates for this gateway
+ratesgateway_options_tablecrtdate === Created Date
+ratesgateway_options_tablegatewayid === Gateway ID
+ratesgateway_options_tablegatewayname === Gateway Name
+ratesgateway_options_tableoptions === Options
+dashboard_overall_overview === Overview
+dashboard_overview_gatewaysbtn === Gateways
+dashboard_overview_user_totalsent === Total Sent
+dashboard_overview_user_totalreceived === Total Received
+dashboard_overview_user_topuploader === Processing request
+sms_btnevent_formcontent_btntranslate === Translate
+form_adddevice_showqrbtn === Show QR
+dashboard_sidebarblk_overview === Overview
+dashboard_sidebarblk_hosts === Hosts
+dashboard_sidebarblk_hostsandroid === Android
+dashboard_sidebarblk_hostswhatsapp === WhatsApp
+dashboard_sidebarblk_waservers === WA Servers
+dashboard_sidebarblk_docsandroid === Android
+dashboard_pageheading_docsandroid === Android
+dashboard_adminoverview_topcountries5 === Top 5 Countries by Visitors
+dashboard_adminoverview_browsers === Visitors by Browser
+dashboard_adminoverview_os === Visitors by OS
+dashboard_userhosts_hostbreadcrumb === Hosts
+dashboard_authenticate_loginpagetagline === Login to Access the Dashboard
+dashboard_authenticate_regpagetagline === Register to Access the Dashboard
+dashboard_authenticate_forgotpagetagline === Retrieve your Forgotten Password
+dashboard_authenticate_loginpagedonthave === Don't have an account yet?
+dashboard_authenticate_regpagehave === Already have an account?
+dashboard_admin_waserverstitle === WA Servers
+dashboard_admin_waserversbtn_addserver === Add Server
+dashboard_docsnew_androidtitle === Android
+form_waserver_addeditserver_name === Name
+form_waserver_addeditserver_nametagline === A unique name for this WhatsApp server.
+form_waserver_addeditserver_accounts === Accounts
+form_waserver_addeditserver_accountstagline === The max number of accounts that are allowed to be connected.
+form_waserver_addeditserver_packages === Packages
+form_waserver_addeditserver_packagestagline === Select the packages that are allowed to use this WhatsApp server.
+form_waserver_addeditserver_serverurl === Server URL
+form_waserver_addeditserver_serverport === Server Port
+datatable_length_v38 === Show 88881 entries
+datatable_info_v38 === 88882 to 88883 of 88884
+datatable_empty_v38 === No entries found
+datatable_filtered_v38 === (88885 total)
+requests_waserver_selectatleastonepack === Please select at least 1 package!
+requests_waserver_updatedsuccess === WhatsApp server has been updated!
+requests_waserver_addedsuccess === WhatsApp server has been added!
+requests_waserver_deletedsuccess === WhatsApp server has been deleted!
+widget_waserver_addwatitle === Add WhatsApp Server
+widget_waserver_addwatitleloader === Adding WhatsApp Server
+widget_waserver_editwatitle === Edit WhatsApp Server
+widget_waserver_editwatitleloader === Editing WhatsApp Server
+widget_waserver_fieldmaxacc === Max Accounts
+widget_waserver_fieldurl === URL
+widget_waserver_fieldport === Port
+widget_waserver_fieldsecret === Secret
+widget_waserver_setupwatitle === Setup WhatsApp Server
+form_waserver_secretkey === Secret Key
+form_waserver_secretkeydesc === Create a secure secret key. This will be used by the WhatsApp server to verify peer connection with Zender. Please do not use special characters!
+table_waservers_optionssetupbtn === Setup
+table_androidver_14 === Android 14
+table_waservers_dtcreated === Created
+table_waservers_dtname === Name
+table_waservers_dturl === URL
+table_waservers_dtport === Port
+table_waservers_dtdetails === Details
+table_waservers_dtops === Options
+page_socialerror_autherrortitle === Authentication Error
+page_socialerror_authwentwrong === Something went wrong with the authentication process. Please try again!
+page_socialerror_authsuspended === Sorry! We have suspended your account due to suspicious activity.
+page_socialerror_authemailnotfound === A valid email address must be present in your _8880_ account!
+page_socialerror_authreturn === Return to Login
+page_socialerror_authuhoh === Uh oh!
+widget_setupcronjobs_title === Setup Cronjobs
+admin_btncron_tooltip === Cron Setup
+admin_btncron_btn === Cron
+waexport_loader_exporting === Exporting Group Contacts
+table_wagroups_exportcontactstooltip === Export Contacts
+response_waexport_unablefetchcontacts === Unable to get group contacts!
+response_waexport_nocontactsfound === No contacts found!
+response_systemupdate_manualinterreq === Update requires manual intervention. Redirecting to changelog page..
+apexcharts_locale_monthjanuary === January
+apexcharts_locale_monthfebruary === February
+apexcharts_locale_monthmarch === March
+apexcharts_locale_monthapril === April
+apexcharts_locale_monthmay === May
+apexcharts_locale_monthjune === June
+apexcharts_locale_monthjuly === July
+apexcharts_locale_monthaugust === August
+apexcharts_locale_monthseptember === September
+apexcharts_locale_monthoctober === October
+apexcharts_locale_monthnovember === November
+apexcharts_locale_monthdecember === December
+apexcharts_locale_monthjanshort === Jan
+apexcharts_locale_monthfebshort === Feb
+apexcharts_locale_monthmarshort === Mar
+apexcharts_locale_monthaprshort === Apr
+apexcharts_locale_monthmayshort === May
+apexcharts_locale_monthjunshort === Jun
+apexcharts_locale_monthjulshort === Jul
+apexcharts_locale_monthaugshort === Aug
+apexcharts_locale_monthsepshort === Sep
+apexcharts_locale_monthoctshort === Oct
+apexcharts_locale_monthnovshort === Nov
+apexcharts_locale_monthdecshort === Dec
+apexcharts_locale_daymonday === Monday
+apexcharts_locale_daytuesday === Tuesday
+apexcharts_locale_daywednesday === Wednesday
+apexcharts_locale_daythursday === Thursday
+apexcharts_locale_dayfriday === Friday
+apexcharts_locale_daysaturday === Saturday
+apexcharts_locale_daysunday === Sunday
+apexcharts_locale_daymondayshort === Mon
+apexcharts_locale_daytuesdayshort === Tue
+apexcharts_locale_daywednesdayshort === Wed
+apexcharts_locale_daythursdayshort === Thu
+apexcharts_locale_dayfridayshort === Fri
+apexcharts_locale_daysaturdayshort === Sat
+apexcharts_locale_daysundayshort === Sun
+apexcharts_locale_exportsvg === Download SVG
+apexcharts_locale_exportpng === Download PNG
+apexcharts_locale_menu === Menu
+apexcharts_locale_selection === Selection
+apexcharts_locale_selectionzoom === Selection Zoom
+apexcharts_locale_zin === Zoom In
+apexcharts_locale_zout === Zoom Out
+apexcharts_locale_pan === Panning
+apexcharts_locale_reset === Reset Zoom
+actions_waexportgroupcontacts_title === Export
+actions_waexportgroupcontacts_desc === Group contacts will be saved as Excel file.
+response_adminuserimpersonate_entry === Redirecting to user account...
+response_adminuserimpersonate_exit === Redirecting to admin account...
+impersonate_userentry_title === Impersonate
+impersonate_userentry_desc === Do you want to login as this user?
+impersonate_userentry_loader === Impersonating user account
+impersonate_userexit_loader === Exiting current account session
+impersonate_exit_btn === Exit
+table_adminusers_impersonatetp === Impersonate
+pages_error404_title === Not Found
+misc_gatewayrates_title === Gateway Rates
+misc_partnerrates_title === Partner Rates
+misc_packages_title === Packages
+page_error404page_header === We can't find that page!
+page_error404page_tagline === The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+page_error404page_button === Return to Home
+modals_addnewsmssched_tooltip === Add New SMS Schedule
+modals_addnewwasched_tooltip === Add New WhatsApp Schedule
+widgets_viewbank_titlenew === Offline Payment
+modal_paymentbtn_banktransfernew === Offline Payment
+modal_adminsettings_banktransfer1new === Offline Payment Template
+modal_adminsettings_banktransfer2new === If you enabled offline payment, you should create a template for it, this is what the users will see when they clicked the button. You can add the instructions and bank address here. HTML accepted.
+modal_adminsettings_banktransfer3new === Set of variables you can use in the offline payment template.
+modal_adminsettings_systemcurrencynew === System Currency
+modal_adminsettings_offlinepaymenttooltipnew === If enabled, an offline payment button will be included in the payment modal.
+modal_adminsettings_systemcurrencytooltipnew === This is the base currency that will be used by the system in displaying prices, it's also used by the payment plugins as base when USD conversion is enabled.
+plugin_controller_wentwrong === Something went wrong, please try again later.
+plugin_controller_error === Critical plugin error: _8880_
+plugin_page_errortitle === Plugin Error
+plugin_generic_unabletoprocess === We are unable to process your request!
+plugin_generic_wentwrongerr === Something went wrong! Error: _8880_
+table_plugins_name383 === Name
+table_plugins_details383 === Details
+widget_editplugin_nojsonsettings === This plugin doesn't have settings!
+pages_errors_titleuhoh === Uh oh!
+pages_pluginsgeneric_returntodash === Return to Dashboard
+theme_settings_defthemecolortitle === Default Theme Color
+theme_settings_defthemecolortooltip === Select the default color of the theme. Light or dark.
+theme_settings_defthemecolorlight === Light
+theme_settings_defthemecolordark === Dark
+user_settings_defthemecolortitle === Theme Color
+user_settings_defthemecolortooltip === Select the theme color you prefer for the dashboard. Light or dark.
+plugin_paymentpage_processingtitle === Payment Page
+plugin_paymentpage_processingtagline === Please click the button below to proceed with the payment.
+plugin_paymentpage_processingbutton === Pay Now
+plugin_generic_downloadstitle === Plugin Downloads
